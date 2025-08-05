@@ -1,16 +1,10 @@
 defmodule DRLZ.Service do
   require Logger
 
-  def verify(), do: {:ssl, [{:verify, :verify_none}]}
-  def find(id, listOfMaps), do:
-       :lists.flatten(
-       :lists.map(fn x ->
-           case :maps.get("id", x, []) do
-                a when a == id -> x
-                _ -> [] end end, listOfMaps))
-
   @page_bulk 100
   @endpoint (:application.get_env(:mrs, :endpoint, "https://drlz.info/api"))
+
+  def verify(), do: {:ssl, [{:verify, :verify_none}]}
 
   def pages(url) do
       bearer = :application.get_env(:drlz, :bearer, '')
@@ -63,10 +57,6 @@ defmodule DRLZ.Service do
       "#{pk},#{code},#{display},#{man}\n"
   end
 
-  def registry(),      do: reduceGet("/registry/",                        1, 500)
-  def changes(),       do: reduceGet("/registry/changes" ,                1, 500)
-  def sku(),           do: reduceGet("/registry/sku",                     1, 1000)
-  def packages(),      do: reduceGet("/dictionaries/packagetype",         1, 1000)
   def ingredients()   do
       pgs = pages("/fhir/ingredients")
        Enum.each(1..pgs, fn y ->
@@ -77,9 +67,10 @@ defmodule DRLZ.Service do
        end, "", recs)
        writeFile(flat,"ingredients") end)
   end
-  def atc(),           do: reduceGet("/dictionaries/atc_codes",           1, 1000)
-  def manufacturers(), do: reduceGet("/dictionaries/manufacturer",        1, 1000)
-  def authholders(),   do: reduceGet("/dictionaries/authorizationholder", 1, 1000)
+
+  def authorizations(), do: reduceGet("fhir/authorisations", 1, 100)
+  def priceRegistry(),  do: reduceGet("price/medical-product", 1, 100)
+  def priceProzorro(),  do: reduceGet("prozorro/medical-product", 1, 100)
 
 end
 
