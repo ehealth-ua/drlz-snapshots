@@ -2,7 +2,7 @@ defmodule DRLZ.Service do
   require Logger
 
   @page_bulk 100
-  @endpoint (:application.get_env(:mrs, :endpoint, "https://drlz.info/api"))
+  @endpoint (:application.get_env(:drlz, :endpoint, "https://drlz.info/api"))
 
   def verify(), do: {:ssl, [{:verify, :verify_none}]}
 
