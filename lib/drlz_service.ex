@@ -69,7 +69,7 @@ defmodule DRLZ.Service do
   def packages(),      do: reduceGet("/dictionaries/packagetype",         1, 1000)
   def ingredients()   do
       pgs = pages("/fhir/ingredients")
-       Enum.each(1..pgs, fn y ->
+       Enum.each(1022..pgs, fn y ->
        recs = reduceGet("/fhir/ingredients", y, @page_bulk)
        Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
        flat = :lists.foldl(fn x, acc ->

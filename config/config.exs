@@ -2,4 +2,4 @@ import Config
 
 config :drlz,
   load_on_start: false,
-  bearer: 'Bearer xxx'
+  bearer: 'Bearer eH7JS2WYTsNtRTxgUbWxHtaHTKAcWJEyhdaFokatRXdBJQaWQBlJQ33tNCd9IFp6646lRYZ3AzweH-_z8yu08THrXq5t5lKlZgUpRKr85bFxlnawTQRZnyYg1_mXtmS7yJte45SC5HzHo30h-ntW7miD65eHihrPx3Tyw3a6pik'
