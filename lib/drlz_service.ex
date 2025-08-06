@@ -25,7 +25,7 @@ defmodule DRLZ.Service do
       end
   end
 
-  def reduceGet(url, pageRequested, count) do
+  def items(url, pageRequested, count) do
       bearer = :application.get_env(:drlz, :bearer, '')
       accept = 'application/json'
       headers = [{'Authorization',bearer},{'accept',accept}]
@@ -57,10 +57,29 @@ defmodule DRLZ.Service do
       "#{pk},#{code},#{display},#{man}\n"
   end
 
+  def readOrganization(company) do
+      %{"pk" => pk, "name" => name, "identifier" => ident , "type" => [%{"coding" => [%{"code" => type}]}]} = company
+      [%{"display" => disp},%{"code" => code}] = ident
+      "#{pk},#{code},#{disp},#{type},#{name}\n"
+  end
+
+  def readSubstance(molecule) do
+      %{"name" => name, "identifier" => [%{"value" => code}]} = molecule
+      "#{code},#{name}\n"
+  end
+
+  def readProduct(prod) do
+      %{"pk" => pk, "identifier" => ident, "type" => %{"coding" => [%{"code" => code}]}, "name" => names} = prod
+      [%{"value" => license}] = :lists.filter(fn %{"system" => sys} -> sys == "mpid" end, ident)
+      Enum.join(:lists.map(fn x -> %{"productName" => name, "usage" => usage } = x
+           %{"language" => %{"coding" => [%{"display" => country}]}} = hd(usage)
+           "#{pk},#{license},#{code},#{country}-#{name}\n" end, names))
+  end
+
   def ingredients()   do
       pgs = pages("/fhir/ingredients")
        Enum.each(1..pgs, fn y ->
-       recs = reduceGet("/fhir/ingredients", y, @page_bulk)
+       recs = items("/fhir/ingredients", y, @page_bulk)
        Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
        flat = :lists.foldl(fn x, acc ->
          acc <> readIngredient(x)
@@ -68,9 +87,38 @@ defmodule DRLZ.Service do
        writeFile(flat,"ingredients") end)
   end
 
-  def authorizations(), do: reduceGet("fhir/authorisations", 1, 100)
-  def priceRegistry(),  do: reduceGet("price/medical-product", 1, 100)
-  def priceProzorro(),  do: reduceGet("prozorro/medical-product", 1, 100)
+  def organizations() do
+      pgs = pages("/fhir/organization")
+       Enum.each(1..pgs, fn y ->
+       recs = items("/fhir/organization", y, @page_bulk)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readOrganization(x)
+       end, "", recs)
+       writeFile(flat,"organizations") end)
+  end
+
+  def substances() do
+      pgs = pages("/fhir/substance-definitions")
+       Enum.each(1..pgs, fn y ->
+       recs = items("/fhir/substance-definitions", y, @page_bulk)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readSubstance(x)
+       end, "", recs)
+       writeFile(flat,"substances") end)
+  end
+
+  def products() do
+      pgs = pages("/fhir/medicinal-product")
+       Enum.each(156..pgs, fn y ->
+       recs = items("/fhir/medicinal-product", y, @page_bulk)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readProduct(x)
+       end, "", recs)
+       writeFile(flat,"products") end)
+  end
 
 end
 
