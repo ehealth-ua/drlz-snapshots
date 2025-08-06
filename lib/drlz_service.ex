@@ -9,7 +9,7 @@ defmodule DRLZ.Service do
   def pages(url) do
       bearer = :application.get_env(:drlz, :bearer, '')
       accept = 'application/json'
-      headers = [{'Authorization',bearer},{'accept',accept}]
+      headers = [{'Authorization','Bearer ' ++ bearer},{'accept',accept}]
       address = '#{@endpoint}#{url}?page=1&limit=#{@page_bulk}'
       {:ok,{{_,status,_},_headers,body}} =
          :httpc.request(:get, {address, headers},
@@ -28,7 +28,7 @@ defmodule DRLZ.Service do
   def items(url, pageRequested, count) do
       bearer = :application.get_env(:drlz, :bearer, '')
       accept = 'application/json'
-      headers = [{'Authorization',bearer},{'accept',accept}]
+      headers = [{'Authorization','Bearer ' ++ bearer},{'accept',accept}]
       address = '#{@endpoint}#{url}?page=#{pageRequested}&limit=#{count}'
       {:ok,{{_,status,_},_headers,body}} =
          :httpc.request(:get, {address, headers},
@@ -76,6 +76,44 @@ defmodule DRLZ.Service do
            "#{pk},#{license},#{code},#{country}-#{name}\n" end, names))
   end
 
+  def readForm(form) do
+      %{"pk" => pk, "ingredient" => ingredients} = form
+      Enum.join(:lists.map(fn x -> %{"coding" => [%{"display" => display}]} = x
+          "#{pk},#{display}\n" end, ingredients))
+  end
+
+  def readLicense(license) do
+      %{"pk" => pk, "identifier" => %{"identifier" => [%{"value" => value}]}, "subject" => [%{"reference" => ref}],
+        "validityPeriod" => %{"start" => start, "end" => finish}} = license
+      pkg = String.replace(ref,"PackagedProductDefinition","package")
+      pkg = String.replace(pkg,"MedicinalProductDefinition","product")
+      "#{pk},#{value},#{pkg},#{start},#{finish}\n"
+  end
+
+  def unrollPackage([]) do [] end
+  def unrollPackage([pkg]) do unrollPackage(pkg) end
+  def unrollPackage(%{"containedItem" => item, "packaging" => []}) do item end
+  def unrollPackage(%{"packaging" => packaging}) do unrollPackage(hd(packaging)) end
+
+  def readPackage(pkg) do
+      %{"pk" => pk,  "manufacturer" => manu_list, "packageFor" => [%{"reference" => product}], "packaging" => packaging} = pkg
+      manu = case manu_list do
+         [] -> ""
+         mlist ->
+           %{"manufacturer" => %{"reference" => r}} = hd(mlist)
+           r
+      end
+      prod = String.replace(product, "MedicinalProductDefinition", "")
+      man = String.replace(manu, "Organization", "")
+      form = :lists.foldl(fn x,acc ->
+           case unrollPackage(x) do [] -> acc
+                 [item|_] -> %{"item" => %{"reference" => reference}} = item
+                             [_,f] = String.split(reference,"/")
+                             f
+           end end, "", packaging)
+      "#{pk},#{prod},#{form},#{man}\n"
+  end
+
   def ingredients()   do
       pgs = pages("/fhir/ingredients")
        Enum.each(1..pgs, fn y ->
@@ -111,13 +149,46 @@ defmodule DRLZ.Service do
 
   def products() do
       pgs = pages("/fhir/medicinal-product")
-       Enum.each(156..pgs, fn y ->
+       Enum.each(1..pgs, fn y ->
        recs = items("/fhir/medicinal-product", y, @page_bulk)
        Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
        flat = :lists.foldl(fn x, acc ->
          acc <> readProduct(x)
        end, "", recs)
        writeFile(flat,"products") end)
+  end
+
+  def forms() do
+      pgs = pages("/fhir/manufactured-items")
+       Enum.each(1..pgs, fn y ->
+       recs = items("/fhir/manufactured-items", y, 50)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readForm(x)
+       end, "", recs)
+       writeFile(flat,"forms") end)
+  end
+
+  def packages() do
+      pgs = pages("/fhir/package-medicinal-products")
+       Enum.each(75..pgs, fn y ->
+       recs = items("/fhir/package-medicinal-products", y, 20)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readPackage(x)
+       end, "", recs)
+       writeFile(flat,"packages") end)
+  end
+
+  def licenses() do
+      pgs = pages("/fhir/authorisations")
+       Enum.each(1..pgs, fn y ->
+       recs = items("/fhir/authorisations", y, 20)
+       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
+       flat = :lists.foldl(fn x, acc ->
+         acc <> readLicense(x)
+       end, "", recs)
+       writeFile(flat,"licenses") end)
   end
 
 end

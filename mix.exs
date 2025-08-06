@@ -6,7 +6,7 @@ defmodule MRS.Mixfile do
       app: :drlz,
       version: "0.12.0",
       elixir: ">= 1.9.0",
-      description: "DRLZ Medication Registry System",
+      description: "ESOZ DEC DRLZ SYNC",
       package: package(),
       deps: deps()
     ]
@@ -24,7 +24,7 @@ defmodule MRS.Mixfile do
       licenses: ["ISC"],
       maintainers: ["Namdak Tonpa"],
       name: :mrs,
-      links: %{"GitHub" => "https://github.com/erpuno/mrs"}
+      links: %{"GitHub" => "https://github.com/ehealth-ua/drlz"}
     ]
   end
 
