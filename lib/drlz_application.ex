@@ -1,6 +1,7 @@
 defmodule DRLZ do
   use Application
   def start(_, _) do
+      :logger.add_handlers(:drlz)
       children = [ ]
       opts = [strategy: :one_for_one, name: App.Supervisor]
       {:ok, bearer} = :application.get_env(:drlz, :bearer)

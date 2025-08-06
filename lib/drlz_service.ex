@@ -15,12 +15,22 @@ defmodule DRLZ.Service do
   end
 
   def sync_table(folder, api, name, win \\ @page_bulk) do
+      restart = case :file.read_file("priv/#{folder}/#{name}.dow") do
+         {:ok, bin} -> :erlang.binary_to_integer(bin) + 1
+         {:error, _} -> 1
+      end
       pgs = pages(api, win)
-      Enum.each(1..pgs, fn y ->
-        recs = items(api, y, win)
-        Logger.warn("#{name} page: #{y}/#{pgs}/#{length(recs)}")
-        flat = :lists.foldl(fn x, acc -> acc <> xform(name, x) end, "", recs)
-        writeFile(flat,name, folder) end)
+      Enum.each(restart..pgs, fn y ->
+        case items(api, y, win) do
+            recs when is_list(recs) ->
+               Logger.warn("epoc: [#{folder}], table: [#{name}], page: [#{y}], pages: [#{pgs}], window: [#{length(recs)}]")
+               flat = :lists.foldl(fn x, acc -> acc <> xform(name, x) end, "", recs)
+               writeFile(flat, name, folder)
+               :file.write_file("priv/#{folder}/#{name}.dow", Integer.to_string(y), [:raw, :binary])
+            _ -> # call DEC
+               Logger.debug("epoc: [#{folder}], table: [#{name}], page: [#{y}], pages: [#{pgs}], window: N/A")
+        end
+      end)
   end
 
   def xform("ingredients", x)   do readIngredient(x) end
@@ -123,7 +133,6 @@ defmodule DRLZ.Service do
            end end, "", packaging)
       "#{pk},#{prod},#{form},#{man}\n"
   end
-
 
 end
 
