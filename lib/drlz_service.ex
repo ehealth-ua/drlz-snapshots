@@ -4,13 +4,40 @@ defmodule DRLZ.Service do
   @page_bulk 100
   @endpoint (:application.get_env(:drlz, :endpoint, "https://drlz.info/api"))
 
+  def sync(folder \\ DateTime.to_unix DateTime.utc_now) do
+      sync_table(folder, "/fhir/ingredients",                "ingredients")
+      sync_table(folder, "/fhir/package-medicinal-products", "packages")
+      sync_table(folder, "/fhir/medicinal-product",          "products")
+      sync_table(folder, "/fhir/substance-definitions",      "substances")
+      sync_table(folder, "/fhir/authorisations",             "licenses")
+      sync_table(folder, "/fhir/manufactured-items",         "forms")
+      sync_table(folder, "/fhir/organization",               "organizations")
+  end
+
+  def sync_table(folder, api, name, win \\ @page_bulk) do
+      pgs = pages(api, win)
+      Enum.each(1..pgs, fn y ->
+        recs = items(api, y, win)
+        Logger.warn("#{name} page: #{y}/#{pgs}/#{length(recs)}")
+        flat = :lists.foldl(fn x, acc -> acc <> xform(name, x) end, "", recs)
+        writeFile(flat,name, folder) end)
+  end
+
+  def xform("ingredients", x)   do readIngredient(x) end
+  def xform("organizations", x) do readOrganization(x) end
+  def xform("substances", x)    do readSubstance(x) end
+  def xform("products", x)      do readProduct(x) end
+  def xform("forms", x)         do readForm(x) end
+  def xform("licenses", x)      do readLicense(x) end
+  def xform("packages", x)      do readPackage(x) end
+
   def verify(), do: {:ssl, [{:verify, :verify_none}]}
 
-  def pages(url) do
+  def retrive(url, win, page, fun) do
       bearer = :application.get_env(:drlz, :bearer, '')
       accept = 'application/json'
       headers = [{'Authorization','Bearer ' ++ bearer},{'accept',accept}]
-      address = '#{@endpoint}#{url}?page=1&limit=#{@page_bulk}'
+      address = '#{@endpoint}#{url}?page=#{page}&limit=#{win}'
       {:ok,{{_,status,_},_headers,body}} =
          :httpc.request(:get, {address, headers},
            [{:timeout,100000},verify()], [{:body_format,:binary}])
@@ -19,33 +46,16 @@ defmodule DRLZ.Service do
            _ when status >= 500 and status < 600 -> :io.format 'Fatal Error: ~p',              [body] ; 0
            _ when status >= 400 and status < 500 -> :io.format 'Resource not available: ~p',   [address] ; 0
            _ when status >= 300 and status < 400 -> :io.format 'Go away: ~p',                  [body] ; 0
-           _ when status >= 200 and status < 300 ->
-                  res     = :jsone.decode(body)
-                  Map.get(res, "pages", 0)
+           _ when status >= 200 and status < 300 -> fun.(:jsone.decode(body))
       end
   end
 
-  def items(url, pageRequested, count) do
-      bearer = :application.get_env(:drlz, :bearer, '')
-      accept = 'application/json'
-      headers = [{'Authorization','Bearer ' ++ bearer},{'accept',accept}]
-      address = '#{@endpoint}#{url}?page=#{pageRequested}&limit=#{count}'
-      {:ok,{{_,status,_},_headers,body}} =
-         :httpc.request(:get, {address, headers},
-           [{:timeout,100000},verify()], [{:body_format,:binary}])
-      case status do
-           _ when status >= 100 and status < 200 -> :io.format 'WebSockets not supported: ~p', [body] ; []
-           _ when status >= 500 and status < 600 -> :io.format 'Fatal Error: ~p',              [body] ; []
-           _ when status >= 400 and status < 500 -> :io.format 'Resource not available: ~p',   [address] ; []
-           _ when status >= 300 and status < 400 -> :io.format 'Go away: ~p',                  [body] ; []
-           _ when status >= 200 and status < 300 ->
-                  res     = :jsone.decode(body)
-                  Map.get(res, "items", [])
-      end
-  end
+  def pages(url,       win \\ @page_bulk) do retrive(url, win, 1,    fn res -> Map.get(res, "pages", 0)  end) end
+  def items(url, page, win \\ @page_bulk) do retrive(url, win, page, fn res -> Map.get(res, "items", []) end) end
 
-  def writeFile(record, name) do
-      :file.write_file("priv/#{name}.csv", record, [:append, :raw, :binary])
+  def writeFile(record, name, folder) do
+      :filelib.ensure_dir("priv/#{folder}/")
+      :file.write_file("priv/#{folder}/#{name}.csv", record, [:append, :raw, :binary])
       record
   end
 
@@ -104,7 +114,7 @@ defmodule DRLZ.Service do
            r
       end
       prod = String.replace(product, "MedicinalProductDefinition", "")
-      man = String.replace(manu, "Organization", "")
+      man  = String.replace(manu, "Organization", "")
       form = :lists.foldl(fn x,acc ->
            case unrollPackage(x) do [] -> acc
                  [item|_] -> %{"item" => %{"reference" => reference}} = item
@@ -114,82 +124,6 @@ defmodule DRLZ.Service do
       "#{pk},#{prod},#{form},#{man}\n"
   end
 
-  def ingredients()   do
-      pgs = pages("/fhir/ingredients")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/ingredients", y, @page_bulk)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readIngredient(x)
-       end, "", recs)
-       writeFile(flat,"ingredients") end)
-  end
-
-  def organizations() do
-      pgs = pages("/fhir/organization")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/organization", y, @page_bulk)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readOrganization(x)
-       end, "", recs)
-       writeFile(flat,"organizations") end)
-  end
-
-  def substances() do
-      pgs = pages("/fhir/substance-definitions")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/substance-definitions", y, @page_bulk)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readSubstance(x)
-       end, "", recs)
-       writeFile(flat,"substances") end)
-  end
-
-  def products() do
-      pgs = pages("/fhir/medicinal-product")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/medicinal-product", y, @page_bulk)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readProduct(x)
-       end, "", recs)
-       writeFile(flat,"products") end)
-  end
-
-  def forms() do
-      pgs = pages("/fhir/manufactured-items")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/manufactured-items", y, 50)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readForm(x)
-       end, "", recs)
-       writeFile(flat,"forms") end)
-  end
-
-  def packages() do
-      pgs = pages("/fhir/package-medicinal-products")
-       Enum.each(75..pgs, fn y ->
-       recs = items("/fhir/package-medicinal-products", y, 20)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readPackage(x)
-       end, "", recs)
-       writeFile(flat,"packages") end)
-  end
-
-  def licenses() do
-      pgs = pages("/fhir/authorisations")
-       Enum.each(1..pgs, fn y ->
-       recs = items("/fhir/authorisations", y, 20)
-       Logger.warn("Page: #{y}/#{pgs}/#{length(recs)}")
-       flat = :lists.foldl(fn x, acc ->
-         acc <> readLicense(x)
-       end, "", recs)
-       writeFile(flat,"licenses") end)
-  end
 
 end
 
