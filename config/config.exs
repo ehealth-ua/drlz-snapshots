@@ -2,7 +2,7 @@ import Config
 
 config :drlz,
   load_on_start: false,
-  bearer: 'eH7JS2WYTsNtRTxgUbWxHtaHTKAcWJEyhdaFokatRXdBJQaWQBlJQ33tNCd9IFp6646lRYZ3AzweH-_z8yu08THrXq5t5lKlZgUpRKr85bFxlnawTQRZnyYg1_mXtmS7yJte45SC5HzHo30h-ntW7miD65eHihrPx3Tyw3a6pik',
+  bearer: System.get_env("DRLZ"),
   logger_level: :info,
   logger: [{:handler, :default2, :logger_std_h,
             %{level: :debug,

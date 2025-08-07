@@ -27,7 +27,7 @@ defmodule DRLZ.Service do
                flat = :lists.foldl(fn x, acc -> acc <> xform(name, x) end, "", recs)
                writeFile(flat, name, folder)
                :file.write_file("priv/#{folder}/#{name}.dow", Integer.to_string(y), [:raw, :binary])
-            _ -> # call DEC
+            _ ->
                Logger.debug("epoc: [#{folder}], table: [#{name}], page: [#{y}], pages: [#{pgs}], window: N/A")
         end
       end)
@@ -44,7 +44,7 @@ defmodule DRLZ.Service do
   def verify(), do: {:ssl, [{:verify, :verify_none}]}
 
   def retrive(url, win, page, fun) do
-      bearer = :application.get_env(:drlz, :bearer, '')
+      bearer = :erlang.binary_to_list(:application.get_env(:drlz, :bearer, ""))
       accept = 'application/json'
       headers = [{'Authorization','Bearer ' ++ bearer},{'accept',accept}]
       address = '#{@endpoint}#{url}?page=#{page}&limit=#{win}'
