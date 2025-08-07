@@ -216,3 +216,88 @@
 2025-08-07T02:55:43.153940+03:00 <0.261.0>  Supervisor: {<0.261.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.263.0>.
 2025-08-07T02:55:43.216161+03:00 <0.266.0>  Supervisor: {<0.266.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.267.0>.
 2025-08-07T02:55:43.216277+03:00 <0.266.0>  Supervisor: {<0.266.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.268.0>.
+2025-08-07T02:55:52.013860+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [176], pages: [1764], window: [100]
+2025-08-07T02:55:56.790702+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [177], pages: [1764], window: [100]
+2025-08-07T02:56:03.529009+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [178], pages: [1764], window: [100]
+2025-08-07T02:56:10.181291+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [179], pages: [1764], window: [100]
+2025-08-07T02:56:15.616164+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [180], pages: [1764], window: [100]
+2025-08-07T02:56:20.065774+03:00 <0.278.0>  Supervisor: {<0.278.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.279.0>.
+2025-08-07T02:56:20.065938+03:00 <0.278.0>  Supervisor: {<0.278.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.280.0>.
+2025-08-07T02:56:20.088873+03:00 <0.282.0>  Supervisor: {<0.282.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.283.0>.
+2025-08-07T02:56:20.089001+03:00 <0.282.0>  Supervisor: {<0.282.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.284.0>.
+2025-08-07T02:56:24.756935+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [182], pages: [1764], window: [100]
+2025-08-07T02:56:30.310120+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [183], pages: [1764], window: [100]
+2025-08-07T02:56:34.972923+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [184], pages: [1764], window: [100]
+2025-08-07T02:56:40.152816+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [185], pages: [1764], window: [100]
+2025-08-07T02:56:45.063083+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [186], pages: [1764], window: [100]
+2025-08-07T02:56:49.653129+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [187], pages: [1764], window: [100]
+2025-08-07T02:56:55.704320+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [188], pages: [1764], window: [100]
+2025-08-07T02:57:02.613672+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [189], pages: [1764], window: [100]
+2025-08-07T02:57:07.200818+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [190], pages: [1764], window: [100]
+2025-08-07T02:57:12.668234+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [191], pages: [1764], window: [100]
+2025-08-07T02:57:17.074090+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [192], pages: [1764], window: [100]
+2025-08-07T02:57:22.128107+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [193], pages: [1764], window: [100]
+2025-08-07T02:57:26.636188+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [194], pages: [1764], window: [100]
+2025-08-07T02:57:42.724930+03:00 <0.44.0>  Application: drlz. Started at: nonode@nohost.
+2025-08-07T02:57:43.014532+03:00 <0.280.0>  Supervisor: {local,inet_gethost_native_sup}. Started: pid=<0.281.0>,mfa={inet_gethost_native,init,[[]]}.
+2025-08-07T02:57:43.014646+03:00 <0.69.0>  Supervisor: {local,kernel_safe_sup}. Started: id=inet_gethost_native_sup,pid=<0.280.0>.
+2025-08-07T02:57:43.031515+03:00 <0.282.0>  Supervisor: {<0.282.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.283.0>.
+2025-08-07T02:57:43.031671+03:00 <0.282.0>  Supervisor: {<0.282.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.284.0>.
+2025-08-07T02:57:43.093968+03:00 <0.287.0>  Supervisor: {<0.287.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.288.0>.
+2025-08-07T02:57:43.094100+03:00 <0.287.0>  Supervisor: {<0.287.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.289.0>.
+2025-08-07T02:57:52.608727+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [180], pages: [1764], window: [100]
+2025-08-07T02:57:56.907449+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [181], pages: [1764], window: N/A
+2025-08-07T02:57:56.920487+03:00 <0.293.0>  Supervisor: {<0.293.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.294.0>.
+2025-08-07T02:57:56.920678+03:00 <0.293.0>  Supervisor: {<0.293.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.295.0>.
+2025-08-07T02:57:56.950812+03:00 <0.297.0>  Supervisor: {<0.297.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.298.0>.
+2025-08-07T02:57:56.950978+03:00 <0.297.0>  Supervisor: {<0.297.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.299.0>.
+2025-08-07T02:58:01.911345+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [182], pages: [1764], window: [100]
+2025-08-07T02:58:07.376454+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [183], pages: [1764], window: [100]
+2025-08-07T02:58:12.307098+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [184], pages: [1764], window: [100]
+2025-08-07T02:58:17.811896+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [185], pages: [1764], window: [100]
+2025-08-07T02:58:22.908886+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [186], pages: [1764], window: [100]
+2025-08-07T02:58:27.642619+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [187], pages: [1764], window: [100]
+2025-08-07T02:58:33.680107+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [188], pages: [1764], window: [100]
+2025-08-07T02:58:40.917037+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [189], pages: [1764], window: [100]
+2025-08-07T02:58:45.719069+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [190], pages: [1764], window: [100]
+2025-08-07T02:58:50.776470+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [191], pages: [1764], window: [100]
+2025-08-07T02:58:55.333569+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [192], pages: [1764], window: [100]
+2025-08-07T02:59:00.209571+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [193], pages: [1764], window: [100]
+2025-08-07T02:59:04.980131+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [194], pages: [1764], window: [100]
+2025-08-07T02:59:10.551877+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [195], pages: [1764], window: [100]
+2025-08-07T02:59:15.448892+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [196], pages: [1764], window: [100]
+2025-08-07T02:59:20.639628+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [197], pages: [1764], window: [100]
+2025-08-07T02:59:26.431578+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [198], pages: [1764], window: [100]
+2025-08-07T02:59:32.380282+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [199], pages: [1764], window: [100]
+2025-08-07T02:59:37.499442+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [200], pages: [1764], window: [100]
+2025-08-07T02:59:44.299478+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [201], pages: [1764], window: [100]
+2025-08-07T02:59:50.782862+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [202], pages: [1764], window: [100]
+2025-08-07T02:59:57.576446+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [203], pages: [1764], window: [100]
+2025-08-07T03:00:02.612571+03:00 <0.276.0>  epoc: [1754523470], table: [ingredients], page: [204], pages: [1764], window: [100]
+2025-08-07T03:00:19.376446+03:00 <0.44.0>  Application: drlz. Started at: nonode@nohost.
+2025-08-07T03:00:19.776527+03:00 <0.259.0>  Supervisor: {local,inet_gethost_native_sup}. Started: pid=<0.260.0>,mfa={inet_gethost_native,init,[[]]}.
+2025-08-07T03:00:19.776671+03:00 <0.69.0>  Supervisor: {local,kernel_safe_sup}. Started: id=inet_gethost_native_sup,pid=<0.259.0>.
+2025-08-07T03:00:19.887587+03:00 <0.261.0>  Supervisor: {<0.261.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.262.0>.
+2025-08-07T03:00:19.887721+03:00 <0.261.0>  Supervisor: {<0.261.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.263.0>.
+2025-08-07T03:00:19.957542+03:00 <0.266.0>  Supervisor: {<0.266.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.267.0>.
+2025-08-07T03:00:19.957692+03:00 <0.266.0>  Supervisor: {<0.266.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.268.0>.
+2025-08-07T03:00:30.564966+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [235], pages: [1764], window: [100]
+2025-08-07T03:00:36.695360+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [236], pages: [1764], window: [100]
+2025-08-07T03:00:42.351061+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [237], pages: [1764], window: [100]
+2025-08-07T03:00:47.758741+03:00 <0.255.0>  Fatal Error: Traceback (most recent call last):, File "/usr/local/lib/python3.7/site-packages/ninja/operation.py", line 105, in run, return self._result_to_response(request, result, temporal_response), File "/usr/local/lib/python3.7/site-packages/ninja/operation.py", line 202, in _result_to_response, result = response_model.from_orm(resp_object).dict(, File "/usr/local/lib/python3.7/site-packages/ninja/schema.py", line 164, in from_orm, return super().from_orm(obj), File "pydantic/main.py", line 574, in pydantic.main.BaseModel.from_orm, pydantic.error_wrappers.ValidationError: 12 validation errors for NinjaResponseSchema, response -> items -> 47 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 47 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 48 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 48 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 49 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 49 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 50 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 50 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 51 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 51 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 52 -> substance -> strength -> presentationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed), response -> items -> 52 -> substance -> strength -> concentrationRatio -> numerator -> value, none is not an allowed value (type=type_error.none.not_allowed)
+2025-08-07T03:00:47.760934+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [238], pages: [1764], window: N/A
+2025-08-07T03:00:47.771491+03:00 <0.275.0>  Supervisor: {<0.275.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.276.0>.
+2025-08-07T03:00:47.771649+03:00 <0.275.0>  Supervisor: {<0.275.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.277.0>.
+2025-08-07T03:00:47.797749+03:00 <0.279.0>  Supervisor: {<0.279.0>,tls_dyn_connection_sup}. Started: id=sender,pid=<0.280.0>.
+2025-08-07T03:00:47.797901+03:00 <0.279.0>  Supervisor: {<0.279.0>,tls_dyn_connection_sup}. Started: id=receiver,pid=<0.281.0>.
+2025-08-07T03:00:53.255490+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [239], pages: [1764], window: [100]
+2025-08-07T03:00:58.379834+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [240], pages: [1764], window: [100]
+2025-08-07T03:01:05.645450+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [241], pages: [1764], window: [100]
+2025-08-07T03:01:10.508515+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [242], pages: [1764], window: [100]
+2025-08-07T03:01:15.621380+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [243], pages: [1764], window: [100]
+2025-08-07T03:01:23.504742+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [244], pages: [1764], window: [100]
+2025-08-07T03:01:28.354551+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [245], pages: [1764], window: [100]
+2025-08-07T03:01:33.382675+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [246], pages: [1764], window: [100]
+2025-08-07T03:01:38.866981+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [247], pages: [1764], window: [100]
+2025-08-07T03:01:44.489353+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [248], pages: [1764], window: [100]
+2025-08-07T03:01:50.054089+03:00 <0.255.0>  epoc: [1754523470], table: [ingredients], page: [249], pages: [1764], window: [100]
