@@ -1,0 +1,780 @@
+1,ua_33_1,2.0,Гранули в подвійній тубі,4,PharmaceuticalDoseForm
+2,ua_33_2,2.0,Оромукозний мішечок,1,PharmaceuticalDoseForm
+3,ua_33_3,2.0,Краплі нашкірні/вушні суспензія,3,PharmaceuticalDoseForm
+4,ua_33_4,2.0,Ліофілізат для застосування в питній воді,1,PharmaceuticalDoseForm
+5,ua_33_5,2.0,Екстракорпоральний розчин,5,PharmaceuticalDoseForm
+6,ua_33_6,2.0,Ліофілізат для суспензії для введення спрею,4,PharmaceuticalDoseForm
+7,ua_33_7,2.0,Порошок для суспензії для інфузії,3,PharmaceuticalDoseForm
+8,ua_33_8,2.0,Ендотрахеопульмональна інстиляція,3,PharmaceuticalDoseForm
+9,ua_33_9,2.0,Піна,3,PharmaceuticalDoseForm
+10,ua_33_10,2.0,Порошок для суспензії,3,PharmaceuticalDoseForm
+11,ua_33_11,2.0,Порошок для суспензії для розчину,3,PharmaceuticalDoseForm
+12,ua_33_12,2.0,Розчин для зовнішнього застосування,3,PharmaceuticalDoseForm
+13,ua_33_13,2.0,Стерильний концентрат,3,PharmaceuticalDoseForm
+14,ua_33_14,2.0,Спрей для вух,3,PharmaceuticalDoseForm
+15,ua_33_15,2.0,Порошок для розчину,3,PharmaceuticalDoseForm
+16,ua_33_16,2.0,Олія,3,PharmaceuticalDoseForm
+17,ua_33_17,2.0,Герметизуючий порошок,1,PharmaceuticalDoseForm
+18,ua_33_18,2.0,Просочений тампон для обробки шкіри,1,PharmaceuticalDoseForm
+19,ua_33_19,2.0,Песарій пролонгованої дії,1,PharmaceuticalDoseForm
+20,ua_33_20,2.0,Концентрат для розчину для внутрішньоочного промивання,1,PharmaceuticalDoseForm
+21,ua_33_21,2.0,Порошок для розчину для лікування риб,1,PharmaceuticalDoseForm
+22,ua_33_22,2.0,Ліофілізат для пероральної суспензії,1,PharmaceuticalDoseForm
+23,ua_33_23,2.0,Розчин для використання в питній воді/молоці,1,PharmaceuticalDoseForm
+24,ua_33_24,2.0,Інтрамаммарний гель,1,PharmaceuticalDoseForm
+25,ua_33_25,2.0,Розчин для ін’єкцій пролонгованої дії,1,PharmaceuticalDoseForm
+26,ua_33_26,2.0,Уретральна емульсія,1,PharmaceuticalDoseForm
+27,ua_33_27,2.0,Розчин і порошок для розчину,4,PharmaceuticalDoseForm
+28,ua_33_28,2.0,Дисперсія для бджолиних вуликів,1,PharmaceuticalDoseForm
+29,ua_33_29,2.0,Крупнодисперсний спрей,4,PharmaceuticalDoseForm
+30,ua_33_30,2.0,Оральний спрей, суспензія,1,PharmaceuticalDoseForm
+31,ua_33_31,2.0,Концентрат для концентрату для перорального спрею, суспензії,1,PharmaceuticalDoseForm
+32,ua_33_32,2.0,Оромукозна плівка,1,PharmaceuticalDoseForm
+33,ua_33_33,2.0,Лікарська форма не застосовується,1,PharmaceuticalDoseForm
+34,ua_33_34,2.0,Дисперговані таблетки для дозатора,1,PharmaceuticalDoseForm
+35,ua_33_35,2.0,Порошок для суспензії для ін’єкції пролонгованої дії,1,PharmaceuticalDoseForm
+36,ua_33_36,2.0,Ларингофарингеальний спрей, розчин,1,PharmaceuticalDoseForm
+37,ua_33_37,2.0,Матриця для імплантації матриці,1,PharmaceuticalDoseForm
+38,ua_33_38,2.0,Краплі назальні, ліофілізат для суспензії,1,PharmaceuticalDoseForm
+39,ua_33_39,2.0,Краплі назальні, порошок для приготування розчину,1,PharmaceuticalDoseForm
+40,ua_33_40,2.0,Порошок для гелю,1,PharmaceuticalDoseForm
+41,ua_33_41,2.0,Порошок для стоматологічного гелю,1,PharmaceuticalDoseForm
+42,ua_33_42,2.0,Порошок для дисперсії для ін'єкції,1,PharmaceuticalDoseForm
+43,ua_33_43,2.0,Порошок для ендоцервікального гелю,1,PharmaceuticalDoseForm
+44,ua_33_44,2.0,Порошок для ендосінусового розчину,1,PharmaceuticalDoseForm
+45,ua_33_45,2.0,Порошок для розчину для внутрішньоочної інстиляції,1,PharmaceuticalDoseForm
+46,ua_33_46,2.0,Концентрат для концентрату для розчину для інфузії,1,PharmaceuticalDoseForm
+47,ua_33_47,2.0,Концентрат для розчину для небулайзера,1,PharmaceuticalDoseForm
+48,ua_33_48,2.0,Концентрат для оромукозного розчину,1,PharmaceuticalDoseForm
+49,ua_33_49,2.0,Концентрат для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+50,ua_33_50,2.0,Дисперсія для концентрату для дисперсії для інфузії,1,PharmaceuticalDoseForm
+51,ua_33_51,2.0,Краплі вушні, порошок для суспензії,1,PharmaceuticalDoseForm
+52,ua_33_52,2.0,Шипучі гранули для суспензії для перорального застосування,1,PharmaceuticalDoseForm
+53,ua_33_53,2.0,Емульсія для емульсії для ін'єкції,1,PharmaceuticalDoseForm
+54,ua_33_54,2.0,Ендотрахеопульмональні інстиляції, порошок для суспензії,1,PharmaceuticalDoseForm
+55,ua_33_55,2.0,Очні краплі, порошок для розчину,1,PharmaceuticalDoseForm
+56,ua_33_56,2.0,Очні краплі, порошок для суспензії,1,PharmaceuticalDoseForm
+57,ua_33_57,2.0,Газ для дисперсії для інфузії,1,PharmaceuticalDoseForm
+58,ua_33_58,2.0,Газ для дисперсії для ін'єкції,1,PharmaceuticalDoseForm
+59,ua_33_59,2.0,Гель для гелю,1,PharmaceuticalDoseForm
+60,ua_33_60,2.0,Гранули для ректальної суспензії,1,PharmaceuticalDoseForm
+61,ua_33_61,2.0,Ларингофарингеальний розчин,1,PharmaceuticalDoseForm
+62,ua_33_62,2.0,Порошок для гелю для ясен,1,PharmaceuticalDoseForm
+63,ua_33_63,2.0,Порошок для імплантаційної матриці,1,PharmaceuticalDoseForm
+64,ua_33_64,2.0,Порошок для імплантаційної пасти,1,PharmaceuticalDoseForm
+65,ua_33_65,2.0,Розчинник для…,1,PharmaceuticalDoseForm
+66,ua_33_66,2.0,Суспензія для емульсії для ін'єкції,1,PharmaceuticalDoseForm
+67,ua_33_67,2.0,Суспензія для пероральної суспензії,1,PharmaceuticalDoseForm
+68,ua_33_68,2.0,Суспензія для спрею,5,PharmaceuticalDoseForm
+69,ua_33_69,2.0,Суспензія для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+70,ua_33_70,2.0,Порошок для емульсії для ін'єкції,1,PharmaceuticalDoseForm
+71,ua_33_71,2.0,Ендосинузіальний розчин,1,PharmaceuticalDoseForm
+72,ua_33_72,2.0,Епілезійний розчин,1,PharmaceuticalDoseForm
+73,ua_33_73,2.0,Паста для імплантації,1,PharmaceuticalDoseForm
+74,ua_33_74,2.0,Розчин для внутрішньоочних інстиляцій,1,PharmaceuticalDoseForm
+75,ua_33_75,2.0,Інтравезикальна суспензія,1,PharmaceuticalDoseForm
+76,ua_33_76,2.0,Газ для дисперсії для ін'єкції/інфузії,1,PharmaceuticalDoseForm
+77,ua_33_77,2.0,Порошок для герметика,1,PharmaceuticalDoseForm
+78,ua_33_78,2.0,Порошок для розчину для шкірного прик-тесту,1,PharmaceuticalDoseForm
+79,ua_33_79,2.0,Розчин для розчину для ін'єкції,1,PharmaceuticalDoseForm
+80,ua_33_80,2.0,Розчин для спрею,5,PharmaceuticalDoseForm
+81,ua_33_81,2.0,Гранули з покриттям,1,PharmaceuticalDoseForm
+82,ua_33_82,2.0,Розчин для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+83,ua_33_83,2.0,Гранули для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+84,ua_33_84,2.0,Дисперсія для ін'єкції/інфузії,1,PharmaceuticalDoseForm
+85,ua_33_85,2.0,Розчин для вуликів,1,PharmaceuticalDoseForm
+86,ua_33_86,2.0,Розчин для ін'єкції/шкірного прик-тесту,1,PharmaceuticalDoseForm
+87,ua_33_87,2.0,Порошок для розчину для ін'єкції/шкірного прик-тесту,1,PharmaceuticalDoseForm
+88,ua_33_88,2.0,Розчин для стріпа для бджолиного вулика,1,PharmaceuticalDoseForm
+89,ua_33_89,2.0,Каплет,4,PharmaceuticalDoseForm
+90,ua_33_90,2.0,Розчин для розчину для інфузії,1,PharmaceuticalDoseForm
+91,ua_33_91,2.0,Таблетка для нашкірного розчину,1,PharmaceuticalDoseForm
+92,ua_33_92,2.0,Порошок для розчину для бджолиного вулика,1,PharmaceuticalDoseForm
+93,ua_33_93,2.0,Розчин для розчину для бджолиного вулика,1,PharmaceuticalDoseForm
+94,ua_33_94,2.0,Розчин для внутрішньоочного промивання,1,PharmaceuticalDoseForm
+95,ua_33_95,2.0,Інгаляція під тиском, газ,4,PharmaceuticalDoseForm
+96,ua_33_96,2.0,Матриця герметика,1,PharmaceuticalDoseForm
+97,ua_33_97,2.0,Аерозоль, піна,3,PharmaceuticalDoseForm
+98,ua_33_98,2.0,Жувальний батончик,3,PharmaceuticalDoseForm
+99,ua_33_99,2.0,Ланцюг,3,PharmaceuticalDoseForm
+100,ua_33_100,2.0,Аерозоль, спрей,3,PharmaceuticalDoseForm
+101,ua_33_101,2.0,Окулоназальна суспензія,1,PharmaceuticalDoseForm
+102,ua_33_102,2.0,Ліофілізат для перорального спрею, суспензії,1,PharmaceuticalDoseForm
+103,ua_33_103,2.0,Ліофілізат для приготування суспензії для вакцинації спреєм,3,PharmaceuticalDoseForm
+104,ua_33_104,2.0,Емульсія для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+105,ua_33_105,2.0,Блок,3,PharmaceuticalDoseForm
+106,ua_33_106,2.0,Капсула, вкрита оболонкою,3,PharmaceuticalDoseForm
+107,ua_33_107,2.0,Капсула, пелети вкриті оболонкою,3,PharmaceuticalDoseForm
+108,ua_33_108,2.0,Капсула, вкрита желатиновою оболонкою,3,PharmaceuticalDoseForm
+109,ua_33_109,2.0,Капсула, заповнена рідиною,3,PharmaceuticalDoseForm
+110,ua_33_110,2.0,Сигарета,3,PharmaceuticalDoseForm
+111,ua_33_111,2.0,Концентрат,3,PharmaceuticalDoseForm
+112,ua_33_112,2.0,Культура,3,PharmaceuticalDoseForm
+113,ua_33_113,2.0,Діафрагма,3,PharmaceuticalDoseForm
+114,ua_33_114,2.0,Екстракт,3,PharmaceuticalDoseForm
+115,ua_33_115,2.0,Газ,3,PharmaceuticalDoseForm
+116,ua_33_116,2.0,Гранули для суспензії,3,PharmaceuticalDoseForm
+117,ua_33_117,2.0,Ін'єкційний, ліпосомальний,3,PharmaceuticalDoseForm
+118,ua_33_118,2.0,Кристал,3,PharmaceuticalDoseForm
+119,ua_33_119,2.0,Диск,3,PharmaceuticalDoseForm
+120,ua_33_120,2.0,Спринцівка,3,PharmaceuticalDoseForm
+121,ua_33_121,2.0,Система доставки ліків,3,PharmaceuticalDoseForm
+122,ua_33_122,2.0,Еліксир,3,PharmaceuticalDoseForm
+123,ua_33_123,2.0,Емульсія,3,PharmaceuticalDoseForm
+124,ua_33_124,2.0,Плівка,3,PharmaceuticalDoseForm
+125,ua_33_125,2.0,Гранули для розчину,3,PharmaceuticalDoseForm
+126,ua_33_126,2.0,Гумка,3,PharmaceuticalDoseForm
+127,ua_33_127,2.0,Набір,3,PharmaceuticalDoseForm
+128,ua_33_128,2.0,Рідина з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+129,ua_33_129,2.0,Пластир з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+130,ua_33_130,2.0,Ополіскувач,3,PharmaceuticalDoseForm
+131,ua_33_131,2.0,Гелеутворюючий розчин,3,PharmaceuticalDoseForm
+132,ua_33_132,2.0,Смужка для бджолиного вулика,3,PharmaceuticalDoseForm
+133,ua_33_133,2.0,Суспензія з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+134,ua_33_134,2.0,Таблетка для розчину,3,PharmaceuticalDoseForm
+135,ua_33_135,2.0,Таблетка для суспензії,3,PharmaceuticalDoseForm
+136,ua_33_136,2.0,Мітка,3,PharmaceuticalDoseForm
+137,ua_33_137,2.0,Тампон,3,PharmaceuticalDoseForm
+138,ua_33_138,2.0,Стрічка,3,PharmaceuticalDoseForm
+139,ua_33_139,2.0,Вкладка,3,PharmaceuticalDoseForm
+140,ua_33_140,2.0,Вкладка пролонгованої дії,3,PharmaceuticalDoseForm
+141,ua_33_141,2.0,Помада,3,PharmaceuticalDoseForm
+142,ua_33_142,2.0,Упаковка,3,PharmaceuticalDoseForm
+143,ua_33_143,2.0,Паста,3,PharmaceuticalDoseForm
+144,ua_33_144,2.0,Пластир,3,PharmaceuticalDoseForm
+145,ua_33_145,2.0,Пелети з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+146,ua_33_146,2.0,Пластир,3,PharmaceuticalDoseForm
+147,ua_33_147,2.0,Порошок,3,PharmaceuticalDoseForm
+148,ua_33_148,2.0,Кільце,3,PharmaceuticalDoseForm
+149,ua_33_149,2.0,Мило,3,PharmaceuticalDoseForm
+150,ua_33_150,2.0,Стік,3,PharmaceuticalDoseForm
+151,ua_33_151,2.0,Супозиторій пролонгованої дії,3,PharmaceuticalDoseForm
+152,ua_33_152,2.0,Шовний матеріал,3,PharmaceuticalDoseForm
+153,ua_33_153,2.0,Настоянка,3,PharmaceuticalDoseForm
+154,ua_33_154,2.0,Пастилка,3,PharmaceuticalDoseForm
+155,ua_33_155,2.0,Не визначено,1,PharmaceuticalDoseForm
+156,ua_33_156,2.0,Вафля,3,PharmaceuticalDoseForm
+157,ua_33_157,2.0,Гранули, вкриті плівковою оболонкою,1,PharmaceuticalDoseForm
+158,ua_33_158,2.0,Концентрат для емульсії для ін'єкції,1,PharmaceuticalDoseForm
+159,ua_33_159,2.0,Пероральний рослинний матеріал,1,PharmaceuticalDoseForm
+160,ua_33_160,2.0,Шипучі таблетки для суспензії для небулайзера,4,PharmaceuticalDoseForm
+161,ua_33_161,2.0,Розчин для кардіоплегії/органозбереження,1,PharmaceuticalDoseForm
+162,ua_33_162,2.0,Вагінальна рідина,3,PharmaceuticalDoseForm
+163,ua_33_163,2.0,Розведення у рідині,3,PharmaceuticalDoseForm
+164,ua_33_164,2.0,Очні краплі, розчин з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+165,ua_33_165,2.0,Шипучі таблетки для окулоназальної суспензії,1,PharmaceuticalDoseForm
+166,ua_33_166,2.0,Назальний спрей, ліофілізат для суспензії,1,PharmaceuticalDoseForm
+167,ua_33_167,2.0,Ліофілізат для окулоназальної суспензії/застосування в питній воді,1,PharmaceuticalDoseForm
+168,ua_33_168,2.0,Гранули для застосування в питній воді/молоці,1,PharmaceuticalDoseForm
+169,ua_33_169,2.0,Жувальні таблетки з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+170,ua_33_170,2.0,Мукозний спрей, розчин,4,PharmaceuticalDoseForm
+171,ua_33_171,2.0,Концентрат для нашкірної емульсії,1,PharmaceuticalDoseForm
+172,ua_33_172,2.0,порошок для пероральної суспензії з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+173,ua_33_173,2.0,Суспензія для гелю,1,PharmaceuticalDoseForm
+174,ua_33_174,2.0,Порошок для розчину для провокаційного тесту,1,PharmaceuticalDoseForm
+175,ua_33_175,2.0,Пелети,3,PharmaceuticalDoseForm
+176,ua_33_176,2.0,Порошок для вагінального розчину,1,PharmaceuticalDoseForm
+177,ua_33_177,2.0,Шипуча таблетка для суспензії,5,PharmaceuticalDoseForm
+178,ua_33_178,2.0,Імплантаційний гель,1,PharmaceuticalDoseForm
+179,ua_33_179,2.0,Дисперсія для імплантаційного гелю,1,PharmaceuticalDoseForm
+180,ua_33_180,2.0,Розчин для імплантаційного гелю,1,PharmaceuticalDoseForm
+181,ua_33_181,2.0,Гастрорезистентні гранули з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+182,ua_33_182,2.0,Внутрішньоматковий гель,1,PharmaceuticalDoseForm
+183,ua_33_183,2.0,Небулайзерна дисперсія,1,PharmaceuticalDoseForm
+184,ua_33_184,2.0,Ліофілізат для суспензії для спрею,3,PharmaceuticalDoseForm
+185,ua_33_185,2.0,Гранули в капсулах для відкриття,3,PharmaceuticalDoseForm
+186,ua_33_186,2.0,Таблетка із сенсором,1,PharmaceuticalDoseForm
+187,ua_33_187,2.0,Лікарські личинки,1,PharmaceuticalDoseForm
+188,ua_33_188,2.0,Лікарська п'явка,1,PharmaceuticalDoseForm
+189,ua_33_189,2.0,Ліофілізат для емульсії для ін'єкцій,1,PharmaceuticalDoseForm
+190,ua_33_190,2.0,Порошок і розчин для суспензії для ін'єкцій,4,PharmaceuticalDoseForm
+191,ua_33_191,2.0,Уретральна мазь,1,PharmaceuticalDoseForm
+192,ua_33_192,2.0,Розчин для ран з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+193,ua_33_193,2.0,Дисперсія для ін’єкцій з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+194,ua_33_194,2.0,Трансдермальна мазь,1,PharmaceuticalDoseForm
+195,ua_33_195,2.0,Сублінгвальний ліофілізат,1,PharmaceuticalDoseForm
+196,ua_33_196,2.0,Розчинник для суспензії для ін'єкцій,4,PharmaceuticalDoseForm
+197,ua_33_197,2.0,Розчинник для розчину для ін'єкцій,4,PharmaceuticalDoseForm
+198,ua_33_198,2.0,Гастрорезистентний порошок для пероральної суспензії,3,PharmaceuticalDoseForm
+199,ua_33_199,2.0,розчин з пролонгованим вивільненням для інстиляцій,4,PharmaceuticalDoseForm
+200,ua_33_200,2.0,Гастрорезистентна пероральна суспензія,1,PharmaceuticalDoseForm
+201,ua_33_201,2.0,Пероральна суспензія з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+202,ua_33_202,2.0,Пероральна суспензія з модифікованим вивільненням,1,PharmaceuticalDoseForm
+203,ua_33_203,2.0,Порошок для дисперсії для бджолиних вуликів,1,PharmaceuticalDoseForm
+204,ua_33_204,2.0,Розчин для дисперсії для бджолиних вуликів,1,PharmaceuticalDoseForm
+205,ua_33_205,2.0,Пероральна суспензія,1,PharmaceuticalDoseForm
+206,ua_33_206,2.0,Пероральний гель,1,PharmaceuticalDoseForm
+207,ua_33_207,2.0,Порошок для перорального розчину,1,PharmaceuticalDoseForm
+208,ua_33_208,2.0,Гранули для перорального розчину,1,PharmaceuticalDoseForm
+209,ua_33_209,2.0,Ліофілізат для суспензії,3,PharmaceuticalDoseForm
+210,ua_33_210,2.0,Порошок для сиропу,1,PharmaceuticalDoseForm
+211,ua_33_211,2.0,Розчинна таблетка,1,PharmaceuticalDoseForm
+212,ua_33_212,2.0,Трав'яний чай,1,PharmaceuticalDoseForm
+213,ua_33_213,2.0,Розчинний трав'яний чай,1,PharmaceuticalDoseForm
+214,ua_33_214,2.0,Гранули,1,PharmaceuticalDoseForm
+215,ua_33_215,2.0,Гастрорезистентні гранули,1,PharmaceuticalDoseForm
+216,ua_33_216,2.0,Гранули з модифікованим вивільненням,1,PharmaceuticalDoseForm
+217,ua_33_217,2.0,Капсула, тверда,1,PharmaceuticalDoseForm
+218,ua_33_218,2.0,Гастрорезистентна капсула, тверда,1,PharmaceuticalDoseForm
+219,ua_33_219,2.0,Жувальна капсула, м'яка,1,PharmaceuticalDoseForm
+220,ua_33_220,2.0,Капсула з пролонгованим вивільненням, м’яка,1,PharmaceuticalDoseForm
+221,ua_33_221,2.0,Капсула з модифікованим вивільненням, м’яка,1,PharmaceuticalDoseForm
+222,ua_33_222,2.0,Таблетка, вкрита оболонкою,1,PharmaceuticalDoseForm
+223,ua_33_223,2.0,Пероральні краплі, розчин,1,PharmaceuticalDoseForm
+224,ua_33_224,2.0,Пероральні краплі, суспензія,1,PharmaceuticalDoseForm
+225,ua_33_225,2.0,Пероральні краплі, емульсія,1,PharmaceuticalDoseForm
+226,ua_33_226,2.0,Пероральна рідина,1,PharmaceuticalDoseForm
+227,ua_33_227,2.0,Пероральний розчин,1,PharmaceuticalDoseForm
+228,ua_33_228,2.0,Пероральна емульсія,1,PharmaceuticalDoseForm
+229,ua_33_229,2.0,Пероральна паста,1,PharmaceuticalDoseForm
+230,ua_33_230,2.0,Порошок для пероральної суспензії,1,PharmaceuticalDoseForm
+231,ua_33_231,2.0,Гранули для пероральної суспензії,1,PharmaceuticalDoseForm
+232,ua_33_232,2.0,Сироп,1,PharmaceuticalDoseForm
+233,ua_33_233,2.0,Гранули для сиропу,1,PharmaceuticalDoseForm
+234,ua_33_234,2.0,Таблетка, що диспергується,1,PharmaceuticalDoseForm
+235,ua_33_235,2.0,Пероральний порошок,1,PharmaceuticalDoseForm
+236,ua_33_236,2.0,Шипучий порошок,1,PharmaceuticalDoseForm
+237,ua_33_237,2.0,Шипучі гранули,1,PharmaceuticalDoseForm
+238,ua_33_238,2.0,Гранули з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+239,ua_33_239,2.0,Облатка,1,PharmaceuticalDoseForm
+240,ua_33_240,2.0,Капсула, м'яка,1,PharmaceuticalDoseForm
+241,ua_33_241,2.0,Гастрорезистентна капсула, м'яка,1,PharmaceuticalDoseForm
+242,ua_33_242,2.0,Капсула з пролонгованим вивільненням, тверда,1,PharmaceuticalDoseForm
+243,ua_33_243,2.0,Капсула з модифікованим вивільненням, тверда,1,PharmaceuticalDoseForm
+244,ua_33_244,2.0,Таблетка,1,PharmaceuticalDoseForm
+245,ua_33_245,2.0,Таблетка, вкрита плівковою оболонкою,1,PharmaceuticalDoseForm
+246,ua_33_246,2.0,Таблетка, що диспергується в ротовій порожнині,1,PharmaceuticalDoseForm
+247,ua_33_247,2.0,Гастрорезистентна таблетка,1,PharmaceuticalDoseForm
+248,ua_33_248,2.0,Таблетка з модифікованим вивільненням,1,PharmaceuticalDoseForm
+249,ua_33_249,2.0,Лікувальна жувальна гумка,1,PharmaceuticalDoseForm
+250,ua_33_250,2.0,Пігулки,1,PharmaceuticalDoseForm
+251,ua_33_251,2.0,Інтрарумінальний пристрій з пульсуючим вивільненням,1,PharmaceuticalDoseForm
+252,ua_33_252,2.0,Премікс для лікувальних кормів,1,PharmaceuticalDoseForm
+253,ua_33_253,2.0,Ополіскувач для ротової порожнини та горла,1,PharmaceuticalDoseForm
+254,ua_33_254,2.0,Ополіскувач для ротової порожнини та горла, порошок для розчину,1,PharmaceuticalDoseForm
+255,ua_33_255,2.0,Оромукозна суспензія,1,PharmaceuticalDoseForm
+256,ua_33_256,2.0,Оромукозний спрей,3,PharmaceuticalDoseForm
+257,ua_33_257,2.0,Ополіскувач для ротової порожнини,1,PharmaceuticalDoseForm
+258,ua_33_258,2.0,Гінгівальний розчин,1,PharmaceuticalDoseForm
+259,ua_33_259,2.0,Оромукозна паста,1,PharmaceuticalDoseForm
+260,ua_33_260,2.0,Гінгівальний гель,1,PharmaceuticalDoseForm
+261,ua_33_261,2.0,Шипуча таблетка,1,PharmaceuticalDoseForm
+262,ua_33_262,2.0,Пероральний ліофілізат,1,PharmaceuticalDoseForm
+263,ua_33_263,2.0,Таблетка з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+264,ua_33_264,2.0,Жувальна таблетка,1,PharmaceuticalDoseForm
+265,ua_33_265,2.0,Пероральна гумка,1,PharmaceuticalDoseForm
+266,ua_33_266,2.0,Інтрарумінальний пристрій з безперервним вивільненням,1,PharmaceuticalDoseForm
+267,ua_33_267,2.0,Блок для облизування,1,PharmaceuticalDoseForm
+268,ua_33_268,2.0,Лікувальні пелети,1,PharmaceuticalDoseForm
+269,ua_33_269,2.0,Концентрат для ополіскувача для ротової порожнини та горла,1,PharmaceuticalDoseForm
+270,ua_33_270,2.0,Ополіскувач для ротової порожнини та горла, таблетка для розчину,1,PharmaceuticalDoseForm
+271,ua_33_271,2.0,Оромукозний розчин,1,PharmaceuticalDoseForm
+272,ua_33_272,2.0,Оромукозні краплі,3,PharmaceuticalDoseForm
+273,ua_33_273,2.0,Сублінгвальний спрей,3,PharmaceuticalDoseForm
+274,ua_33_274,2.0,Ополіскувач для ротової порожнини, таблетка для розчину,1,PharmaceuticalDoseForm
+275,ua_33_275,2.0,Оромукозний гель,1,PharmaceuticalDoseForm
+276,ua_33_276,2.0,Оромукозний крем,1,PharmaceuticalDoseForm
+277,ua_33_277,2.0,Гінгівальна паста,1,PharmaceuticalDoseForm
+278,ua_33_278,2.0,Сублінгвальна таблетка,1,PharmaceuticalDoseForm
+279,ua_33_279,2.0,Букальна таблетка,1,PharmaceuticalDoseForm
+280,ua_33_280,2.0,Пресований льодяник,1,PharmaceuticalDoseForm
+281,ua_33_281,2.0,Оромукозна капсула,1,PharmaceuticalDoseForm
+282,ua_33_282,2.0,Мукоадгезивна букальна таблетка,1,PharmaceuticalDoseForm
+283,ua_33_283,2.0,Льодяник,1,PharmaceuticalDoseForm
+284,ua_33_284,2.0,Пастилка,1,PharmaceuticalDoseForm
+285,ua_33_285,2.0,Зубний гель,1,PharmaceuticalDoseForm
+286,ua_33_286,2.0,Зубна вкладка,3,PharmaceuticalDoseForm
+287,ua_33_287,2.0,Зубний порошок,1,PharmaceuticalDoseForm
+288,ua_33_288,2.0,Стоматологічна суспензія,1,PharmaceuticalDoseForm
+289,ua_33_289,2.0,Зубна паста,1,PharmaceuticalDoseForm
+290,ua_33_290,2.0,Періодонтальний гель,1,PharmaceuticalDoseForm
+291,ua_33_291,2.0,Добавка до ванни,1,PharmaceuticalDoseForm
+292,ua_33_292,2.0,Крем,1,PharmaceuticalDoseForm
+293,ua_33_293,2.0,Мазь,1,PharmaceuticalDoseForm
+294,ua_33_294,2.0,Лікувальний пластир,1,PharmaceuticalDoseForm
+295,ua_33_295,2.0,Шампунь,1,PharmaceuticalDoseForm
+296,ua_33_296,2.0,Нашкірний спрей, суспензія,1,PharmaceuticalDoseForm
+297,ua_33_297,2.0,Нашкірна рідина,1,PharmaceuticalDoseForm
+298,ua_33_298,2.0,Концентрат для нашкірного розчину,1,PharmaceuticalDoseForm
+299,ua_33_299,2.0,Нашкірна емульсія,1,PharmaceuticalDoseForm
+300,ua_33_300,2.0,Нашкірний пластир,1,PharmaceuticalDoseForm
+301,ua_33_301,2.0,Періодонтальний порошок,1,PharmaceuticalDoseForm
+302,ua_33_302,2.0,Зубна паличка,1,PharmaceuticalDoseForm
+303,ua_33_303,2.0,Зубний розчин,1,PharmaceuticalDoseForm
+304,ua_33_304,2.0,Зубна емульсія,1,PharmaceuticalDoseForm
+305,ua_33_305,2.0,Періодонтальна вкладка,1,PharmaceuticalDoseForm
+306,ua_33_306,2.0,Гель,1,PharmaceuticalDoseForm
+307,ua_33_307,2.0,Нашкірна паста,1,PharmaceuticalDoseForm
+308,ua_33_308,2.0,Нашкірна піна,1,PharmaceuticalDoseForm
+309,ua_33_309,2.0,Нашкірний спрей, розчин,1,PharmaceuticalDoseForm
+310,ua_33_310,2.0,Нашкірний спрей, порошок,1,PharmaceuticalDoseForm
+311,ua_33_311,2.0,Нашкірний розчин,1,PharmaceuticalDoseForm
+312,ua_33_312,2.0,Нашкірна суспензія,1,PharmaceuticalDoseForm
+313,ua_33_313,2.0,Нашкірний порошок,1,PharmaceuticalDoseForm
+314,ua_33_314,2.0,Розчин для іонофорезу,1,PharmaceuticalDoseForm
+315,ua_33_315,2.0,Колодій,1,PharmaceuticalDoseForm
+316,ua_33_316,2.0,Припарка,1,PharmaceuticalDoseForm
+317,ua_33_317,2.0,Нашкірна губка,3,PharmaceuticalDoseForm
+318,ua_33_318,2.0,Нашийник,3,PharmaceuticalDoseForm
+319,ua_33_319,2.0,Вушна бирка,1,PharmaceuticalDoseForm
+320,ua_33_320,2.0,Суспензія для занурення,1,PharmaceuticalDoseForm
+321,ua_33_321,2.0,Трансдермальний пластир,1,PharmaceuticalDoseForm
+322,ua_33_322,2.0,Лікувальний лак для нігтів,1,PharmaceuticalDoseForm
+323,ua_33_323,2.0,Нашкірна паличка,1,PharmaceuticalDoseForm
+324,ua_33_324,2.0,Просочена пов'язка,1,PharmaceuticalDoseForm
+325,ua_33_325,2.0,Лікувальний кулон,1,PharmaceuticalDoseForm
+326,ua_33_326,2.0,Розчин для занурення,1,PharmaceuticalDoseForm
+327,ua_33_327,2.0,Емульсія для занурення,1,PharmaceuticalDoseForm
+328,ua_33_328,2.0,Концентрат для суспензії для занурення,1,PharmaceuticalDoseForm
+329,ua_33_329,2.0,Порошок для розчину для занурення,1,PharmaceuticalDoseForm
+330,ua_33_330,2.0,Порошок для суспензії для лікування риб,1,PharmaceuticalDoseForm
+331,ua_33_331,2.0,Суспензія для розливання,1,PharmaceuticalDoseForm
+332,ua_33_332,2.0,Розчин для точкового нанесення,1,PharmaceuticalDoseForm
+333,ua_33_333,2.0,Емульсія для точкового нанесення,1,PharmaceuticalDoseForm
+334,ua_33_334,2.0,Суспензія для занурення сосків,1,PharmaceuticalDoseForm
+335,ua_33_335,2.0,Розчин для спрею для сосків,1,PharmaceuticalDoseForm
+336,ua_33_336,2.0,Розчин для шкірного прик-тесту,1,PharmaceuticalDoseForm
+337,ua_33_337,2.0,Пластир для провокаційної проби,1,PharmaceuticalDoseForm
+338,ua_33_338,2.0,Очний гель,1,PharmaceuticalDoseForm
+339,ua_33_339,2.0,Очні краплі, розчин,1,PharmaceuticalDoseForm
+340,ua_33_340,2.0,Очні краплі, суспензія,1,PharmaceuticalDoseForm
+341,ua_33_341,2.0,Концентрат для розчину для занурення,1,PharmaceuticalDoseForm
+342,ua_33_342,2.0,Концентрат для емульсії для занурення,1,PharmaceuticalDoseForm
+343,ua_33_343,2.0,Концентрат для розчину для лікування риби,1,PharmaceuticalDoseForm
+344,ua_33_344,2.0,Розчин для розливання,1,PharmaceuticalDoseForm
+345,ua_33_345,2.0,Емульсія для розливання,1,PharmaceuticalDoseForm
+346,ua_33_346,2.0,Суспензія для точкового нанесення,1,PharmaceuticalDoseForm
+347,ua_33_347,2.0,Розчин для занурення сосків,1,PharmaceuticalDoseForm
+348,ua_33_348,2.0,Емульсія для занурення сосків,1,PharmaceuticalDoseForm
+349,ua_33_349,2.0,Трансдермальна система,1,PharmaceuticalDoseForm
+350,ua_33_350,2.0,Розчин для шкірного скреч-тесту,1,PharmaceuticalDoseForm
+351,ua_33_351,2.0,Очний крем,1,PharmaceuticalDoseForm
+352,ua_33_352,2.0,Очна мазь,1,PharmaceuticalDoseForm
+353,ua_33_353,2.0,Очні краплі, емульсія,1,PharmaceuticalDoseForm
+354,ua_33_354,2.0,Очні краплі, розчинник для розчинення,1,PharmaceuticalDoseForm
+355,ua_33_355,2.0,Очний лосьйон,1,PharmaceuticalDoseForm
+356,ua_33_356,2.0,Офтальмологічна вкладка,1,PharmaceuticalDoseForm
+357,ua_33_357,2.0,Вушний крем,1,PharmaceuticalDoseForm
+358,ua_33_358,2.0,Вушна мазь,1,PharmaceuticalDoseForm
+359,ua_33_359,2.0,Вушні краплі, суспензія,1,PharmaceuticalDoseForm
+360,ua_33_360,2.0,Очні краплі з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+361,ua_33_361,2.0,Очний лосьйон, розчинник для розведення,1,PharmaceuticalDoseForm
+362,ua_33_362,2.0,Офтальмологічна смужка,1,PharmaceuticalDoseForm
+363,ua_33_363,2.0,Вушний гель,1,PharmaceuticalDoseForm
+364,ua_33_364,2.0,Вушні краплі, розчин,1,PharmaceuticalDoseForm
+365,ua_33_365,2.0,Вушні краплі, емульсія,1,PharmaceuticalDoseForm
+366,ua_33_366,2.0,Вушний порошок,1,PharmaceuticalDoseForm
+367,ua_33_367,2.0,Вушний спрей, суспензія,1,PharmaceuticalDoseForm
+368,ua_33_368,2.0,Промивка для вух, розчин,1,PharmaceuticalDoseForm
+369,ua_33_369,2.0,Вушний тампон,1,PharmaceuticalDoseForm
+370,ua_33_370,2.0,Назальний крем,1,PharmaceuticalDoseForm
+371,ua_33_371,2.0,Назальний гель,1,PharmaceuticalDoseForm
+372,ua_33_372,2.0,Назальні краплі, розчин,1,PharmaceuticalDoseForm
+373,ua_33_373,2.0,Назальні краплі, емульсія,1,PharmaceuticalDoseForm
+374,ua_33_374,2.0,Назальний спрей, розчин,1,PharmaceuticalDoseForm
+375,ua_33_375,2.0,Назальний спрей, емульсія,1,PharmaceuticalDoseForm
+376,ua_33_376,2.0,Назальна паличка,1,PharmaceuticalDoseForm
+377,ua_33_377,2.0,Вагінальний гель,1,PharmaceuticalDoseForm
+378,ua_33_378,2.0,Вагінальна піна,1,PharmaceuticalDoseForm
+379,ua_33_379,2.0,Вушний спрей, розчин,1,PharmaceuticalDoseForm
+380,ua_33_380,2.0,Вушний спрей, емульсія,1,PharmaceuticalDoseForm
+381,ua_33_381,2.0,Вушна промивка, емульсія,1,PharmaceuticalDoseForm
+382,ua_33_382,2.0,Вушна паличка,1,PharmaceuticalDoseForm
+383,ua_33_383,2.0,Назальна мазь,1,PharmaceuticalDoseForm
+384,ua_33_384,2.0,Назальні краплі, суспензія,1,PharmaceuticalDoseForm
+385,ua_33_385,2.0,Назальний порошок,1,PharmaceuticalDoseForm
+386,ua_33_386,2.0,Назальний спрей, суспензія,1,PharmaceuticalDoseForm
+387,ua_33_387,2.0,Назальна промивка,1,PharmaceuticalDoseForm
+388,ua_33_388,2.0,Вагінальний крем,1,PharmaceuticalDoseForm
+389,ua_33_389,2.0,Вагінальна мазь,1,PharmaceuticalDoseForm
+390,ua_33_390,2.0,Вагінальний розчин,1,PharmaceuticalDoseForm
+391,ua_33_391,2.0,Вагінальна емульсія,1,PharmaceuticalDoseForm
+392,ua_33_392,2.0,Песарій,1,PharmaceuticalDoseForm
+393,ua_33_393,2.0,Вагінальна капсула, м'яка,1,PharmaceuticalDoseForm
+394,ua_33_394,2.0,Шипуча вагінальна таблетка,1,PharmaceuticalDoseForm
+395,ua_33_395,2.0,Вагінальна система доставки,1,PharmaceuticalDoseForm
+396,ua_33_396,2.0,Ректальний крем,1,PharmaceuticalDoseForm
+397,ua_33_397,2.0,Ректальна піна,1,PharmaceuticalDoseForm
+398,ua_33_398,2.0,Вагінальна суспензія,1,PharmaceuticalDoseForm
+399,ua_33_399,2.0,Таблетка для вагінального розчину,1,PharmaceuticalDoseForm
+400,ua_33_400,2.0,Вагінальна капсула, тверда,1,PharmaceuticalDoseForm
+401,ua_33_401,2.0,Вагінальна таблетка,1,PharmaceuticalDoseForm
+402,ua_33_402,2.0,Лікувальний вагінальний тампон,1,PharmaceuticalDoseForm
+403,ua_33_403,2.0,Вагінальна губка,3,PharmaceuticalDoseForm
+404,ua_33_404,2.0,Ректальний гель,1,PharmaceuticalDoseForm
+405,ua_33_405,2.0,Ректальна мазь,1,PharmaceuticalDoseForm
+406,ua_33_406,2.0,Ректальний розчин,1,PharmaceuticalDoseForm
+407,ua_33_407,2.0,Ректальна суспензія,1,PharmaceuticalDoseForm
+408,ua_33_408,2.0,Порошок для ректального розчину,1,PharmaceuticalDoseForm
+409,ua_33_409,2.0,Порошок для ректальної суспензії,1,PharmaceuticalDoseForm
+410,ua_33_410,2.0,Таблетка для ректального розчину,1,PharmaceuticalDoseForm
+411,ua_33_411,2.0,Таблетка для ректальної суспензії,1,PharmaceuticalDoseForm
+412,ua_33_412,2.0,Розчин для небулайзера,1,PharmaceuticalDoseForm
+413,ua_33_413,2.0,Порошок для небулайзерної суспензії,1,PharmaceuticalDoseForm
+414,ua_33_414,2.0,Емульсія для небулайзера,1,PharmaceuticalDoseForm
+415,ua_33_415,2.0,Інгаляції під тиском, суспензія,1,PharmaceuticalDoseForm
+416,ua_33_416,2.0,Порошок для інгаляцій,1,PharmaceuticalDoseForm
+417,ua_33_417,2.0,Порошок для інгаляцій, попередньо дозований,1,PharmaceuticalDoseForm
+418,ua_33_418,2.0,Ректальна емульсія,1,PharmaceuticalDoseForm
+419,ua_33_419,2.0,Концентрат для ректального розчину,1,PharmaceuticalDoseForm
+420,ua_33_420,2.0,Супозиторій,1,PharmaceuticalDoseForm
+421,ua_33_421,2.0,Ректальна капсула,1,PharmaceuticalDoseForm
+422,ua_33_422,2.0,Ректальний тампон,1,PharmaceuticalDoseForm
+423,ua_33_423,2.0,Суспензія для небулайзера,1,PharmaceuticalDoseForm
+424,ua_33_424,2.0,Порошок для розчину для небулайзера,1,PharmaceuticalDoseForm
+425,ua_33_425,2.0,Інгаляції під тиском, розчин,1,PharmaceuticalDoseForm
+426,ua_33_426,2.0,Інгаляція під тиском, емульсія,1,PharmaceuticalDoseForm
+427,ua_33_427,2.0,Порошок для інгаляції, тверда капсула,1,PharmaceuticalDoseForm
+428,ua_33_428,2.0,Інгаляційна пара, порошок,1,PharmaceuticalDoseForm
+429,ua_33_429,2.0,Інгаляційна пара, капсула,1,PharmaceuticalDoseForm
+430,ua_33_430,2.0,Інгаляційна пара, таблетка,1,PharmaceuticalDoseForm
+431,ua_33_431,2.0,Інгаляційна пара, рідина,1,PharmaceuticalDoseForm
+432,ua_33_432,2.0,Інгаляційний газ,3,PharmaceuticalDoseForm
+433,ua_33_433,2.0,Емульсія для ін'єкції,1,PharmaceuticalDoseForm
+434,ua_33_434,2.0,Концентрат для розчину для ін'єкції,1,PharmaceuticalDoseForm
+435,ua_33_435,2.0,Емульсія для інфузії,1,PharmaceuticalDoseForm
+436,ua_33_436,2.0,Порошок для розчину для інфузії,1,PharmaceuticalDoseForm
+437,ua_33_437,2.0,Інгаляційна пара, розчин,1,PharmaceuticalDoseForm
+438,ua_33_438,2.0,Інгаляційна пара, мазь,1,PharmaceuticalDoseForm
+439,,2.0,Розчин для ін'єкцій,1,PharmaceuticalDoseForm
+440,ua_33_440,2.0,Суспензія для ін'єкції,1,PharmaceuticalDoseForm
+441,ua_33_441,2.0,Гель для ін'єкції,1,PharmaceuticalDoseForm
+442,ua_33_442,2.0,Порошок для розчину для ін'єкції,1,PharmaceuticalDoseForm
+443,ua_33_443,2.0,Порошок для суспензії для ін’єкції,1,PharmaceuticalDoseForm
+444,ua_33_444,2.0,Розчин для інфузії,1,PharmaceuticalDoseForm
+445,ua_33_445,2.0,Концентрат для розчину для інфузії,1,PharmaceuticalDoseForm
+446,ua_33_446,2.0,Ліофілізат для розчину для інфузії,1,PharmaceuticalDoseForm
+447,ua_33_447,2.0,Ліофілізат для розчину для ін'єкції,1,PharmaceuticalDoseForm
+448,ua_33_448,2.0,Імплантат,1,PharmaceuticalDoseForm
+449,ua_33_449,2.0,Імплантаційний ланцюг,1,PharmaceuticalDoseForm
+450,ua_33_450,2.0,Розчин для перитонеального діалізу,1,PharmaceuticalDoseForm
+451,ua_33_451,2.0,Розчин для гемодіафільтрації,1,PharmaceuticalDoseForm
+452,ua_33_452,2.0,Концентрат для розчину для гемодіалізу,1,PharmaceuticalDoseForm
+453,ua_33_453,2.0,Іригація сечового міхура,1,PharmaceuticalDoseForm
+454,ua_33_454,2.0,Уретральний гель,1,PharmaceuticalDoseForm
+455,ua_33_455,2.0,Розчинник для парентерального застосування,1,PharmaceuticalDoseForm
+456,ua_33_456,2.0,Ліофілізат для суспензії для ін'єкції,1,PharmaceuticalDoseForm
+457,ua_33_457,2.0,Імплантаційна таблетка,1,PharmaceuticalDoseForm
+458,ua_33_458,2.0,Розчин для гемофільтрації,1,PharmaceuticalDoseForm
+459,ua_33_459,2.0,Розчин для гемодіалізу,1,PharmaceuticalDoseForm
+460,ua_33_460,2.0,Розчин для інтравезикального застосування,3,PharmaceuticalDoseForm
+461,ua_33_461,2.0,Порошок для іригації сечового міхура,1,PharmaceuticalDoseForm
+462,ua_33_462,2.0,Уретральна паличка,1,PharmaceuticalDoseForm
+463,ua_33_463,2.0,Ендотрахеопульмональна інстиляція, порошок для розчину,1,PharmaceuticalDoseForm
+464,ua_33_464,2.0,Інтрамамарна суспензія,1,PharmaceuticalDoseForm
+465,ua_33_465,2.0,Інтрамамарна мазь,1,PharmaceuticalDoseForm
+466,ua_33_466,2.0,Внутрішньоматкова система доставки,1,PharmaceuticalDoseForm
+467,ua_33_467,2.0,Внутрішньоматкова суспензія,1,PharmaceuticalDoseForm
+468,ua_33_468,2.0,Внутрішньоматкова таблетка,1,PharmaceuticalDoseForm
+469,ua_33_469,2.0,Внутрішньоматкова капсула,1,PharmaceuticalDoseForm
+470,ua_33_470,2.0,Паличка для окурювання вулика,1,PharmaceuticalDoseForm
+471,ua_33_471,2.0,Зубний лак,1,PharmaceuticalDoseForm
+472,ua_33_472,2.0,Ендотрахеопульмональна інстиляція, розчин,1,PharmaceuticalDoseForm
+473,ua_33_473,2.0,Ендотрахеопульмональна інстиляція, суспензія,1,PharmaceuticalDoseForm
+474,ua_33_474,2.0,Ендоцервікальний гель,1,PharmaceuticalDoseForm
+475,ua_33_475,2.0,Інтрамамарний розчин,1,PharmaceuticalDoseForm
+476,ua_33_476,2.0,Інтрамамарна емульсія,1,PharmaceuticalDoseForm
+477,ua_33_477,2.0,Паличка для сосків,1,PharmaceuticalDoseForm
+478,ua_33_478,2.0,Внутрішньоматковий розчин,1,PharmaceuticalDoseForm
+479,ua_33_479,2.0,Внутрішньоматкова емульсія,1,PharmaceuticalDoseForm
+480,ua_33_480,2.0,Смужка для бджолиного вулика,1,PharmaceuticalDoseForm
+481,ua_33_481,2.0,Папір для окурювання вуликів,1,PharmaceuticalDoseForm
+482,ua_33_482,2.0,Розчин для небулайзера,1,PharmaceuticalDoseForm
+483,ua_33_483,2.0,Антикоагулянтний і консервуючий розчин для крові,1,PharmaceuticalDoseForm
+484,ua_33_484,2.0,Розчин для зміни фракції крові,1,PharmaceuticalDoseForm
+485,ua_33_485,2.0,Паличка для ран,1,PharmaceuticalDoseForm
+486,ua_33_486,2.0,Радіофармацевтичний прекурсор,1,PharmaceuticalDoseForm
+487,ua_33_487,2.0,Радіонуклідний генератор,1,PharmaceuticalDoseForm
+488,ua_33_488,2.0,Гастроентеральний розчин,1,PharmaceuticalDoseForm
+489,ua_33_489,2.0,Гастроентеральна суспензія,1,PharmaceuticalDoseForm
+490,ua_33_490,2.0,Розчин для збереження органів,1,PharmaceuticalDoseForm
+491,ua_33_491,2.0,Шлункова іригація,1,PharmaceuticalDoseForm
+492,ua_33_492,2.0,Набір для радіофармацевтичного препарату,1,PharmaceuticalDoseForm
+493,ua_33_493,2.0,Дисперсія,3,PharmaceuticalDoseForm
+494,ua_33_494,2.0,Гастроентеральна емульсія,1,PharmaceuticalDoseForm
+495,ua_33_495,2.0,Іригаційний розчин,1,PharmaceuticalDoseForm
+496,ua_33_496,2.0,Герметик,1,PharmaceuticalDoseForm
+497,ua_33_497,2.0,Просочена прокладка,1,PharmaceuticalDoseForm
+498,ua_33_498,2.0,Лікувальна губка,1,PharmaceuticalDoseForm
+499,ua_33_499,2.0,Лікувальна нитка,1,PharmaceuticalDoseForm
+500,ua_33_500,2.0,Газ медичний, стиснутий,1,PharmaceuticalDoseForm
+501,ua_33_501,2.0,Медичний газ, зріджений,1,PharmaceuticalDoseForm
+502,ua_33_502,2.0,Еквівалент живої тканини,1,PharmaceuticalDoseForm
+503,ua_33_503,2.0,Гель для кишечника,1,PharmaceuticalDoseForm
+504,ua_33_504,2.0,Розчин для провокаційного тесту,1,PharmaceuticalDoseForm
+505,ua_33_505,2.0,Медичний газ, кріогенний,1,PharmaceuticalDoseForm
+506,ua_33_506,2.0,Таблетки для жування/диспергування,1,PharmaceuticalDoseForm
+507,ua_33_507,2.0,Концентрат для нашкірного спрею, емульсія,1,PharmaceuticalDoseForm
+508,ua_33_508,2.0,Концентрат для перорального/ректального розчину,1,PharmaceuticalDoseForm
+509,ua_33_509,2.0,Концентрат для розчину для перитонеального діалізу,3,PharmaceuticalDoseForm
+510,ua_33_510,2.0,Концентрат для розчину для інтравезикального застосування,3,PharmaceuticalDoseForm
+511,ua_33_511,2.0,Нашкірний спрей, мазь,1,PharmaceuticalDoseForm
+512,ua_33_512,2.0,Концентрат для перорального розчину,1,PharmaceuticalDoseForm
+513,ua_33_513,2.0,Концентрат для суспензії для інфузії,3,PharmaceuticalDoseForm
+514,ua_33_514,2.0,Нашкірно-назальна мазь,3,PharmaceuticalDoseForm
+515,ua_33_515,2.0,Стоматологічна паста,1,PharmaceuticalDoseForm
+516,ua_33_516,2.0,Вушна/очна мазь,1,PharmaceuticalDoseForm
+517,ua_33_517,2.0,Емульсія для ін’єкції/інфузії,1,PharmaceuticalDoseForm
+518,ua_33_518,2.0,Таблетка, вкрита кишковорозчинною оболонкою,3,PharmaceuticalDoseForm
+519,ua_33_519,2.0,Гранули для пероральних крапель, розчин,3,PharmaceuticalDoseForm
+520,ua_33_520,2.0,Вушні/очні краплі, розчин,1,PharmaceuticalDoseForm
+521,ua_33_521,2.0,Вушні/очні/назальні краплі, розчин,3,PharmaceuticalDoseForm
+522,ua_33_522,2.0,Ендосинусіальна промивка, суспензія,1,PharmaceuticalDoseForm
+523,ua_33_523,2.0,Ополіскувач для горла/ротової порожнини,1,PharmaceuticalDoseForm
+524,ua_33_524,2.0,Гастрорезистентні гранули для пероральної суспензії,3,PharmaceuticalDoseForm
+525,ua_33_525,2.0,Гранули для пероральної та ректальної суспензії,3,PharmaceuticalDoseForm
+526,ua_33_526,2.0,Гранули для вагінального розчину,1,PharmaceuticalDoseForm
+527,ua_33_527,2.0,Інгаляційна пара, шипуча таблетка,1,PharmaceuticalDoseForm
+528,ua_33_528,2.0,Інгаляційна пара, просочена прокладка,1,PharmaceuticalDoseForm
+529,ua_33_529,2.0,Таблетки, вкриті плівковою оболонкою, з модифікованим вивільненням,3,PharmaceuticalDoseForm
+530,ua_33_530,2.0,Назальний спрей і оромукозний розчин,3,PharmaceuticalDoseForm
+531,ua_33_531,2.0,Пероральний розчин/концентрат для розчину для небулайзера,1,PharmaceuticalDoseForm
+532,ua_33_532,2.0,Оромукозний/ларингофарингеальний розчин/спрей,3,PharmaceuticalDoseForm
+533,ua_33_533,2.0,Порошок для концентрату для розчину для гемодіалізу,3,PharmaceuticalDoseForm
+534,ua_33_534,2.0,Порошок для інтравезикальної суспензії,1,PharmaceuticalDoseForm
+535,ua_33_535,2.0,Інгаляційний порошок, таблетка,1,PharmaceuticalDoseForm
+536,ua_33_536,2.0,Інгаляційна пара, емульсія,1,PharmaceuticalDoseForm
+537,ua_33_537,2.0,Скраплений газ для стоматологічного застосування,3,PharmaceuticalDoseForm
+538,ua_33_538,2.0,Гранули з модифікованим вивільненням для пероральної суспензії,3,PharmaceuticalDoseForm
+539,ua_33_539,2.0,Оральна/ректальна суспензія,1,PharmaceuticalDoseForm
+540,ua_33_540,2.0,Оромукозний пластир,1,PharmaceuticalDoseForm
+541,ua_33_541,2.0,Оромукозний/ларингофарингеальний розчин,1,PharmaceuticalDoseForm
+542,ua_33_542,2.0,Порошок для концентрату для розчину для інфузій,1,PharmaceuticalDoseForm
+543,ua_33_543,2.0,Порошок для інтравезикального розчину,1,PharmaceuticalDoseForm
+544,ua_33_544,2.0,Порошок для пероральної/ректальної суспензії,1,PharmaceuticalDoseForm
+545,ua_33_545,2.0,Порошок для розчину для інтравезикального застосування,3,PharmaceuticalDoseForm
+546,ua_33_546,2.0,Гранули з пролонгованим вивільненням для пероральної суспензії,3,PharmaceuticalDoseForm
+547,ua_33_547,2.0,Розчин для гемодіалізу/гемофільтрації,1,PharmaceuticalDoseForm
+548,ua_33_548,2.0,Розчин для ін'єкції/інфузії,1,PharmaceuticalDoseForm
+549,ua_33_549,2.0,Розчин для інтраперитоніального застосування,3,PharmaceuticalDoseForm
+550,ua_33_550,2.0,Порошок для ополіскувача для ротової порожнини,3,PharmaceuticalDoseForm
+551,ua_33_551,2.0,Порошок для розчину для ін'єкції або інфузії,3,PharmaceuticalDoseForm
+552,ua_33_552,2.0,Порошок для розчину для назального спрею,3,PharmaceuticalDoseForm
+553,ua_33_553,2.0,Радіофармацевтичний прекурсор, розчин,1,PharmaceuticalDoseForm
+554,ua_33_554,2.0,Розчин для інфузії та пероральний розчин,3,PharmaceuticalDoseForm
+555,ua_33_555,2.0,Суспензія для інфузії,3,PharmaceuticalDoseForm
+556,ua_33_556,2.0,Таблетка для пероральної суспензії,3,PharmaceuticalDoseForm
+557,ua_33_557,2.0,Порошок для розчину для внутрішньоочної іригації,1,PharmaceuticalDoseForm
+558,ua_33_558,2.0,Розчинник для розчину для інфузії,1,PharmaceuticalDoseForm
+559,ua_33_559,2.0,Пероральні краплі, порошок для суспензії,1,PharmaceuticalDoseForm
+560,ua_33_560,2.0,Пероральна суспензія для використання в питній воді,3,PharmaceuticalDoseForm
+561,ua_33_561,2.0,Порошок для використання в питній воді,1,PharmaceuticalDoseForm
+562,ua_33_562,2.0,Розчинник для розчину для внутрішньоочної іригації,1,PharmaceuticalDoseForm
+563,ua_33_563,2.0,Дисперсія для ін'єкції,1,PharmaceuticalDoseForm
+564,ua_33_564,2.0,Концентрат для розчину для ін’єкції/інфузії,1,PharmaceuticalDoseForm
+565,ua_33_565,2.0,Інгаляційний розчин,1,PharmaceuticalDoseForm
+566,ua_33_566,2.0,Внутрішньовенна інфузія,3,PharmaceuticalDoseForm
+567,ua_33_567,2.0,Іонтофоретична трансдермальна система,3,PharmaceuticalDoseForm
+568,ua_33_568,2.0,Набір для імплантату,4,PharmaceuticalDoseForm
+569,ua_33_569,2.0,Ліпосомальна дисперсія для інфузії,3,PharmaceuticalDoseForm
+570,ua_33_570,2.0,Капсульована таблетка,3,PharmaceuticalDoseForm
+571,ua_33_571,2.0,Ородисперсна плівка,1,PharmaceuticalDoseForm
+572,ua_33_572,2.0,Букальна плівка,1,PharmaceuticalDoseForm
+573,ua_33_573,2.0,Імплантаційна суспензія,1,PharmaceuticalDoseForm
+574,ua_33_574,2.0,Мішечок,3,PharmaceuticalDoseForm
+575,ua_33_575,2.0,Концентрат для емульсії для інфузії,1,PharmaceuticalDoseForm
+576,ua_33_576,2.0,Нашкірний спрей, емульсія,1,PharmaceuticalDoseForm
+577,ua_33_577,2.0,Гранули для застосування у питній воді,1,PharmaceuticalDoseForm
+578,ua_33_578,2.0,Порошок для імплантаційної суспензії,1,PharmaceuticalDoseForm
+579,ua_33_579,2.0,Розчин для герметика,1,PharmaceuticalDoseForm
+580,ua_33_580,2.0,Сублінгвальний порошок,1,PharmaceuticalDoseForm
+581,ua_33_581,2.0,Концентрат для дисперсії для ін'єкції,1,PharmaceuticalDoseForm
+582,ua_33_582,2.0,Нашкірний/оромукозний розчин,1,PharmaceuticalDoseForm
+583,ua_33_583,2.0,Відповідна віку тверда пероральна лікарська форма,5,PharmaceuticalDoseForm
+584,ua_33_584,2.0,Відповідна віку лікарська форма для парентерального застосування,5,PharmaceuticalDoseForm
+585,ua_33_585,2.0,Відповідна віку лікарська форма для ректального застосування,5,PharmaceuticalDoseForm
+586,ua_33_586,2.0,Відповідна віку лікарська форма, інша,5,PharmaceuticalDoseForm
+587,ua_33_587,2.0,Суспензія з клітин для інфузії,4,PharmaceuticalDoseForm
+588,ua_33_588,2.0,Відповідна віку рідка пероральна лікарська форма,5,PharmaceuticalDoseForm
+589,ua_33_589,2.0,Дисперсія для інфузії,1,PharmaceuticalDoseForm
+590,ua_33_590,2.0,Концентрат для дисперсії для інфузії,1,PharmaceuticalDoseForm
+591,ua_33_591,2.0,Оромукозна мазь,1,PharmaceuticalDoseForm
+592,ua_33_592,2.0,Нігтьовий розчин,4,PharmaceuticalDoseForm
+593,ua_33_593,2.0,Скраб,4,PharmaceuticalDoseForm
+594,ua_33_594,2.0,Трансдермальний гель,1,PharmaceuticalDoseForm
+595,ua_33_595,2.0,Трансдермальний спрей, розчин,1,PharmaceuticalDoseForm
+596,ua_33_596,2.0,Інтравагінальне кільце,4,PharmaceuticalDoseForm
+597,ua_33_597,2.0,Інтравезикальний розчин,1,PharmaceuticalDoseForm
+598,ua_33_598,2.0,Гель для вулика,1,PharmaceuticalDoseForm
+599,ua_33_599,2.0,Губка з абсорбуючим покриттям,4,PharmaceuticalDoseForm
+600,ua_33_600,2.0,Інтраперитонеальнийрозчин,1,PharmaceuticalDoseForm
+601,ua_33_601,2.0,Розчин для перфузії органів,4,PharmaceuticalDoseForm
+602,ua_33_602,2.0,Концентрат для інтравезикального розчину,1,PharmaceuticalDoseForm
+603,ua_33_603,2.0,Концентрат для розчину для перитонеального діалізу,1,PharmaceuticalDoseForm
+604,ua_33_604,2.0,Концентрат для емульсії для розпилення,1,PharmaceuticalDoseForm
+605,ua_33_605,2.0,Нашкірна/назальна мазь,1,PharmaceuticalDoseForm
+606,ua_33_606,2.0,Нашкірний/оромукозний/пероральний розчин,4,PharmaceuticalDoseForm
+607,ua_33_607,2.0,Нашкірний/оромукозний спрей,4,PharmaceuticalDoseForm
+608,ua_33_608,2.0,Вушні/очні/назальні краплі, розчин,1,PharmaceuticalDoseForm
+609,ua_33_609,2.0,Шипучі букальні таблетки,4,PharmaceuticalDoseForm
+610,ua_33_610,2.0,Таблетка, вкрита плівковою оболонкою, гастрорезистентна,4,PharmaceuticalDoseForm
+611,ua_33_611,2.0,Гастрорезистентні таблетки з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+612,ua_33_612,2.0,Гранули для пероральної/ректальної суспензії,1,PharmaceuticalDoseForm
+613,ua_33_613,2.0,Тверда капсула з гастрорезистентними пелетами,4,PharmaceuticalDoseForm
+614,ua_33_614,2.0,Інгаляційна просочена прокладка,3,PharmaceuticalDoseForm
+615,ua_33_615,2.0,Внутрішньоматкова піна,1,PharmaceuticalDoseForm
+616,ua_33_616,2.0,Ополіскувач для ротової порожнини, порошок для розчину,1,PharmaceuticalDoseForm
+617,ua_33_617,2.0,Мукоадгезивні букальні таблетки з пролонгованим вивільненням,4,PharmaceuticalDoseForm
+618,ua_33_618,2.0,Назальний/оромукозний розчин,1,PharmaceuticalDoseForm
+619,ua_33_619,2.0,Назальний/оромукозний спрей, розчин,1,PharmaceuticalDoseForm
+620,ua_33_620,2.0,Назальний спрей, порошок для розчину,1,PharmaceuticalDoseForm
+621,ua_33_621,2.0,Назальний спрей, розчин/оромукозний розчин,1,PharmaceuticalDoseForm
+622,ua_33_622,2.0,Пероральні краплі, гранули для розчину,1,PharmaceuticalDoseForm
+623,ua_33_623,2.0,Пероральні краплі, рідина,1,PharmaceuticalDoseForm
+624,ua_33_624,2.0,Пероральний/ректальний розчин,1,PharmaceuticalDoseForm
+625,ua_33_625,2.0,Оромукозний/ларингофарингеальний розчин/спрей, розчин,1,PharmaceuticalDoseForm
+626,ua_33_626,2.0,Порошок для концентрату для дисперсії для інфузії,1,PharmaceuticalDoseForm
+627,ua_33_627,2.0,Порошок для концентрату для інтравезикальної суспензії,1,PharmaceuticalDoseForm
+628,ua_33_628,2.0,Порошок для концентрату для розчину для гемодіалізу,1,PharmaceuticalDoseForm
+629,ua_33_629,2.0,Порошок для концентрату для розчину для ін'єкції/інфузії,1,PharmaceuticalDoseForm
+630,ua_33_630,2.0,Порошок для стоматологічного розчину,1,PharmaceuticalDoseForm
+631,ua_33_631,2.0,Порошок для епілезійного розчину,1,PharmaceuticalDoseForm
+632,ua_33_632,2.0,Порошок для розчину для ін'єкції/інфузії,1,PharmaceuticalDoseForm
+633,ua_33_633,2.0,Таблетки, вкриті оболонкою, з пролонгованим вивільненням,4,PharmaceuticalDoseForm
+634,ua_33_634,2.0,Розчин для ін’єкції/концентрат для розчину для інфузії,4,PharmaceuticalDoseForm
+635,ua_33_635,2.0,Розчин для ін'єкції для евтаназії,4,PharmaceuticalDoseForm
+636,ua_33_636,2.0,Розчин для використання в питній воді,1,PharmaceuticalDoseForm
+637,ua_33_637,2.0,Розчинник для назального застосування,4,PharmaceuticalDoseForm
+638,ua_33_638,2.0,Суспензія для застосування в питній воді,1,PharmaceuticalDoseForm
+639,ua_33_639,2.0,Очні краплі, ліофілізат для суспензії,5,PharmaceuticalDoseForm
+640,ua_33_640,2.0,Суспензія,3,PharmaceuticalDoseForm
+641,ua_33_641,2.0,Розчин,3,PharmaceuticalDoseForm
+642,ua_33_642,2.0,Пігулка,4,PharmaceuticalDoseForm
+643,ua_33_643,2.0,Оромукозний спрей, емульсія,1,PharmaceuticalDoseForm
+644,ua_33_644,2.0,Оромукозний спрей, розчин,1,PharmaceuticalDoseForm
+645,ua_33_645,2.0,Оромукозний спрей, суспензія,1,PharmaceuticalDoseForm
+646,ua_33_646,2.0,Сублінгвальна плівка,1,PharmaceuticalDoseForm
+647,ua_33_647,2.0,Заморожений розчин для герметика,4,PharmaceuticalDoseForm
+648,ua_33_648,2.0,Вушні/очні краплі, суспензія,1,PharmaceuticalDoseForm
+649,ua_33_649,2.0,Лікувальний нашийник,1,PharmaceuticalDoseForm
+650,ua_33_650,2.0,Розчин для шкіри голови,4,PharmaceuticalDoseForm
+651,ua_33_651,2.0,Трансдермальний розчин,1,PharmaceuticalDoseForm
+652,ua_33_652,2.0,Суспензія для ін'єкції з пролонгованим вивільненням,1,PharmaceuticalDoseForm
+653,ua_33_653,2.0,Нашкірний розчин/концентрат для оромукозного розчину,1,PharmaceuticalDoseForm
+654,ua_33_654,2.0,Порошок для інтравезикального розчину/розчину для ін'єкцій,1,PharmaceuticalDoseForm
+655,ua_33_655,2.0,Порошок для розчину для небулайзера/розчину для ін’єкції/інфузії,4,PharmaceuticalDoseForm
+656,ua_33_656,2.0,Інтравезикальний розчин/розчин для ін’єкції,1,PharmaceuticalDoseForm
+657,ua_33_657,2.0,Порошок для розчину/суспензії для ін'єкції,3,PharmaceuticalDoseForm
+658,ua_33_658,2.0,Порошок для застосування в питній воді/молоці,1,PharmaceuticalDoseForm
+659,ua_33_659,2.0,Розчин для занурення/обприскування сосків,1,PharmaceuticalDoseForm
+660,ua_33_660,2.0,Капсула,3,PharmaceuticalDoseForm
+661,ua_33_661,2.0,Нашкірний спрей,3,PharmaceuticalDoseForm
+662,ua_33_662,2.0,Краплі,3,PharmaceuticalDoseForm
+663,ua_33_663,2.0,Вушні краплі,3,PharmaceuticalDoseForm
+664,ua_33_664,2.0,Клізма,3,PharmaceuticalDoseForm
+665,ua_33_665,2.0,Очні краплі,3,PharmaceuticalDoseForm
+666,ua_33_666,2.0,Очні краплі, розчин з пролонгованим вивільненням в однодозовому контейнері,3,PharmaceuticalDoseForm
+667,ua_33_667,2.0,Гастрорезистентні капсули,3,PharmaceuticalDoseForm
+668,ua_33_668,2.0,Гранули в саше,3,PharmaceuticalDoseForm
+669,ua_33_669,2.0,Імплантат у попередньо заповненому шприці,3,PharmaceuticalDoseForm
+670,ua_33_670,2.0,Інфузія,3,PharmaceuticalDoseForm
+671,ua_33_671,2.0,Інгаляційна пара,3,PharmaceuticalDoseForm
+672,ua_33_672,2.0,Ін'єкція,3,PharmaceuticalDoseForm
+673,ua_33_673,2.0,Рідина,3,PharmaceuticalDoseForm
+674,ua_33_674,2.0,Концентрат і розчинник для розчину для інфузії,3,PharmaceuticalDoseForm
+675,ua_33_675,2.0,Лосьйон,3,PharmaceuticalDoseForm
+676,ua_33_676,2.0,Капсула з модифікованим вивільненням,3,PharmaceuticalDoseForm
+677,ua_33_677,2.0,Назальні краплі,3,PharmaceuticalDoseForm
+678,ua_33_678,2.0,Назальний спрей,3,PharmaceuticalDoseForm
+679,ua_33_679,2.0,Офтальмологічний розчин,3,PharmaceuticalDoseForm
+680,ua_33_680,2.0,Пероральні краплі,3,PharmaceuticalDoseForm
+681,ua_33_681,2.0,Порошок і розчинник для розчину для інфузії,3,PharmaceuticalDoseForm
+682,ua_33_682,2.0,Порошок і розчинник для розчину для ін'єкцій,3,PharmaceuticalDoseForm
+683,ua_33_683,2.0,Порошок і розчинник для розчину для ін’єкцій/інфузій,3,PharmaceuticalDoseForm
+684,ua_33_684,2.0,Порошок і розчинник для суспензії для ін'єкцій,3,PharmaceuticalDoseForm
+685,ua_33_685,2.0,Порошок для інфузій,3,PharmaceuticalDoseForm
+686,ua_33_686,2.0,Розчин для ін’єкцій у попередньо заповненому шприці,3,PharmaceuticalDoseForm
+687,ua_33_687,2.0,Розчин для ін’єкцій/інфузій у попередньо заповненому шприці,3,PharmaceuticalDoseForm
+688,ua_33_688,2.0,Спрей,3,PharmaceuticalDoseForm
+689,ua_33_689,2.0,Суспензія для ін’єкцій у попередньо заповненому шприці,3,PharmaceuticalDoseForm
+690,ua_33_690,2.0,Вагінальна капсула,3,PharmaceuticalDoseForm
+691,ua_33_691,2.0,Концентрат для пероральної суспензії,1,PharmaceuticalDoseForm
+692,ua_33_692,2.0,Сублінгвальний спрей, емульсія,1,PharmaceuticalDoseForm
+693,ua_33_693,2.0,Сублінгвальний спрей, розчин,1,PharmaceuticalDoseForm
+694,ua_33_694,2.0,Сублінгвальний спрей, суспензія,1,PharmaceuticalDoseForm
+695,ua_33_695,2.0,Стоматологічний цемент,1,PharmaceuticalDoseForm
+696,ua_33_696,2.0,Порошок для стоматологічного цементу,1,PharmaceuticalDoseForm
+697,ua_33_697,2.0,Розчин для стоматологічного цементу,1,PharmaceuticalDoseForm
+698,ua_33_698,2.0,Аерозоль,4,PharmaceuticalDoseForm
+699,ua_33_699,2.0,Порошок для дисперсії для інфузії,1,PharmaceuticalDoseForm
+700,ua_33_700,2.0,Імплантаційна матриця,1,PharmaceuticalDoseForm
+701,ua_33_701,2.0,Порошок для нашкірного розчину,1,PharmaceuticalDoseForm
+702,ua_33_702,2.0,Порошок для розчину для іонофорезу,1,PharmaceuticalDoseForm
+703,ua_33_703,2.0,Розчин для кардіоплегії,1,PharmaceuticalDoseForm
+704,ua_33_704,2.0,[R] Набір для імплантату,4,PharmaceuticalDoseForm
+705,ua_33_705,2.0,Просякнута втулка,1,PharmaceuticalDoseForm
+706,ua_33_706,2.0,Ліофілізат для очноназальної суспензії,1,PharmaceuticalDoseForm
+707,ua_33_707,2.0,Ополіскувач для горла/промивка для носа,1,PharmaceuticalDoseForm
+708,ua_33_708,2.0,Інгаляційна пара, просочена втулка,1,PharmaceuticalDoseForm
+709,ua_33_709,2.0,Розчин для ін’єкції/інфузії/ректального застосування,4,PharmaceuticalDoseForm
+710,ua_33_710,2.0,Пероральний порошок в саше,3,PharmaceuticalDoseForm
+711,ua_33_711,2.0,Пероральна суспензія в саше,3,PharmaceuticalDoseForm
+712,ua_33_712,2.0,Порошок і розчинник для перорального розчину,3,PharmaceuticalDoseForm
+713,ua_33_713,2.0,Порошок і розчинник для суспензії для ін’єкції пролонгованої дії,3,PharmaceuticalDoseForm
+714,ua_33_714,2.0,Порошок і розчинник для герметика,3,PharmaceuticalDoseForm
+715,ua_33_715,2.0,Порошок для ін'єкції,3,PharmaceuticalDoseForm
+716,ua_33_716,2.0,Порошок для перорального розчину в саше,3,PharmaceuticalDoseForm
+717,ua_33_717,2.0,Інгаляції під тиском,3,PharmaceuticalDoseForm
+718,ua_33_718,2.0,Капсула з пролонгованим вивільненням,3,PharmaceuticalDoseForm
+719,ua_33_719,2.0,Розчин для ін'єкції у картриджі,3,PharmaceuticalDoseForm
+720,ua_33_720,2.0,Розчин для ін’єкції у попередньо заповненій ручці,3,PharmaceuticalDoseForm
+721,ua_33_721,2.0,Очні краплі, розчин в однодозовому контейнері,3,PharmaceuticalDoseForm
+722,ua_33_722,2.0,Вушні/назальні краплі, суспензія,1,PharmaceuticalDoseForm
+723,ua_33_723,2.0,*емульгель,1,PharmaceuticalDoseForm
+724,ua_33_724,2.0,*стовпчики з приймочками,1,PharmaceuticalDoseForm
+725,ua_33_725,2.0,*таблетки для смоктання,1,PharmaceuticalDoseForm
+726,ua_33_726,2.0,*кореневища з коренями,1,PharmaceuticalDoseForm
+727,ua_33_727,2.0,*капсули тверді з кишковорозчинними гранулами,1,PharmaceuticalDoseForm
+728,ua_33_728,2.0,*листя і квітки,1,PharmaceuticalDoseForm
+729,ua_33_729,2.0,*пагони,1,PharmaceuticalDoseForm
+730,ua_33_730,2.0,*капсули тверді желатинові,1,PharmaceuticalDoseForm
+731,ua_33_731,2.0,*плоди,1,PharmaceuticalDoseForm
+732,ua_33_732,2.0,*ліпідний комплекс для ін'єкцій,1,PharmaceuticalDoseForm
+733,ua_33_733,2.0,*корені,1,PharmaceuticalDoseForm
+734,ua_33_734,2.0,*кореневища,1,PharmaceuticalDoseForm
+735,ua_33_735,2.0,*квітки (цільна сировина),1,PharmaceuticalDoseForm
+736,ua_33_736,2.0,*бальзам,1,PharmaceuticalDoseForm
+737,ua_33_737,2.0,*суміш,1,PharmaceuticalDoseForm
+738,ua_33_738,2.0,*листя та плоди,1,PharmaceuticalDoseForm
+739,ua_33_739,2.0,*бруньки,1,PharmaceuticalDoseForm
+740,ua_33_740,2.0,*концентрат для приготування розчину для внутрішньовенного введення,1,PharmaceuticalDoseForm
+741,ua_33_741,2.0,*збір,1,PharmaceuticalDoseForm
+742,ua_33_742,2.0,*насіння,1,PharmaceuticalDoseForm
+743,ua_33_743,2.0,*масло,1,PharmaceuticalDoseForm
+744,ua_33_744,2.0,*кора,1,PharmaceuticalDoseForm
+745,ua_33_745,2.0,*каплети, вкриті оболонкою,1,PharmaceuticalDoseForm
+746,ua_33_746,2.0,*супліддя,1,PharmaceuticalDoseForm
+747,ua_33_747,2.0,*гранули гомеопатичні,1,PharmaceuticalDoseForm
+748,ua_33_748,2.0,*ліофілізат,1,PharmaceuticalDoseForm
+749,ua_33_749,2.0,*спрей оральний,1,PharmaceuticalDoseForm
+750,ua_33_750,2.0,*плитка,1,PharmaceuticalDoseForm
+751,ua_33_751,2.0,*лінімент,1,PharmaceuticalDoseForm
+752,ua_33_752,2.0,*стулки плодів,1,PharmaceuticalDoseForm
+753,ua_33_753,2.0,*листя,1,PharmaceuticalDoseForm
+754,ua_33_754,2.0,*бальзам рідкий,1,PharmaceuticalDoseForm
+755,ua_33_755,2.0,*матриця для склеювання тканин,1,PharmaceuticalDoseForm
+756,ua_33_756,2.0,*трава,1,PharmaceuticalDoseForm
+757,ua_33_757,2.0,*таблетки для розсмоктування,1,PharmaceuticalDoseForm
+758,ua_33_758,2.0,*капсули тверді з кишковорозчинними міні-таблетками,1,PharmaceuticalDoseForm
+759,ua_33_759,2.0,*слані,1,PharmaceuticalDoseForm
+760,ua_33_760,2.0,*шампунь,1,PharmaceuticalDoseForm
+761,ua_33_761,2.0,*гранули дозовані,1,PharmaceuticalDoseForm
+762,ua_33_762,2.0,*розчин в олії,1,PharmaceuticalDoseForm
+763,ua_33_763,2.0,*розчинник для емульсії,1,PharmaceuticalDoseForm
+764,ua_33_764,2.0,*квітки,1,PharmaceuticalDoseForm
+765,ua_33_765,2.0,*суспензія для розпилення,1,PharmaceuticalDoseForm
+766,ua_33_766,2.0,*ліофілізат для емульсії,1,PharmaceuticalDoseForm
+767,ua_33_767,2.0,*настойка складна,1,PharmaceuticalDoseForm
+768,ua_33_768,2.0,*краплі очні, ліофілізат для емульсії,1,PharmaceuticalDoseForm
+769,ua_33_769,2.0,*квітки (подрібнена сировина),1,PharmaceuticalDoseForm
+770,ua_33_770,2.0,*капсули тверді з гастрорезистентними гранулами,1,PharmaceuticalDoseForm
+771,ua_33_771,2.0,*гелева основа,1,PharmaceuticalDoseForm
+772,ua_33_772,2.0,*драже,1,PharmaceuticalDoseForm
+773,ua_33_773,2.0,*лосьйон,1,PharmaceuticalDoseForm
+774,ua_33_774,2.0,*паста для приготування суспензії для орального застосування,1,PharmaceuticalDoseForm
+775,ua_33_775,2.0,*розчин для перфузій,1,PharmaceuticalDoseForm
+776,ua_33_776,2.0,*листя різано-пресоване,1,PharmaceuticalDoseForm
+777,ua_33_777,2.0,*таблетки, вкриті цукровою оболонкою, кишковорозчинні,1,PharmaceuticalDoseForm
+778,ua_33_778,2.0,*розчин для промивання,1,PharmaceuticalDoseForm
+779,ua_33_779,2.0,*листя та плоди різано-пресовані,1,PharmaceuticalDoseForm
+780,ua_33_780,2.0,*кубики фруктові,1,PharmaceuticalDoseForm

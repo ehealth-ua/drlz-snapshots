@@ -1,0 +1,80 @@
+1,ua_5_1,1.0,Початкова заява на отримання торгової ліцензії,1,ApplicationSubmissionType
+2,ua_5_2,1.0,Зміна типу IA,1,ApplicationSubmissionType
+3,ua_5_3,1.0,Зміна типу ІАнп (зміни типу ІА з негайним повідомленням),1,ApplicationSubmissionType
+4,ua_5_4,1.0,Зміна типу ІБ,1,ApplicationSubmissionType
+5,ua_5_5,1.0,Зміна типу ІІ,1,ApplicationSubmissionType
+6,ua_5_6,1.0,Національна зміна,1,ApplicationSubmissionType
+7,ua_5_7,1.0,Розширення лінійки,1,ApplicationSubmissionType
+8,ua_5_8,1.0,Регулярно оновлюваний звіт з безпеки,1,ApplicationSubmissionType
+9,ua_5_9,1.0,Поновлення (дії торгової ліцензії),1,ApplicationSubmissionType
+10,ua_5_10,1.0,Подальшій захід,1,ApplicationSubmissionType
+11,ua_5_11,1.0,Певне зобов'язання,1,ApplicationSubmissionType
+12,ua_5_12,1.0,Мастер файл на діючу речовину,1,ApplicationSubmissionType
+13,ua_5_13,1.0,Мастер-файл на плазму,1,ApplicationSubmissionType
+14,ua_5_14,1.0,Направлення відповідно до статті 29, 30, 31, 35 або 107i,1,ApplicationSubmissionType
+15,ua_5_15,1.0,Щорічна повторна оцінка,1,ApplicationSubmissionType
+16,ua_5_16,1.0,Термінове обмеження з безпеки,1,ApplicationSubmissionType
+17,ua_5_17,1.0,Педіатричне подання відповідно до Статті 29,1,ApplicationSubmissionType
+18,ua_5_18,1.0,Педіатричне подання відповідно до Статті 46,1,ApplicationSubmissionType
+19,ua_5_19,1.0,Співпраця з ВООЗ відповідно до Статті 58,1,ApplicationSubmissionType
+20,ua_5_20,1.0,Повідомлення відповідно до Статті 61(3),1,ApplicationSubmissionType
+21,ua_5_21,1.0,Передача (трансфер) торгової ліцензії,1,ApplicationSubmissionType
+22,ua_5_22,1.0,Скасування призупинення,1,ApplicationSubmissionType
+23,ua_5_23,1.0,Відкликання,1,ApplicationSubmissionType
+24,ua_5_24,1.0,Зміна формату,3,ApplicationSubmissionType
+25,ua_5_25,1.0,План управління ризиками,1,ApplicationSubmissionType
+26,ua_5_26,1.0,Виправлення до опублікованих додатків,1,ApplicationSubmissionType
+27,ua_5_27,1.0,Перегляд призупинення MA,5,ApplicationSubmissionType
+28,ua_5_28,1.0,Додаткова інформація,3,ApplicationSubmissionType
+29,ua_5_29,1.0,Постліцензійний захід,5,ApplicationSubmissionType
+30,ua_5_30,1.0,Єдина оцінка регулярно оновлюваного звіту з безпеки,1,ApplicationSubmissionType
+31,ua_5_31,1.0,Зміна, що не потребує оцінки,1,ApplicationSubmissionType
+32,ua_5_32,1.0,Зміна, що потребує оцінки (скорочений графік),1,ApplicationSubmissionType
+33,ua_5_33,1.0,Зміна, що потребує оцінки (стандартний графік),1,ApplicationSubmissionType
+34,ua_5_34,1.0,Зміна, що потребує оцінки (подовжений графік),1,ApplicationSubmissionType
+35,ua_5_35,1.0,Часткова відстрочка плану педіатрічних досліджень,1,ApplicationSubmissionType
+36,ua_5_36,1.0,Подальше регулярне оновлення інформації з безпеки,4,ApplicationSubmissionType
+37,ua_5_37,1.0,положення про скасування дії “sunset clause”,1,ApplicationSubmissionType
+38,ua_5_38,1.0,Паралельний імпорт,1,ApplicationSubmissionType
+39,ua_5_39,1.0,Заява на отримання Сертифікату відповідності, що подається до Європейського директорату з якості лікарських засобів і охорони здоров'я (EDQM),1,ApplicationSubmissionType
+40,ua_5_40,1.0,Клінічні дані для публікації - пропозиція щодо анонімізації персональної інформації та приховання конфіденційної інформації,1,ApplicationSubmissionType
+41,ua_5_41,1.0,План педіатричного дослідження відповідно до статті 7, 8 або 30 Регламенту (ЄС) 1901/2006,1,ApplicationSubmissionType
+42,ua_5_42,1.0,Перевірка дотримання плану педіатричного дослідження,1,ApplicationSubmissionType
+43,ua_5_43,1.0,Відстрочка плану педіатричного дослідження,1,ApplicationSubmissionType
+44,ua_5_44,1.0,Часткове звільнення від проведення від плану педіатричного дослідження (частковий вейвер),1,ApplicationSubmissionType
+45,ua_5_45,1.0,Коригувальні/запобіжні дії, пов’язані з постліцензійним заходом,1,ApplicationSubmissionType
+46,ua_5_46,1.0,Юидично обов’язковий захід, пов'язаний з післяліцензійним заходом,1,ApplicationSubmissionType
+47,ua_5_47,1.0,Додаткова діяльність з фармаконагляду в плані управління ризиками,1,ApplicationSubmissionType
+48,ua_5_48,1.0,Подання післяліцензійного дослідження ефективності,1,ApplicationSubmissionType
+49,ua_5_49,1.0,Додаткова діяльність з фармаконагляду в плані управління ризиками,4,ApplicationSubmissionType
+50,ua_5_50,1.0,Направлення відповідно до статті 16c(4) Директиви 2001/83/ЄC,1,ApplicationSubmissionType
+51,ua_5_51,1.0,Направлення відповідно до статті 20 Регламенту (ЄC) 726/2004,1,ApplicationSubmissionType
+52,ua_5_52,1.0,Направлення відповідно до статті 13 Регламенту Комісії (ЄС) 1234/2008,1,ApplicationSubmissionType
+53,ua_5_53,1.0,жодної регуляторної діяльності,1,ApplicationSubmissionType
+54,ua_5_54,1.0,Клінічні дані для публікації – остаточна версія,1,ApplicationSubmissionType
+55,ua_5_55,1.0,Подання плану педіатричного дослідження (Модуль 1.10),1,ApplicationSubmissionType
+56,ua_5_56,1.0,Pвільнення від проведення від плану педіатричного дослідження (вейвер),1,ApplicationSubmissionType
+57,ua_5_57,1.0,Умова щодо постліцензійного заходу, яка внесена до Додатку II до торгової ліцензії,1,ApplicationSubmissionType
+58,ua_5_58,1.0,Рекомендація, пов’язана з постліцензійним заходом,1,ApplicationSubmissionType
+59,ua_5_59,1.0,Сукупний аналіз після запиту, пов’язаного з постліцензійним заходом,1,ApplicationSubmissionType
+60,ua_5_60,1.0,Певне зобов’язання, пов’язане з постліцензійним заходом,1,ApplicationSubmissionType
+61,ua_5_61,1.0,Подання протоколу постліцензійного дослідження безпеки (відповідно до статті 107n Директиви 2001/83/ЄC),1,ApplicationSubmissionType
+62,ua_5_62,1.0,Подання післяавторизаційного звіту про дослідження з метою безпеки (згідно зі ст. 107o Директиви 2001/83/ЄК),1,ApplicationSubmissionType
+63,ua_5_63,1.0,Подання звіту про постліцензійне дослідження безпеки (відповідно до статті 107q Директиви 2001/83/ЄC),1,ApplicationSubmissionType
+64,ua_5_64,1.0,Направлення відповідно до статті 107i Директиви 2001/83/ЄС,1,ApplicationSubmissionType
+65,ua_5_65,1.0,Направлення відповідно до статті 16c (1c) Директиви 2001/83/ЄC,1,ApplicationSubmissionType
+66,ua_5_66,1.0,Направлення відповідно до статті 29(4) Директиви 2001/83/ЄC,1,ApplicationSubmissionType
+67,ua_5_67,1.0,Направлення відповідно до статті 29(1) Директиви 2001/83/ЄC,1,ApplicationSubmissionType
+68,ua_5_68,1.0,Направлення відповідно до статті 29 Педіатричного регламенту (ЄС) 1901/2006,1,ApplicationSubmissionType
+69,ua_5_69,1.0,Направлення відповідно до статті 30 Директиви 2001/83/ЄС,1,ApplicationSubmissionType
+70,ua_5_70,1.0,Направлення відповідно до статті 31 Директиви 2001/83/ЄС,1,ApplicationSubmissionType
+71,ua_5_71,1.0,Направлення відповідно до статті 35 Директиви 2001/83/ЄС,1,ApplicationSubmissionType
+72,ua_5_72,1.0,Направлення відповідно до статті 5(3) Регламенту (ЄС) 726/2004,1,ApplicationSubmissionType
+73,ua_5_73,1.0,Процедура повторного вискористання процедури взаємного визнання,1,ApplicationSubmissionType
+74,ua_5_74,1.0,Виявлення сигналу,1,ApplicationSubmissionType
+75,ua_5_75,1.0,Заява на призначення статусу препарата-сироти,1,ApplicationSubmissionType
+76,ua_5_76,1.0,Заява на реєстрацію у базі підозрюваних побічних реакцій EudraVigilance,1,ApplicationSubmissionType
+77,ua_5_77,1.0,Паралельна торгівля,1,ApplicationSubmissionType
+78,ua_5_78,1.0,Зміна типу ІІ відповідно до ст. 29,1,ApplicationSubmissionType
+79,ua_5_79,1.0,Зміна типу IB непередбачена,1,ApplicationSubmissionType
+80,ua_5_80,1.0,Зміна що вимагає оцінки (I зміни),1,ApplicationSubmissionType

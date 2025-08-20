@@ -1,0 +1,22 @@
+1,ua_40_1,1.0,Дійсна - Передана торгова ліцензія,1,RegulatoryEntitlementStatus
+2,ua_40_2,1.0,Дійсна - Оновлена/змінена,1,RegulatoryEntitlementStatus
+3,ua_40_3,1.0,Відмова від права,1,RegulatoryEntitlementStatus
+4,ua_40_4,1.0,Отримана заява,4,RegulatoryEntitlementStatus
+5,ua_40_5,1.0,Заява відкликана,4,RegulatoryEntitlementStatus
+6,ua_40_6,1.0,Дійсна,1,RegulatoryEntitlementStatus
+7,ua_40_7,1.0,Закінчився термін дії,1,RegulatoryEntitlementStatus
+8,ua_40_8,1.0,Заява не прийнята,4,RegulatoryEntitlementStatus
+9,ua_40_9,1.0,Заява відхилена,4,RegulatoryEntitlementStatus
+10,ua_40_10,1.0,Не оновлена,1,RegulatoryEntitlementStatus
+11,ua_40_11,1.0,Відкликана,1,RegulatoryEntitlementStatus
+12,ua_40_12,1.0,Відкликана, не вказано,1,RegulatoryEntitlementStatus
+13,ua_40_13,1.0,Анульована,1,RegulatoryEntitlementStatus
+14,ua_40_14,1.0,Призупинена,1,RegulatoryEntitlementStatus
+15,ua_40_15,1.0,Закінчився термін дії внаслідок положення про припинення дії,1,RegulatoryEntitlementStatus
+16,ua_40_16,1.0,Очікує на розгляд,1,RegulatoryEntitlementStatus
+17,ua_40_17,1.0,Відхилена,1,RegulatoryEntitlementStatus
+18,ua_40_18,1.0,До подання,1,RegulatoryEntitlementStatus
+19,ua_40_19,1.0,Гармонізована,1,RegulatoryEntitlementStatus
+20,ua_40_20,1.0,Не дійсна - Замінена оновленною/зміненою торговою ліцензєю,1,RegulatoryEntitlementStatus
+21,ua_40_21,1.0,Не дійсна - Замінена переданою торговою ліцензією,1,RegulatoryEntitlementStatus
+22,ua_40_22,1.0,Очікує на національну фазу,1,RegulatoryEntitlementStatus

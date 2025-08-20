@@ -1,0 +1,182 @@
+1,ua_54_1,1.0,Глобула,5,UnitsOfPresentation
+2,ua_54_2,1.0,Плитка,5,UnitsOfPresentation
+3,ua_54_3,1.0,Гомеопатичне розведення,3,UnitsOfPresentation
+4,ua_54_4,1.0,Бочка,1,UnitsOfPresentation
+5,ua_54_5,1.0,Блістер,1,UnitsOfPresentation
+6,ua_54_6,1.0,Блок,1,UnitsOfPresentation
+7,ua_54_7,1.0,Пляшка,1,UnitsOfPresentation
+8,ua_54_8,1.0,Облатка,1,UnitsOfPresentation
+9,ua_54_9,1.0,Капсула,1,UnitsOfPresentation
+10,ua_54_10,1.0,Картридж,1,UnitsOfPresentation
+11,ua_54_11,1.0,Нашийник,1,UnitsOfPresentation
+12,ua_54_12,1.0,Контейнер,1,UnitsOfPresentation
+13,ua_54_13,1.0,Чашка,1,UnitsOfPresentation
+14,ua_54_14,1.0,Балон,1,UnitsOfPresentation
+15,ua_54_15,1.0,Дротик,1,UnitsOfPresentation
+16,ua_54_16,1.0,Перев'язувальний матеріал,1,UnitsOfPresentation
+17,ua_54_17,1.0,Крапля,1,UnitsOfPresentation
+18,ua_54_18,1.0,Плівка,1,UnitsOfPresentation
+19,ua_54_19,1.0,Жувальна гумка,1,UnitsOfPresentation
+20,ua_54_20,1.0,Імплантат,1,UnitsOfPresentation
+21,ua_54_21,1.0,Інгалятор,1,UnitsOfPresentation
+22,ua_54_22,1.0,Вкладка,1,UnitsOfPresentation
+23,ua_54_23,1.0,Банка,1,UnitsOfPresentation
+24,ua_54_24,1.0,Льодяник,1,UnitsOfPresentation
+25,ua_54_25,1.0,Ліофілізат,1,UnitsOfPresentation
+26,ua_54_26,1.0,Матриця,1,UnitsOfPresentation
+27,ua_54_27,1.0,Подушечка,1,UnitsOfPresentation
+28,ua_54_28,1.0,Папір,1,UnitsOfPresentation
+29,ua_54_29,1.0,Пастилка,1,UnitsOfPresentation
+30,ua_54_30,1.0,Патч,1,UnitsOfPresentation
+31,ua_54_31,1.0,Ручка,1,UnitsOfPresentation
+32,ua_54_32,1.0,Підвіска,1,UnitsOfPresentation
+33,ua_54_33,1.0,Песарій,1,UnitsOfPresentation
+34,ua_54_34,1.0,Пігулка,1,UnitsOfPresentation
+35,ua_54_35,1.0,Піпетка,1,UnitsOfPresentation
+36,ua_54_36,1.0,Пластир,1,UnitsOfPresentation
+37,ua_54_37,1.0,Тампон,1,UnitsOfPresentation
+38,ua_54_38,1.0,Мішечок,1,UnitsOfPresentation
+39,ua_54_39,1.0,Саше,1,UnitsOfPresentation
+40,ua_54_40,1.0,Губка,1,UnitsOfPresentation
+41,ua_54_41,1.0,Ложка,1,UnitsOfPresentation
+42,ua_54_42,1.0,Стік,1,UnitsOfPresentation
+43,ua_54_43,1.0,Соломинка,1,UnitsOfPresentation
+44,ua_54_44,1.0,Стріп,1,UnitsOfPresentation
+45,ua_54_45,1.0,Супозиторій,1,UnitsOfPresentation
+46,ua_54_46,1.0,Шприц,1,UnitsOfPresentation
+47,ua_54_47,1.0,Система,1,UnitsOfPresentation
+48,ua_54_48,1.0,Таблетка,1,UnitsOfPresentation
+49,ua_54_49,1.0,Мітка,1,UnitsOfPresentation
+50,ua_54_50,1.0,Тампон,1,UnitsOfPresentation
+51,ua_54_51,1.0,Нитка,1,UnitsOfPresentation
+52,ua_54_52,1.0,Трубка,1,UnitsOfPresentation
+53,ua_54_53,1.0,Ємність,1,UnitsOfPresentation
+54,ua_54_54,1.0,Флакон,1,UnitsOfPresentation
+55,ua_54_55,1.0,Струмінь повітря,4,UnitsOfPresentation
+56,ua_54_56,1.0,Введення,1,UnitsOfPresentation
+57,ua_54_57,1.0,Ампула,1,UnitsOfPresentation
+58,ua_54_58,1.0,Аплікатор,1,UnitsOfPresentation
+59,ua_54_59,1.0,М'який резервуар,1,UnitsOfPresentation
+60,ua_54_60,1.0,Коробка,3,UnitsOfPresentation
+61,ua_54_61,1.0,Голка,3,UnitsOfPresentation
+62,ua_54_62,1.0,Доза,3,UnitsOfPresentation
+63,ua_54_63,1.0,Пакет,3,UnitsOfPresentation
+64,ua_54_64,1.0,Спрей,3,UnitsOfPresentation
+65,ua_54_65,1.0,Набір,3,UnitsOfPresentation
+66,ua_54_66,1.0,Гранула,3,UnitsOfPresentation
+67,ua_54_67,1.0,Вафля,3,UnitsOfPresentation
+68,ua_54_68,1.0,Тампон,1,UnitsOfPresentation
+69,ua_54_69,1.0,Пелет,3,UnitsOfPresentation
+70,ua_54_70,1.0,Картонна коробка,3,UnitsOfPresentation
+71,ua_54_71,1.0,Диск,3,UnitsOfPresentation
+72,ua_54_72,1.0,Болюс,3,UnitsOfPresentation
+73,ua_54_73,1.0,Кулька,3,UnitsOfPresentation
+74,ua_54_74,1.0,Банка,3,UnitsOfPresentation
+75,ua_54_75,1.0,Целофанова упаковка,3,UnitsOfPresentation
+76,ua_54_76,1.0,Покриття,3,UnitsOfPresentation
+77,ua_54_77,1.0,Розчин для занурення,3,UnitsOfPresentation
+78,ua_54_78,1.0,Упаковка для дози,3,UnitsOfPresentation
+79,ua_54_79,1.0,Генератор,3,UnitsOfPresentation
+80,ua_54_80,1.0,Кухоль,3,UnitsOfPresentation
+81,ua_54_81,1.0,Частина,3,UnitsOfPresentation
+82,ua_54_82,1.0,Великий мішок,3,UnitsOfPresentation
+83,ua_54_83,1.0,Каністра,3,UnitsOfPresentation
+84,ua_54_84,1.0,Ящик,3,UnitsOfPresentation
+85,ua_54_85,1.0,Пристрій,3,UnitsOfPresentation
+86,ua_54_86,1.0,Дьюар,3,UnitsOfPresentation
+87,ua_54_87,1.0,Упаковка з диском, що обертається,3,UnitsOfPresentation
+88,ua_54_88,1.0,Циліндричний контейнер,3,UnitsOfPresentation
+89,ua_54_89,1.0,Інше,1,UnitsOfPresentation
+90,ua_54_90,1.0,Кільце,3,UnitsOfPresentation
+91,ua_54_91,1.0,Упаковка, яка фіксує кожну прийняту дозу,3,UnitsOfPresentation
+92,ua_54_92,1.0,Бак,3,UnitsOfPresentation
+93,ua_54_93,1.0,Піддон,3,UnitsOfPresentation
+94,ua_54_94,1.0,Проба,1,UnitsOfPresentation
+95,ua_54_95,1.0,Корж,3,UnitsOfPresentation
+96,ua_54_96,1.0,Невідома,3,UnitsOfPresentation
+97,ua_54_97,1.0,Порція,5,UnitsOfPresentation
+98,ua_54_98,1.0,Наживка,3,UnitsOfPresentation
+99,ua_54_99,1.0,*контурна чарункова упаковка,1,UnitsOfPresentation
+100,ua_54_100,1.0,*перехідник для флакона,1,UnitsOfPresentation
+101,ua_54_101,1.0,*групова тара,1,UnitsOfPresentation
+102,ua_54_102,1.0,*аплікатор для введення піни,1,UnitsOfPresentation
+103,ua_54_103,1.0,*туба-крапельниця,1,UnitsOfPresentation
+104,ua_54_104,1.0,*пачка,1,UnitsOfPresentation
+105,ua_54_105,1.0,*лоток,1,UnitsOfPresentation
+106,ua_54_106,1.0,*чарункова упаковка,1,UnitsOfPresentation
+107,ua_54_107,1.0,*фільтр-пакет,1,UnitsOfPresentation
+108,ua_54_108,1.0,*килимок,1,UnitsOfPresentation
+109,ua_54_109,1.0,*туба-олівець,1,UnitsOfPresentation
+110,ua_54_110,1.0,*фліп-упаковка,1,UnitsOfPresentation
+111,ua_54_111,1.0,*попередньо наповнений інжектор,1,UnitsOfPresentation
+112,ua_54_112,1.0,*касета,1,UnitsOfPresentation
+113,ua_54_113,1.0,*поршень,1,UnitsOfPresentation
+114,ua_54_114,1.0,*плівка,1,UnitsOfPresentation
+115,ua_54_115,1.0,*гаманець,1,UnitsOfPresentation
+116,ua_54_116,1.0,*самоклеючий календар-стікер,1,UnitsOfPresentation
+117,ua_54_117,1.0,*голка для розчинення,1,UnitsOfPresentation
+118,ua_54_118,1.0,*етикетка,1,UnitsOfPresentation
+119,ua_54_119,1.0,*адаптер,1,UnitsOfPresentation
+120,ua_54_120,1.0,*блістерна чарункова упаковка,1,UnitsOfPresentation
+121,ua_54_121,1.0,*газифікатор,1,UnitsOfPresentation
+122,ua_54_122,1.0,*клізма,1,UnitsOfPresentation
+123,ua_54_123,1.0,*багатошарова обгортка,1,UnitsOfPresentation
+124,ua_54_124,1.0,*чарункова упаковка (піддон),1,UnitsOfPresentation
+125,ua_54_125,1.0,*блок,1,UnitsOfPresentation
+126,ua_54_126,1.0,*комплект,1,UnitsOfPresentation
+127,ua_54_127,1.0,*обгортка,1,UnitsOfPresentation
+128,ua_54_128,1.0,*тримач шпателя,1,UnitsOfPresentation
+129,ua_54_129,1.0,*туба-канюля,1,UnitsOfPresentation
+130,ua_54_130,1.0,*моноблок-балон,1,UnitsOfPresentation
+131,ua_54_131,1.0,*конверт,1,UnitsOfPresentation
+132,ua_54_132,1.0,*пилочка,1,UnitsOfPresentation
+133,ua_54_133,1.0,*упор для пальців,1,UnitsOfPresentation
+134,ua_54_134,1.0,*напальчник,1,UnitsOfPresentation
+135,ua_54_135,1.0,*контурна упаковка,1,UnitsOfPresentation
+136,ua_54_136,1.0,*пакет-саше,1,UnitsOfPresentation
+137,ua_54_137,1.0,*шпатель,1,UnitsOfPresentation
+138,ua_54_138,1.0,*пачка з перегородками,1,UnitsOfPresentation
+139,ua_54_139,1.0,*упаковка,1,UnitsOfPresentation
+140,ua_54_140,1.0,*контурний чарунковий блістер,1,UnitsOfPresentation
+141,ua_54_141,1.0,*шприц-туба,1,UnitsOfPresentation
+142,ua_54_142,1.0,*кришка-крапельниця,1,UnitsOfPresentation
+143,ua_54_143,1.0,*контурна безчарункова упаковка,1,UnitsOfPresentation
+144,ua_54_144,1.0,*дискус,1,UnitsOfPresentation
+145,ua_54_145,1.0,*бутель,1,UnitsOfPresentation
+146,ua_54_146,1.0,*газовий циліндр,1,UnitsOfPresentation
+147,ua_54_147,1.0,*мегапак,1,UnitsOfPresentation
+148,ua_54_148,1.0,*ротадиск,1,UnitsOfPresentation
+149,ua_54_149,1.0,*шприц для одноразового використання,1,UnitsOfPresentation
+150,ua_54_150,1.0,*безлатексний багатошаровий інфузійний пакет, оснащений поворотним роз'ємом порт-системи,1,UnitsOfPresentation
+151,ua_54_151,1.0,*серветка,1,UnitsOfPresentation
+152,ua_54_152,1.0,*стержень поршня,1,UnitsOfPresentation
+153,ua_54_153,1.0,*контурна коміркова упаковка,1,UnitsOfPresentation
+154,ua_54_154,1.0,*піднос,1,UnitsOfPresentation
+155,ua_54_155,1.0,*тюбик-крапельниця,1,UnitsOfPresentation
+156,ua_54_156,1.0,*канюля,1,UnitsOfPresentation
+157,ua_54_157,1.0,*чарункова вкладка,1,UnitsOfPresentation
+158,ua_54_158,1.0,*контурна чарункова упаковка або блістер,1,UnitsOfPresentation
+159,ua_54_159,1.0,*лоток-блістер,1,UnitsOfPresentation
+160,ua_54_160,1.0,*пробірка,1,UnitsOfPresentation
+161,ua_54_161,1.0,*небула,1,UnitsOfPresentation
+162,ua_54_162,1.0,*контурна чарункова упаковка (піддон),1,UnitsOfPresentation
+163,ua_54_163,1.0,*бандероль,1,UnitsOfPresentation
+164,ua_54_164,1.0,*фіксатор (утримувач),1,UnitsOfPresentation
+165,ua_54_165,1.0,*пенал,1,UnitsOfPresentation
+166,ua_54_166,1.0,*світлозахисний футляр,1,UnitsOfPresentation
+167,ua_54_167,1.0,*упаковка типу гаманця,1,UnitsOfPresentation
+168,ua_54_168,1.0,*фільтр,1,UnitsOfPresentation
+169,ua_54_169,1.0,*піддон,1,UnitsOfPresentation
+170,ua_54_170,1.0,*лопаточка,1,UnitsOfPresentation
+171,ua_54_171,1.0,*шток поршня,1,UnitsOfPresentation
+172,ua_54_172,1.0,*форма,1,UnitsOfPresentation
+173,ua_54_173,1.0,*туба,1,UnitsOfPresentation
+174,ua_54_174,1.0,*чарунковий лоток,1,UnitsOfPresentation
+175,ua_54_175,1.0,*індивідуальна алюмінієва фольга,1,UnitsOfPresentation
+176,ua_54_176,1.0,*блістер-карта,1,UnitsOfPresentation
+177,ua_54_177,1.0,*футляр,1,UnitsOfPresentation
+178,ua_54_178,1.0,*голка для введення,1,UnitsOfPresentation
+179,ua_54_179,1.0,*наклейка,1,UnitsOfPresentation
+180,ua_54_180,1.0,*карпула,1,UnitsOfPresentation
+181,ua_54_181,1.0,*з’єднувальний елемент,1,UnitsOfPresentation
+182,ua_54_182,1.0,*ковпачок,1,UnitsOfPresentation

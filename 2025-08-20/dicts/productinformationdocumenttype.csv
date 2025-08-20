@@ -1,0 +1,19 @@
+1,ua_36_1,1.0,Листок-вкладиш та маркування,1,ProductInformationDocumentType
+2,ua_36_2,1.0,Коротка характеристика лікарського засобу,1,ProductInformationDocumentType
+3,ua_36_3,1.0,Додаток II,1,ProductInformationDocumentType
+4,ua_36_4,1.0,Вторинна (зовнішня) упаковка,1,ProductInformationDocumentType
+5,ua_36_5,1.0,Маркування,1,ProductInformationDocumentType
+6,ua_36_6,1.0,Первинна (внутрішня) упаковка,1,ProductInformationDocumentType
+7,ua_36_7,1.0,Інша інформація про лікарський засіб,1,ProductInformationDocumentType
+8,ua_36_8,1.0,Листок-вкладиш ,1,ProductInformationDocumentType
+9,ua_36_9,1.0,Об'єднаний файл усіх документів,1,ProductInformationDocumentType
+10,ua_36_10,1.0,Макети,1,ProductInformationDocumentType
+11,ua_36_11,1.0,Додаток V,1,ProductInformationDocumentType
+12,ua_36_12,1.0,Список усіх ліцензованих форм випуску (Додаток А),1,ProductInformationDocumentType
+13,ua_36_13,1.0,Обмеження, що встановлюються державами-членами (Додаток 127a) (Додаток, що подається відповідно до статті 127a Директиви 2001/83/ЄС),1,ProductInformationDocumentType
+14,ua_36_14,1.0,Зразки,1,ProductInformationDocumentType
+15,ua_36_15,1.0,*Спосіб застосування та дози,1,ProductInformationDocumentType
+16,ua_36_16,1.0,*Запобіжні заходи,1,ProductInformationDocumentType
+17,ua_36_17,1.0,*Взаємодія з іншими ЛЗ,1,ProductInformationDocumentType
+18,ua_36_18,1.0,*Протипоказання,1,ProductInformationDocumentType
+19,ua_36_19,1.0,*Побічна дія,1,ProductInformationDocumentType

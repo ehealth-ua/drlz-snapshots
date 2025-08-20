@@ -1,0 +1,52 @@
+1,ua_6_1,1.0,Рослинний матеріал (необроблений),1,BasicDoseForm
+2,ua_6_2,1.0,Льодяник,1,BasicDoseForm
+3,ua_6_3,1.0,Ліофілізат,1,BasicDoseForm
+4,ua_6_4,1.0,Пастилка,1,BasicDoseForm
+5,ua_6_5,1.0,Патч,1,BasicDoseForm
+6,ua_6_6,1.0,Пелети,1,BasicDoseForm
+7,ua_6_7,1.0,Песарій,1,BasicDoseForm
+8,ua_6_8,1.0,Пігулки,1,BasicDoseForm
+9,ua_6_9,1.0,Пластир,1,BasicDoseForm
+10,ua_6_10,1.0,Порошок,1,BasicDoseForm
+11,ua_6_11,1.0,Стік,1,BasicDoseForm
+12,ua_6_12,1.0,Супозиторій,1,BasicDoseForm
+13,ua_6_13,1.0,Таблетка,1,BasicDoseForm
+14,ua_6_14,1.0,Чай,1,BasicDoseForm
+15,ua_6_15,1.0,Крем,1,BasicDoseForm
+16,ua_6_16,1.0,Піна,1,BasicDoseForm
+17,ua_6_17,1.0,Гель,1,BasicDoseForm
+18,ua_6_18,1.0,Мазь,1,BasicDoseForm
+19,ua_6_19,1.0,Припарка,1,BasicDoseForm
+20,ua_6_20,1.0,Колодій,1,BasicDoseForm
+21,ua_6_21,1.0,Концентрат,1,BasicDoseForm
+22,ua_6_22,1.0,Дисперсія,1,BasicDoseForm
+23,ua_6_23,1.0,Емульсія,1,BasicDoseForm
+24,ua_6_24,1.0,Лак,1,BasicDoseForm
+25,ua_6_25,1.0,Рідина,1,BasicDoseForm
+26,ua_6_26,1.0,Розчин,1,BasicDoseForm
+27,ua_6_27,1.0,Розчинник,1,BasicDoseForm
+28,ua_6_28,1.0,Суспензія,1,BasicDoseForm
+29,ua_6_29,1.0,Сироп,1,BasicDoseForm
+30,ua_6_30,1.0,Медичний газ,1,BasicDoseForm
+31,ua_6_31,1.0,Вкладка,1,BasicDoseForm
+32,ua_6_32,1.0,Добавка (не уточнена),1,BasicDoseForm
+33,ua_6_33,1.0,Краплі (не вказано),3,BasicDoseForm
+34,ua_6_34,1.0,Премікс (не вказано),1,BasicDoseForm
+35,ua_6_35,1.0,Радіофармацевтична,1,BasicDoseForm
+36,ua_6_36,1.0,Шампунь,1,BasicDoseForm
+37,ua_6_37,1.0,Спрей (не визначений),3,BasicDoseForm
+38,ua_6_38,1.0,Система,1,BasicDoseForm
+39,ua_6_39,1.0,Невідома,1,BasicDoseForm
+40,ua_6_40,1.0,Мішечок,1,BasicDoseForm
+41,ua_6_41,1.0,Цемент,1,BasicDoseForm
+42,ua_6_42,1.0,Паста,1,BasicDoseForm
+43,ua_6_43,1.0,Блок,1,BasicDoseForm
+44,ua_6_44,1.0,Облатка,1,BasicDoseForm
+45,ua_6_45,1.0,Капсула,1,BasicDoseForm
+46,ua_6_46,1.0,Плівка,1,BasicDoseForm
+47,ua_6_47,1.0,Гранули,1,BasicDoseForm
+48,ua_6_48,1.0,Гумка,1,BasicDoseForm
+49,ua_6_49,1.0,Імплантат,1,BasicDoseForm
+50,ua_6_50,1.0,Просочений матеріал,1,BasicDoseForm
+51,ua_6_51,1.0,Внутрішньорумінальний пристрій,1,BasicDoseForm
+52,ua_6_52,1.0,Жива тварина,1,BasicDoseForm

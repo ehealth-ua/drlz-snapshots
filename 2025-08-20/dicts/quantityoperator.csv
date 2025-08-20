@@ -1,0 +1,10 @@
+1,ua_37_1,1.0,кількість достатня,5,QuantityOperator
+2,ua_37_2,1.0,дорівнює,1,QuantityOperator
+3,ua_37_3,1.0,менше ніж,1,QuantityOperator
+4,ua_37_4,1.0,більше ніж,1,QuantityOperator
+5,ua_37_5,1.0,менше ніж або дорівнює,1,QuantityOperator
+6,ua_37_6,1.0,більше ніж або дорівнює,1,QuantityOperator
+7,ua_37_7,1.0,еквівалентно,1,QuantityOperator
+8,ua_37_8,1.0,приблизно дорівнює,1,QuantityOperator
+9,ua_37_9,1.0,діапазон,1,QuantityOperator
+10,ua_37_10,1.0,середня,1,QuantityOperator

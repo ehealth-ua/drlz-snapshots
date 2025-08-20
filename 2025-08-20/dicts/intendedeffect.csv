@@ -1,0 +1,13 @@
+1,ua_16_1,1.0,Діагностичне використання,1,IntendedEffect
+2,ua_16_2,1.0,Профілактика,1,IntendedEffect
+3,ua_16_3,1.0,Паліативний,1,IntendedEffect
+4,ua_16_4,1.0,Лікувальний,1,IntendedEffect
+5,ua_16_5,1.0,Активна імунізація,1,IntendedEffect
+6,ua_16_6,1.0,Пасивна імунізація,1,IntendedEffect
+7,ua_16_7,1.0,Первинна імунізація,1,IntendedEffect
+8,ua_16_8,1.0,Підсилювальна імунізація,1,IntendedEffect
+9,ua_16_9,1.0,Допоміжний,1,IntendedEffect
+10,ua_16_10,1.0,Заміщення,1,IntendedEffect
+11,ua_16_11,1.0,Підтримувальний,1,IntendedEffect
+12,ua_16_12,1.0,Редукція,1,IntendedEffect
+13,ua_16_13,1.0,Підтримуюча терапія,1,IntendedEffect

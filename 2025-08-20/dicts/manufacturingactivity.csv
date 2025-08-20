@@ -1,0 +1,49 @@
+1,ua_21_1,1.0,Виробник, відповідальний за сертифікацію партії,1,ManufacturingActivity
+2,ua_21_2,1.0,Контрольне тестування якості лікарського засобу,1,ManufacturingActivity
+3,ua_21_3,1.0,Мікробіологічне дослідження: стерильність,1,ManufacturingActivity
+4,ua_21_4,1.0,Мікробіологічне тестування: нестерильність,1,ManufacturingActivity
+5,ua_21_5,1.0,Хімічні/фізичні дослідження,1,ManufacturingActivity
+6,ua_21_6,1.0,Біологічне дослідження,1,ManufacturingActivity
+7,ua_21_7,1.0,Операції з обробки лікарського засобу,1,ManufacturingActivity
+8,ua_21_8,1.0,Виробник готової продукції проміжний,1,ManufacturingActivity
+9,ua_21_9,1.0,Виробництво розчиннику/розріджувачу,1,ManufacturingActivity
+10,ua_21_10,1.0,Тестування контролю якості діючої речовини,1,ManufacturingActivity
+11,ua_21_11,1.0,Мікробіологічне дослідження: стерильність,1,ManufacturingActivity
+12,ua_21_12,1.0,Мікробіологічне дослідження: нестерильність,1,ManufacturingActivity
+13,ua_21_13,1.0,Хімічні/фізичні дослідження,1,ManufacturingActivity
+14,ua_21_14,1.0,Біологічне дослідження,1,ManufacturingActivity
+15,ua_21_15,1.0,Виробництво активної речовини проміжне,1,ManufacturingActivity
+16,ua_21_16,1.0,Упаковка активної речовини,1,ManufacturingActivity
+17,ua_21_17,1.0,Зберігання та/або розподіл активної речовини,1,ManufacturingActivity
+18,ua_21_18,1.0,Стерилізація,1,ManufacturingActivity
+19,ua_21_19,1.0,Фільтрація,1,ManufacturingActivity
+20,ua_21_20,1.0,Сухе тепло,1,ManufacturingActivity
+21,ua_21_21,1.0,Вологе тепло,1,ManufacturingActivity
+22,ua_21_22,1.0,Хімікат,1,ManufacturingActivity
+23,ua_21_23,1.0,Гамма-опромінення,1,ManufacturingActivity
+24,ua_21_24,1.0,Електронний промінь,1,ManufacturingActivity
+25,ua_21_25,1.0,Первинна упаковка,1,ManufacturingActivity
+26,ua_21_26,1.0,Вторинна упаковка,1,ManufacturingActivity
+27,ua_21_27,1.0,Фізичний імпорт,1,ManufacturingActivity
+28,ua_21_28,1.0,Зберігання та/або розподіл лікарського засобу,1,ManufacturingActivity
+29,ua_21_29,1.0,Виробництво активної речовини,1,ManufacturingActivity
+30,ua_21_30,1.0,Підготовка робочого банку клітин,1,ManufacturingActivity
+31,ua_21_31,1.0,Зберігання головного банку клітин та/або робочого банку клітин,1,ManufacturingActivity
+32,ua_21_32,1.0,Організація дослідницьких контрактів з біоеквівалентності (CRO),1,ManufacturingActivity
+33,ua_21_33,1.0,Виробник допоміжного лікарського засобу,1,ManufacturingActivity
+34,ua_21_34,1.0,Виробник медичного виробу,1,ManufacturingActivity
+35,ua_21_35,1.0,Виробник допоміжної речовини, що використовується в медичному виробі,1,ManufacturingActivity
+36,ua_21_36,1.0,Офіційна лабораторія контролю медицини (OMCL),1,ManufacturingActivity
+37,ua_21_37,1.0,Зазначений корпус медичного виробу,1,ManufacturingActivity
+38,ua_21_38,1.0,Переробка нестерильного лікарського засобу,1,ManufacturingActivity
+39,ua_21_39,1.0,Обробка стерильного лікарського засобу –асептично підготовленого,1,ManufacturingActivity
+40,ua_21_40,1.0,Виробництво активної речовини проміжного продукту шляхом хімічного синтезу,1,ManufacturingActivity
+41,ua_21_41,1.0,Виробництво активної речовини проміжного продукту з використанням біологічних процесів,1,ManufacturingActivity
+42,ua_21_42,1.0,Фізична обробка діючої речовини проміжного продукту,1,ManufacturingActivity
+43,ua_21_43,1.0,Первинна упаковка активної речовини,1,ManufacturingActivity
+44,ua_21_44,1.0,Вторинна упаковка активної речовини,1,ManufacturingActivity
+45,ua_21_45,1.0,Переробка стерильного лікарського засобу – остаточно стерилізована,1,ManufacturingActivity
+46,ua_21_46,1.0,Виробництво діючої речовини шляхом хімічного синтезу,1,ManufacturingActivity
+47,ua_21_47,1.0,Видобування діючої речовини з природних джерел,1,ManufacturingActivity
+48,ua_21_48,1.0,Виробництво активної речовини з використанням біологічних процесів,1,ManufacturingActivity
+49,ua_21_49,1.0,Фізична обробка діючої речовини,1,ManufacturingActivity

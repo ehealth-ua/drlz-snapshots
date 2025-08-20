@@ -1,0 +1,16 @@
+1,ua_27_1,1.0,Повна назва,1,MedicinalProductNamePartType
+2,ua_27_2,1.0,Частина, що вказує на вигадану назву,1,MedicinalProductNamePartType
+3,ua_27_3,1.0,Частина, що вказує на наукову назву,1,MedicinalProductNamePartType
+4,ua_27_4,1.0,Частина, що вказує на силу дії,1,MedicinalProductNamePartType
+5,ua_27_5,1.0,Частина, що вказує на фармацевтичну дозовану форму (?лікарську форму),1,MedicinalProductNamePartType
+6,ua_27_6,1.0,Частина, що вказує на формулу (?склад),1,MedicinalProductNamePartType
+7,ua_27_7,1.0,Частина, що вказує на цільоване застосоування,1,MedicinalProductNamePartType
+8,ua_27_8,1.0,Частина, що вказує на цільову популяцію,1,MedicinalProductNamePartType
+9,ua_27_9,1.0,Частина, що вказує на контейнер або упаковку,1,MedicinalProductNamePartType
+10,ua_27_10,1.0,Частина, що вказує на пристрій,1,MedicinalProductNamePartType
+11,ua_27_11,1.0,Частина, що вказує на торгову марку або назву компанії,1,MedicinalProductNamePartType
+12,ua_27_12,1.0,Частина, що вказує на час/період,1,MedicinalProductNamePartType
+13,ua_27_13,1.0,Частина, що вказує на смак,1,MedicinalProductNamePartType
+14,ua_27_14,1.0,Частина, що вказуэ на роздільник,1,MedicinalProductNamePartType
+15,ua_27_15,1.0,Спадкова назва,1,MedicinalProductNamePartType
+16,ua_27_16,1.0,Частина , що вказує на назву цільових видів тварин,1,MedicinalProductNamePartType
