@@ -1,4 +1,5 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"2500","1.0","Atc","2024-11-28T15:49:21.310","2024-11-28T15:49:21.310","100000095228","1","1","гахіміцин","hachimycin","ua_4_2500","false",null,null,null
 "2501","1.0","Atc","2024-11-28T15:49:21.310","2024-11-28T15:49:21.310","100000095229","1","1","окситетрациклін","oxytetracycline","ua_4_2501","false",null,null,null
 "2502","1.0","Atc","2024-11-28T15:49:21.310","2024-11-28T15:49:21.310","100000095230","1","1","карфециллін","carfecillin","ua_4_2502","false",null,null,null
 "2503","1.0","Atc","2024-11-28T15:49:21.310","2024-11-28T15:49:21.310","100000095231","1","1","мепартрицин","mepartricin","ua_4_2503","false",null,null,null
