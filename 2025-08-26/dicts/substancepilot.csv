@@ -1,1 +1,21 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075987","1","1","ЛЮДСЬКИЙ ІМУНОГЛОБУЛІН ПРОТИ КОРУ","HUMAN MEASLES IMMUNOGLOBULIN","ua_59_1","false",null,null,null
+"2","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075988","1","1","ЛЮДСЬКА ПЛАЗМА ДЛЯ ФРАКЦІОНУВАННЯ","HUMAN PLASMA FOR FRACTIONATION","ua_59_2","false",null,null,null
+"3","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075989","1","1","ХЛОРИДНА КИСЛОТА, КОНЦЕНТРОВАНА","HYDROCHLORIC ACID, CONCENTRATED","ua_59_3","false",null,null,null
+"4","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075990","1","1","РОЗВЕДЕНА ХЛОРИДНА КИСЛОТА","DILUTED HYDROCHLORIC ACID","ua_59_4","false",null,null,null
+"5","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075991","1","1","ПЕРЕКИС ВОДНЮ РОЗЧИН (3-ПРОЦЕНТНИЙ)","HYDROGEN PEROXIDE SOLUTION (3 PER CENT)","ua_59_5","false",null,null,null
+"6","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000075992","1","1","ПЕРЕКИС ВОДНЮ РОЗЧИН (30-ПРОЦЕНТНИЙ)","HYDROGEN PEROXIDE SOLUTION (30 PER CENT)","ua_59_6","false",null,null,null
+"7","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076066","1","1","Метопролол","Metoprolol","ua_59_7","false",null,null,null
+"8","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076067","1","1","Мевалонова кислота","Mevalonic acid","ua_59_8","false",null,null,null
+"9","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076068","1","1","Мідазоламу малеат","Midazolam maleate","ua_59_9","false",null,null,null
+"10","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076069","1","1","МОЛОКО ПОРОШКОВЕ","MILK POWDER","ua_59_10","false",null,null,null
+"11","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076070","1","1","ПРОСО","MILLET","ua_59_11","false",null,null,"ПШОНО"
+"12","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076071","1","1","Мінаприну дигідрохлорид","Minaprine dihydrochloride","ua_59_12","false",null,null,null
+"13","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076073","1","1","ПЕЧІНКИ ТРІСКИ РІДКИЙ ЖИР (ТИП А)","COD-LIVER OIL (TYPE A)","ua_59_13","false",null,null,null
+"14","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076074","1","1","ПЕЧІНКИ ТРІСКИ РІДКИЙ ЖИР (ТИП B)","COD-LIVER OIL (TYPE B)","ua_59_14","false",null,null,null
+"15","1.0","SubstancePILOT","2025-03-17T15:29:40.020","2025-03-17T15:29:40.020","100000076075","1","1","КОЛА","COLA","ua_59_15","false",null,null,null
+"16","1.0","SubstancePILOT","2025-03-17T15:29:40.021","2025-03-17T15:29:40.021","100000076077","1","1","Коповідон","Copovidone","ua_59_16","false",null,null,null
+"17","1.0","SubstancePILOT","2025-03-17T15:29:40.021","2025-03-17T15:29:40.021","100000076078","1","1","Міді сульфат, безводний","Copper sulphate, anhydrous","ua_59_17","false",null,null,"(Мідний купорос, безводний)"
+"18","1.0","SubstancePILOT","2025-03-17T15:29:40.021","2025-03-17T15:29:40.021","100000076080","1","1","БАВОВНЯНА ОЛІЯ, ГІДРОГЕНІЗОВАНА","COTTONSEED OIL, HYDROGENATED","ua_59_18","false",null,null,"ОЛІЯ ІЗ СЕМЯН БАВОВНИ, ГІДРОГЕНІЗОВАНА"
+"19","1.0","SubstancePILOT","2025-03-17T15:29:40.021","2025-03-17T15:29:40.021","100000076081","1","1","ПИРІЮ ТРАВИ КОРЕНЕВИЩЕ","COUCH GRASS RHIZOME","ua_59_19","false",null,null,null
+"20","1.0","SubstancePILOT","2025-03-17T15:29:40.021","2025-03-17T15:29:40.021","100000076082","1","1","Кроскармелоза натрію","Croscarmellose sodium","ua_59_20","false",null,null,null
