@@ -146,7 +146,7 @@ no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,ite
 "145","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*ущільнювач",null,"ua_10_145","true",null,null,null
 "146","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*мірний засіб",null,"ua_10_146","true",null,null,null
 "147","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*дозуюча помпа",null,"ua_10_147","true",null,null,null
-"148","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*кришка "фліп-офф"",null,"ua_10_148","true",null,null,null
+"148","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*кришка `фліп-офф`",null,"ua_10_148","true",null,null,null
 "149","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*плівка",null,"ua_10_149","true",null,null,null
 "150","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*насадка для спрямованого введення",null,"ua_10_150","true",null,null,null
 "151","1.0","ComponentType","2025-03-28T13:23:03.124","2025-03-28T13:23:03.124",null,"1","1","*непорушний ковпачок",null,"ua_10_151","true",null,null,null
@@ -167,7 +167,7 @@ no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,ite
 "166","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*тижневий календар-стікер",null,"ua_10_166","true",null,null,null
 "167","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*прапорець-анотація",null,"ua_10_167","true",null,null,null
 "168","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*тримач для ампул",null,"ua_10_168","true",null,null,null
-"169","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*ковпачок типу "flip-off"",null,"ua_10_169","true",null,null,null
+"169","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*ковпачок типу `flip-off`",null,"ua_10_169","true",null,null,null
 "170","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*фіксована насадка-розпилювач",null,"ua_10_170","true",null,null,null
 "171","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*адаптер",null,"ua_10_171","true",null,null,null
 "172","1.0","ComponentType","2025-03-28T13:23:03.125","2025-03-28T13:23:03.125",null,"1","1","*крапельниця",null,"ua_10_172","true",null,null,null
@@ -181,7 +181,7 @@ no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,ite
 "180","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*крапельний дозатор",null,"ua_10_180","true",null,null,null
 "181","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*ковпачок голки з жорсткою оболонкою",null,"ua_10_181","true",null,null,null
 "182","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*насос",null,"ua_10_182","true",null,null,null
-"183","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*ковпачок з диском типу "flip-off seal"",null,"ua_10_183","true",null,null,null
+"183","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*ковпачок з диском типу `flip-off seal`",null,"ua_10_183","true",null,null,null
 "184","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*крапельниця-накінцівник",null,"ua_10_184","true",null,null,null
 "185","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*мірна скляночка для дозування води, необхідної для приготування суспензії",null,"ua_10_185","true",null,null,null
 "186","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*ковпачок системи Quik fil",null,"ua_10_186","true",null,null,null
@@ -194,7 +194,7 @@ no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,ite
 "193","1.0","ComponentType","2025-03-28T13:23:03.126","2025-03-28T13:23:03.126",null,"1","1","*упор для пальців",null,"ua_10_193","true",null,null,null
 "194","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*мірний ковпачок",null,"ua_10_194","true",null,null,null
 "195","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*нагвинчений ковпачок",null,"ua_10_195","true",null,null,null
-"196","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*ковпачок "flip-off"",null,"ua_10_196","true",null,null,null
+"196","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*ковпачок `flip-off`",null,"ua_10_196","true",null,null,null
 "197","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*осушувач",null,"ua_10_197","true",null,null,null
 "198","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*кришка з приєднаним до неї пензликом",null,"ua_10_198","true",null,null,null
 "199","1.0","ComponentType","2025-03-28T13:23:03.127","2025-03-28T13:23:03.127",null,"1","1","*механічний насос",null,"ua_10_199","true",null,null,null
