@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,Language,2023-10-05T16:19:18.216,2023-11-14T17:33:57.811,100000072115,2,1,Абхазька,Abkhazian,ua_19_1,false,null,null,null
 2,1.0,Language,2023-10-05T16:19:18.219,2023-11-14T17:33:57.776,100000072116,2,1,Албанська,Albanian,ua_19_2,false,null,null,null
 3,1.0,Language,2023-10-05T16:19:18.222,2023-11-14T17:33:57.782,100000072117,2,1,Вірменська,Armenian,ua_19_3,false,null,null,null

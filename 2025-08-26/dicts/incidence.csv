@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,Incidence,2023-12-22T13:21:03.721,2024-01-08T15:05:24.143,null,null,1,Помірна,moderate,ua_67_1,false,Помірна,moderate,null
 2,1.0,Incidence,2023-12-22T13:21:34.802,2024-01-08T15:05:24.147,null,null,1,Низька,low,ua_67_2,false,Низька,low,null
 3,1.0,Incidence,2023-12-22T13:21:37.120,2024-01-08T15:05:24.150,null,null,1,Висока,high,ua_67_3,false,Висока,high,null

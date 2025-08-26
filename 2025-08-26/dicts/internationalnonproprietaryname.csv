@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,InternationalNonproprietaryName,2023-10-09T18:58:35.958,2023-11-14T17:34:03.006,100000102244,null,1,олафлур,olaflur,ua_18_1,false,null,null,null
 2,1.0,InternationalNonproprietaryName,2023-10-09T18:58:35.960,2023-11-14T17:34:03.008,100000099756,null,1,хлоргексидин,chlorhexidine,ua_18_2,false,null,null,null
 3,1.0,InternationalNonproprietaryName,2023-10-09T18:58:35.962,2023-11-14T17:34:10,100000099412,null,1,амфотерицин В,amphotericin B,ua_18_3,false,null,null,null

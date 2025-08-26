@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.657,2024-09-23T11:14:29.513,200000002210,3,1,Електричний струм,Electric current,ua_51_1,false,null,null,null
 2,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.675,2024-09-23T11:14:29.621,200000002192,3,1,Концентрація на площі,Area concentration,ua_51_2,false,null,null,null
 3,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.693,2024-09-23T11:14:29.625,200000002188,3,1,Кількість,Number,ua_51_3,false,null,null,null

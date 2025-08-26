@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,UnitsOfPresentation,2023-10-05T17:37:04.212,2024-09-23T14:49:01.514,200000016502,6,5,Глобула,Globule,ua_54_1,false,null,null,null
 2,1.0,UnitsOfPresentation,2023-10-05T17:37:04.224,2024-09-23T14:49:01.546,200000016503,7,5,Плитка,Bar,ua_54_2,false,null,null,null
 3,1.0,UnitsOfPresentation,2023-10-05T17:37:04.227,2024-09-23T14:49:01.549,200000016504,5,3,Гомеопатичне розведення,Homeopathic dilution,ua_54_3,false,null,null,null

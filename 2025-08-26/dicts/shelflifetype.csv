@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,ShelfLifeType,2024-09-20T12:02:13.713,2024-09-20T12:02:13.724,100000073403,4,1,Термін придатності лікарського засобу в упаковці для продажу,Shelf life of the medicinal product as packaged for sale,ua_44_1,false,закрита упаковка,closed package,null
 2,1.0,ShelfLifeType,2024-09-20T12:02:13.727,2024-09-20T12:02:13.731,100000073404,5,1,Термін придатності після першого відкриття первинної упаковки,Shelf life after first opening the immediate packaging,ua_44_2,false,після першого відкриття,after first opening,null
 3,1.0,ShelfLifeType,2024-09-20T12:02:13.735,2024-09-20T12:02:13.740,100000073405,6,1,Термін придатності  після розчинення або розведення відповідно до інструкцій,Shelf life after dilution or reconstitution according to directions,ua_44_3,false,після першого відкриття,after reconstitution/dilution,null

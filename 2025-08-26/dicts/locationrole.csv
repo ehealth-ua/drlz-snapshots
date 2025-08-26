@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,LocationRole,null,2024-01-08T15:05:23.875,manufacture,null,1,Виробництво,Manufacture,ua_64_1,false,null,null,null
 2,1.0,LocationRole,null,2024-01-08T15:05:23.877,clinicalTrial,null,1,Клінічні дослідження,Clinical trial,ua_64_2,false,null,null,null
 3,1.0,LocationRole,null,2024-01-08T15:05:23.880,contractResearch,null,1,Контрактні дослідження,Contract research,ua_64_3,false,null,null,null

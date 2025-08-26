@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,AuthorisationTerminationReasons,2024-10-27T12:00:00,2024-10-27T12:00:00,1,1,1,Введення додаткового виробника,Addition of manufacturer,ua_78_1,false,null,null,null
 2,1.0,AuthorisationTerminationReasons,2024-10-27T12:00:00,2024-10-27T12:00:00,2,1,1,Введення додаткової дільниці,Addition of manufacturing site,ua_78_2,false,null,null,null
 3,1.0,AuthorisationTerminationReasons,2024-10-27T12:00:00,2024-10-27T12:00:00,3,1,1,Введення додаткової упаковки,Addition of packaging,ua_78_3,false,null,null,null

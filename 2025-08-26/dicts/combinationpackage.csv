@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,CombinationPackage,2023-10-10T19:35:24.466,2024-09-23T15:26:42.686,100000173972,88,1,Крем + песарій,Cream + pessary,ua_7_1,false,null,null,Комбінована упаковка, що складається з крему та песарію.
 2,1.0,CombinationPackage,2023-10-10T19:35:24.574,2024-09-23T15:26:42.794,100000173973,84,1,Розчин нашкірний + губка лікувальна,Cutaneous solution + medicated sponge,ua_7_2,false,null,null,Комбінована упаковка, що складається з розчину нашкірного та губки лікувальної.
 3,1.0,CombinationPackage,2023-10-10T19:35:25.443,2024-09-23T15:26:42.799,100000173974,88,1,Таблетка кишковорозчинна (гастрорезистента) + суспензія ректальна,Gastro-resistant tablet + rectal suspension,ua_7_3,false,null,null,Комбінована упаковка, що складається з таблетки кишковорозчинної (гастрорезистентної) та суспензії ректальної.

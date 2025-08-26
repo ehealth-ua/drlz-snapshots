@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,IntendedEffect,2023-10-11T18:49:51.272,2023-11-14T17:34:19.077,null,1,1,Діагностичне використання,Diagnostic use,ua_16_1,false,null,null,null
 2,1.0,IntendedEffect,2023-10-11T18:49:51.276,2023-11-14T17:34:19.079,null,1,1,Профілактика,Prophylaxis,ua_16_2,false,null,null,null
 3,1.0,IntendedEffect,2023-10-11T18:49:51.277,2023-11-14T17:34:19.065,null,1,1,Паліативний,Palliative,ua_16_3,false,null,null,Фізичний та психологічний захист від тяжких проявів невиліковних хвороб

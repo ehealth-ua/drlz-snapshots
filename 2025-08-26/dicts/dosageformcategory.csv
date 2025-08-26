@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,DosageFormCategory,2023-10-11T11:21:30.315,2024-09-23T16:19:26.812,100000073355,5,1,оральні препарати - рідкі та напівтверді форми,oral preparations-liquid and semi-solid forms,ua_15_1,false,null,null,null
 2,1.0,DosageFormCategory,2023-10-11T11:21:30.352,2024-09-23T16:19:26.849,100000073356,4,1,оральні препарати - тверді форми,oral preparations-solid forms,ua_15_2,false,null,null,null
 3,1.0,DosageFormCategory,2023-10-11T11:21:30.355,2024-09-23T16:19:26.854,100000073357,6,1,оромукозальні препарати,oromucosal preparations,ua_15_3,false,null,null,null

@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,Country,2024-09-19T18:48:35.442,2024-10-18T14:01:00.628,200000026063,4,1,Республіка Південний Судан,Republic of South Sudan,ua_12_1,false,Південний Судан,South Sudan,null
 2,1.0,Country,2024-09-19T18:48:35.457,2024-10-18T14:01:00.631,100000000519,10,3,Державний союз Сербії та Чорногорії,State Union of Serbia and Montenegro,ua_12_2,false,Сербія та Чорногорія,Serbia and Montenegro,null
 3,1.0,Country,2024-09-19T18:48:35.463,2024-10-18T14:01:00.635,100000000520,15,1,Республіка Сейшельські острови,Republic of Seychelles,ua_12_3,false,Сейшельські острови,Seychelles,null

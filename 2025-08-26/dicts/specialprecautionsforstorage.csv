@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.696,2024-09-20T11:52:26.717,100000155939,6,1,Зберігати при температурі нижче  -140°C у паровій фазі рідкого азоту,Store at temperatures below -140°C in the vapour phase of liquid nitrogen,ua_46_1,false,null,null,null
 2,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.720,2024-09-20T11:52:26.724,100000159361,6,1,Не піддавати сильному нагріванню,Do not expose to extreme heat,ua_46_2,false,null,null,null
 3,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.727,2024-09-20T11:52:26.730,200000029586,5,1,Докладна інформація про особливі запобіжні заходи щодо зберігання наведена в затвердженій короткій характеристиці  лікарського засобу,Detailed special precautions for storage are provided in the approved SmPC,ua_46_3,false,null,null,null

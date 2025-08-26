@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.598,2023-11-14T17:34:19.152,200000017696,3,1,Ін’єкція/інфузія,Injection/infusion,ua_31_1,false,null,null,null
 2,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.601,2023-11-14T17:34:19.154,100000173971,29,1,Порошок для ін’єкції з подовженим вивільненням,Powder for prolonged-release injection,ua_31_2,false,null,null,null
 3,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.602,2023-11-14T17:34:19.156,100000156089,30,1,Порошок для приготування концентрату,Powder for concentrate,ua_31_3,false,null,null,null

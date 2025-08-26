@@ -1,3 +1,4 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
 1,1.0,MedDRA,2023-12-21T19:25:15.488,2023-12-21T19:25:15.558,100000004867,1,1,Загальні розлади та реакції у місці введення,General disorders and administration site conditions,ua_66_1,false,null,Genrl,null
 2,1.0,MedDRA,2023-12-21T19:25:15.561,2023-12-21T19:25:15.565,100000005130,1,1,Терапевтичні та нетерапевтичні ефекти (крім токсичності),Therapeutic and nontherapeutic effects (excl toxicity) ,ua_66_2,false,null,null,null
 3,1.0,MedDRA,2023-12-21T19:25:15.567,2023-12-21T19:25:15.571,100000006643,1,1,Взаємодії,Interactions,ua_66_3,false,null,null,null
