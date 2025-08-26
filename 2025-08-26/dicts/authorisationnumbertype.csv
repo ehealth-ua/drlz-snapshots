@@ -1,4 +1,4 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,AuthorisationNumberType,2023-11-27T13:23:19.571,2023-11-27T13:23:19.578,ukraineSmr,1,1,"Державний реєстр лікарських засобів України","Ukraine SMR",ua_63_1,false,null,null,"null"
-2,1.0,AuthorisationNumberType,2023-11-27T13:23:19.579,2023-11-27T13:23:19.581,euCentralEmaRegister,1,1,"Централізований реєстр ЕМА ЄС","EU central EMA register",ua_63_2,false,null,null,"null"
-3,1.0,AuthorisationNumberType,2023-11-27T13:23:19.582,2023-11-27T13:23:19.584,UkraineSmrUpTo2025,1,1,"ДРЛЗ України до 2025 року","Ukraine SMR up to 2025",ua_63_3,false,null,null,"null"
+"1","1.0","AuthorisationNumberType","2023-11-27T13:23:19.571","2023-11-27T13:23:19.578","ukraineSmr","1","1","Державний реєстр лікарських засобів України","Ukraine SMR","ua_63_1","false",null,null,null
+"2","1.0","AuthorisationNumberType","2023-11-27T13:23:19.579","2023-11-27T13:23:19.581","euCentralEmaRegister","1","1","Централізований реєстр ЕМА ЄС","EU central EMA register","ua_63_2","false",null,null,null
+"3","1.0","AuthorisationNumberType","2023-11-27T13:23:19.582","2023-11-27T13:23:19.584","UkraineSmrUpTo2025","1","1","ДРЛЗ України до 2025 року","Ukraine SMR up to 2025","ua_63_3","false",null,null,null

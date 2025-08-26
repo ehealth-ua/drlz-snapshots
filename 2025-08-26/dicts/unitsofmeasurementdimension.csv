@@ -1,37 +1,37 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.657,2024-09-23T11:14:29.513,200000002210,3,1,"Електричний струм","Electric current",ua_51_1,false,null,null,"null"
-2,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.675,2024-09-23T11:14:29.621,200000002192,3,1,"Концентрація на площі","Area concentration",ua_51_2,false,null,null,"null"
-3,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.693,2024-09-23T11:14:29.625,200000002188,3,1,"Кількість","Number",ua_51_3,false,null,null,"null"
-4,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.709,2024-09-23T11:14:29.629,200000002196,4,1,"Маса","Mass",ua_51_4,false,null,null,"null"
-5,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.728,2024-09-23T11:14:29.634,200000002212,3,1,"Електричний потенціал","Electric potential",ua_51_5,false,null,null,"null"
-6,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.745,2024-09-23T11:14:29.638,200000002202,3,1,"Невизначено","Undefined",ua_51_6,false,null,null,"null"
-7,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.763,2024-09-23T11:14:29.643,200000002209,3,1,"Електропровідність","Electrical conductivity",ua_51_7,false,null,null,"null"
-8,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.779,2024-09-23T11:14:29.647,200000002219,3,1,"Яскравість","Luminosity",ua_51_8,false,null,null,"null"
-9,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.797,2024-09-23T11:14:29.651,200000002190,3,1,"Енергетична доза","Energy dose",ua_51_9,false,null,null,"null"
-10,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.813,2023-11-14T17:34:18.153,200000002199,1,1,"Радіоактивність","Radioactivity",ua_51_10,false,null,null,"null"
-11,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.831,2023-11-14T17:34:18.155,200000002214,1,1,"Освітленість","Illuminance",ua_51_11,false,null,null,"null"
-12,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.848,2023-11-14T17:34:18.157,200000002218,1,1,"Потужність","Power",ua_51_12,false,null,null,"null"
-13,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.865,2023-11-14T17:34:18.119,200000002193,1,1,"Немає одиниці","No unit",ua_51_13,false,null,null,"null"
-14,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.881,2023-11-14T17:34:18.121,200000002204,1,1,"Обсяг","Volume",ua_51_14,false,null,null,"null"
-15,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.899,2023-11-14T17:34:18.123,200000002200,1,1,"Оцінка","Rate",ua_51_15,false,null,null,"null"
-16,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.916,2023-11-14T17:34:18.125,200000002197,1,1,"Масова концентрація","Mass concentration",ua_51_16,false,null,null,"null"
-17,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.934,2023-11-14T17:34:18.099,200000002205,1,1,"Об’ємна концентрація","Volume concentration",ua_51_17,false,null,null,"null"
-18,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.950,2023-11-14T17:34:18.101,200000002203,1,1,"В'язкість","Viscosity",ua_51_18,false,null,null,"null"
-19,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.967,2023-11-14T17:34:18.103,200000002208,1,1,"Електрична ємність","Electrical capacity",ua_51_19,false,null,null,"null"
-20,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:38.984,2023-11-14T17:34:18.105,200000002216,1,1,"Сила","Force",ua_51_20,false,null,null,"null"
-21,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.001,2023-11-14T17:34:18.107,200000002215,1,1,"Індуктивність","Inductivity",ua_51_21,false,null,null,"null"
-22,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.018,2023-11-14T17:34:18.109,200000002221,1,1,"Щільність магнітного потоку","Magnetic flux density",ua_51_22,false,null,null,"null"
-23,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.035,2023-11-14T17:34:18.111,200000002220,1,1,"Світловий потік","Luminous flux",ua_51_23,false,null,null,"null"
-24,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.052,2023-11-14T17:34:18.113,200000002191,1,1,"Площа","Area",ua_51_24,false,null,null,"null"
-25,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.069,2023-11-14T17:34:18.127,200000002189,1,1,"Енергія","Energy",ua_51_25,false,null,null,"null"
-26,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.086,2023-11-14T17:34:18.129,200000002201,1,1,"Сума","Amount",ua_51_26,false,null,null,"null"
-27,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.103,2023-11-14T17:34:18.131,200000002195,1,1,"Довжина","Length",ua_51_27,false,null,null,"null"
-28,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.120,2023-11-14T17:34:18.137,200000002223,1,1,"Температура","Temperature",ua_51_28,false,null,null,"null"
-29,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.138,2023-11-14T17:34:18.139,200000002217,1,1,"Електричний заряд","Electric charge",ua_51_29,false,null,null,"null"
-30,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.153,2023-11-14T17:34:18.141,200000002198,1,1,"Довільна одиниця","Arbitrary unit",ua_51_30,false,null,null,"null"
-31,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.171,2023-11-14T17:34:18.143,200000002211,1,1,"Електричний опір","Electric resistance",ua_51_31,false,null,null,"null"
-32,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.187,2023-11-14T17:34:18.145,200000002213,1,1,"Частота","Frequency",ua_51_32,false,null,null,"null"
-33,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.205,2023-11-14T17:34:18.147,200000002222,1,1,"Магнітний потік","Magnetic flux",ua_51_33,false,null,null,"null"
-34,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.222,2023-11-14T17:34:18.149,200000002207,1,1,"Час","Time",ua_51_34,false,null,null,"null"
-35,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.239,2023-11-14T17:34:18.135,200000002194,1,1,"Концентрація","Concentration",ua_51_35,false,null,null,"null"
-36,1.0,UnitsOfMeasurementDimension,2023-10-11T13:08:39.258,2023-11-14T17:34:18.133,200000002206,1,1,"Кут","Angle",ua_51_36,false,null,null,"null"
+"1","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.657","2024-09-23T11:14:29.513","200000002210","3","1","Електричний струм","Electric current","ua_51_1","false",null,null,null
+"2","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.675","2024-09-23T11:14:29.621","200000002192","3","1","Концентрація на площі","Area concentration","ua_51_2","false",null,null,null
+"3","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.693","2024-09-23T11:14:29.625","200000002188","3","1","Кількість","Number","ua_51_3","false",null,null,null
+"4","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.709","2024-09-23T11:14:29.629","200000002196","4","1","Маса","Mass","ua_51_4","false",null,null,null
+"5","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.728","2024-09-23T11:14:29.634","200000002212","3","1","Електричний потенціал","Electric potential","ua_51_5","false",null,null,null
+"6","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.745","2024-09-23T11:14:29.638","200000002202","3","1","Невизначено","Undefined","ua_51_6","false",null,null,null
+"7","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.763","2024-09-23T11:14:29.643","200000002209","3","1","Електропровідність","Electrical conductivity","ua_51_7","false",null,null,null
+"8","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.779","2024-09-23T11:14:29.647","200000002219","3","1","Яскравість","Luminosity","ua_51_8","false",null,null,null
+"9","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.797","2024-09-23T11:14:29.651","200000002190","3","1","Енергетична доза","Energy dose","ua_51_9","false",null,null,null
+"10","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.813","2023-11-14T17:34:18.153","200000002199","1","1","Радіоактивність","Radioactivity","ua_51_10","false",null,null,null
+"11","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.831","2023-11-14T17:34:18.155","200000002214","1","1","Освітленість","Illuminance","ua_51_11","false",null,null,null
+"12","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.848","2023-11-14T17:34:18.157","200000002218","1","1","Потужність","Power","ua_51_12","false",null,null,null
+"13","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.865","2023-11-14T17:34:18.119","200000002193","1","1","Немає одиниці","No unit","ua_51_13","false",null,null,null
+"14","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.881","2023-11-14T17:34:18.121","200000002204","1","1","Обсяг","Volume","ua_51_14","false",null,null,null
+"15","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.899","2023-11-14T17:34:18.123","200000002200","1","1","Оцінка","Rate","ua_51_15","false",null,null,null
+"16","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.916","2023-11-14T17:34:18.125","200000002197","1","1","Масова концентрація","Mass concentration","ua_51_16","false",null,null,null
+"17","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.934","2023-11-14T17:34:18.099","200000002205","1","1","Об’ємна концентрація","Volume concentration","ua_51_17","false",null,null,null
+"18","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.950","2023-11-14T17:34:18.101","200000002203","1","1","В'язкість","Viscosity","ua_51_18","false",null,null,null
+"19","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.967","2023-11-14T17:34:18.103","200000002208","1","1","Електрична ємність","Electrical capacity","ua_51_19","false",null,null,null
+"20","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:38.984","2023-11-14T17:34:18.105","200000002216","1","1","Сила","Force","ua_51_20","false",null,null,null
+"21","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.001","2023-11-14T17:34:18.107","200000002215","1","1","Індуктивність","Inductivity","ua_51_21","false",null,null,null
+"22","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.018","2023-11-14T17:34:18.109","200000002221","1","1","Щільність магнітного потоку","Magnetic flux density","ua_51_22","false",null,null,null
+"23","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.035","2023-11-14T17:34:18.111","200000002220","1","1","Світловий потік","Luminous flux","ua_51_23","false",null,null,null
+"24","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.052","2023-11-14T17:34:18.113","200000002191","1","1","Площа","Area","ua_51_24","false",null,null,null
+"25","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.069","2023-11-14T17:34:18.127","200000002189","1","1","Енергія","Energy","ua_51_25","false",null,null,null
+"26","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.086","2023-11-14T17:34:18.129","200000002201","1","1","Сума","Amount","ua_51_26","false",null,null,null
+"27","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.103","2023-11-14T17:34:18.131","200000002195","1","1","Довжина","Length","ua_51_27","false",null,null,null
+"28","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.120","2023-11-14T17:34:18.137","200000002223","1","1","Температура","Temperature","ua_51_28","false",null,null,null
+"29","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.138","2023-11-14T17:34:18.139","200000002217","1","1","Електричний заряд","Electric charge","ua_51_29","false",null,null,null
+"30","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.153","2023-11-14T17:34:18.141","200000002198","1","1","Довільна одиниця","Arbitrary unit","ua_51_30","false",null,null,null
+"31","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.171","2023-11-14T17:34:18.143","200000002211","1","1","Електричний опір","Electric resistance","ua_51_31","false",null,null,null
+"32","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.187","2023-11-14T17:34:18.145","200000002213","1","1","Частота","Frequency","ua_51_32","false",null,null,null
+"33","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.205","2023-11-14T17:34:18.147","200000002222","1","1","Магнітний потік","Magnetic flux","ua_51_33","false",null,null,null
+"34","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.222","2023-11-14T17:34:18.149","200000002207","1","1","Час","Time","ua_51_34","false",null,null,null
+"35","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.239","2023-11-14T17:34:18.135","200000002194","1","1","Концентрація","Concentration","ua_51_35","false",null,null,null
+"36","1.0","UnitsOfMeasurementDimension","2023-10-11T13:08:39.258","2023-11-14T17:34:18.133","200000002206","1","1","Кут","Angle","ua_51_36","false",null,null,null

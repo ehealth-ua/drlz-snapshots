@@ -1,4 +1,4 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,PhysiologicalCondition,2024-01-08T15:51:54.053,2024-01-08T15:05:24.236,concomitantDietaryMe,null,1,"Cупутнє дієтичне харчування","Concomitant dietary measures",ua_73_1,false,null,null,"null"
-2,1.0,PhysiologicalCondition,2024-01-08T15:51:56.511,2024-01-08T15:05:24.240,lifestyleChanges,null,1,"Зміни стилю життя","Lifestyle changes",ua_73_2,false,null,null,"null"
-3,1.0,PhysiologicalCondition,2024-01-08T15:51:57.993,2024-01-08T15:05:24.242,specificScreeningMod,null,1,"Особливі методи нагляду","Specific screening modalities",ua_73_3,false,null,null,"null"
+"1","1.0","PhysiologicalCondition","2024-01-08T15:51:54.053","2024-01-08T15:05:24.236","concomitantDietaryMe","null","1","Cупутнє дієтичне харчування","Concomitant dietary measures","ua_73_1","false","null","null","null"
+"2","1.0","PhysiologicalCondition","2024-01-08T15:51:56.511","2024-01-08T15:05:24.240","lifestyleChanges","null","1","Зміни стилю життя","Lifestyle changes","ua_73_2","false","null","null","null"
+"3","1.0","PhysiologicalCondition","2024-01-08T15:51:57.993","2024-01-08T15:05:24.242","specificScreeningMod","null","1","Особливі методи нагляду","Specific screening modalities","ua_73_3","false","null","null","null"
