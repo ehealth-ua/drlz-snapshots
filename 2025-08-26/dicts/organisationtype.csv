@@ -1,0 +1,14 @@
+1,1.0,OrganisationType,null,2024-01-11T15:31:42.045,pharmaceuticalCompany,null,1,Фармацевтична компанія,Pharmaceutical company,ua_75_1,false,null,null,null
+2,1.0,OrganisationType,null,2024-01-11T15:31:42.049,wholesaleDistributor,null,1,Оптовий дистрибутор,Wholesale distributor,ua_75_2,false,null,null,null
+3,1.0,OrganisationType,null,2024-01-11T15:31:42.053,eeaRegulator,null,1,ЄЕЗ Орган контролю лікарських засобів в обігу,EEA Regulatory authority,ua_75_3,false,null,null,null
+4,1.0,OrganisationType,null,2024-01-11T15:31:42.058,noneeaRegulator,null,1,Не-ЄЕЗ Орган контролю лікарських засобів в обігу,Non-EEA Regulatory authority,ua_75_4,false,null,null,null
+5,1.0,OrganisationType,null,2024-01-11T15:31:42.063,eeaNCA,null,1,ЄЕЗ Національний компетентний орган з реєстрації лікарських засобів,EEA National competent authority for medicines authorisation (NCA),ua_75_5,false,null,null,null
+6,1.0,OrganisationType,null,2024-01-11T15:31:42.067,noneeaNCA,null,1,Не-ЄЕЗ Національний компетентний орган з реєстрації лікарських засобів,Non-EEA National competent authority for medicines authorisation (NCA),ua_75_6,false,null,null,null
+7,1.0,OrganisationType,null,2024-01-11T15:31:42.070,eudraVigilance,null,1,Організації EudraVigilance з підтримки користувачів,EudraVigilance organisations to support user management,ua_75_7,false,null,null,null
+8,1.0,OrganisationType,null,2024-01-11T15:31:42.075,orphanDesignation,null,1,Організації з супроводу ліків для рідкісних хвороб,Orphan designation organisations (supporting the IRIS system),ua_75_8,false,null,null,null
+9,1.0,OrganisationType,null,2024-01-11T15:31:42.080,eeaHospital,null,1,ЄЕЗ Лікарня,EEA Hospital,ua_75_9,false,null,null,null
+10,1.0,OrganisationType,null,2024-01-11T15:31:42.084,noneeaHospital,null,1,Не-ЄЕЗ Лікарня,Non-EEA Hospital,ua_75_10,false,null,null,null
+11,1.0,OrganisationType,null,2024-01-11T15:31:42.089,eeaClinic,null,1,ЄЕЗ Поліклініка,EEA Clinic,ua_75_11,false,null,null,null
+12,1.0,OrganisationType,null,2024-01-11T15:31:42.093,noneeaClinic,null,1,Не-ЄЕЗ Поліклініка,Non-EEA Hospital,ua_75_12,false,null,null,null
+13,1.0,OrganisationType,null,2024-01-11T15:31:42.097,eeaHigherEdu,null,1,ЄЕЗ Заклад вищої освіти у галузі медицини,EEA institution for higher education in medicine,ua_75_13,false,null,null,null
+14,1.0,OrganisationType,null,2024-01-11T15:31:42.100,noneeaHigherEdu,null,1,Не-ЄЕЗ Заклад вищої освіти у галузі медицини,Non-EEA institution for higher education in medicine,ua_75_14,false,null,null,null

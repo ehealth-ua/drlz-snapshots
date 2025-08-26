@@ -1,0 +1,6 @@
+1,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.877,2024-09-24T14:54:17.187,200000026035,1,1,Номер сертифіката Європейського директората з якості лікарських засобів та охорони здоров’я (EDQM),EDQM certificate number,ua_65_1,false,null,null,null
+2,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.895,2024-09-24T14:54:17.263,200000026036,1,1,Номер майстер-файлу активної субстанції в ЄС,EU ASMF number,ua_65_2,false,null,null,null
+3,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.900,2024-09-24T14:54:17.257,200000026037,1,1,Національний номер майстер-файлу активної субстанції,National ASMF number,ua_65_3,false,null,null,null
+4,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.905,2024-09-24T14:54:17.251,200000026038,1,1,Номер версії Частини заявника,Applicant part version number,ua_65_4,false,null,null,null
+5,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.911,2024-09-24T14:54:17.246,200000026039,1,1,Номер сертифіката майстер-файлу плазми,PMF certificate number,ua_65_5,false,null,null,null
+6,1.0,MasterFileIdentifierType,2023-12-06T13:14:52.917,2024-09-24T14:54:17.269,200000026040,1,1,Номер сертифіката майстер-файлу вакцинного антигена,VAMF certificate number,ua_65_6,false,null,null,null

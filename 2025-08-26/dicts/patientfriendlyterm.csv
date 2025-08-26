@@ -1,0 +1,47 @@
+1,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.598,2023-11-14T17:34:19.152,200000017696,3,1,Ін’єкція/інфузія,Injection/infusion,ua_31_1,false,null,null,null
+2,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.601,2023-11-14T17:34:19.154,100000173971,29,1,Порошок для ін’єкції з подовженим вивільненням,Powder for prolonged-release injection,ua_31_2,false,null,null,null
+3,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.602,2023-11-14T17:34:19.156,100000156089,30,1,Порошок для приготування концентрату,Powder for concentrate,ua_31_3,false,null,null,null
+4,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.603,2023-11-14T17:34:19.160,200000005073,27,1,Жувальна гумка,Chewing gum,ua_31_4,false,null,null,null
+5,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.604,2023-11-14T17:34:19.104,100000073931,39,1,Рідина пероральна,Oral liquid,ua_31_5,false,null,null,null
+6,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.605,2023-11-14T17:34:19.108,100000073932,38,1,Капсула шлунковостійка,Gastro-resistant capsule,ua_31_6,false,null,null,null
+7,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.606,2023-11-14T17:34:19.162,100000073933,38,1,Таблетка,Tablet,ua_31_7,false,null,null,null
+8,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.607,2023-11-14T17:34:19.164,100000073934,39,1,Премікс лікувальний,Medicated premix,ua_31_8,false,null,null,null
+9,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.608,2023-11-14T17:34:19.166,100000073935,37,1,Льодяник,Lozenge,ua_31_9,false,null,null,null
+10,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.609,2023-11-14T17:34:19.130,100000073936,39,1,Спрей шкірний,Cutaneous spray,ua_31_10,false,null,null,null
+11,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.610,2023-11-14T17:34:19.132,100000073937,37,1,Ванночки,Dip,ua_31_11,false,null,null,null
+12,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.611,2023-11-14T17:34:19.134,100000073938,39,1,Зрошення,Pour-on,ua_31_12,false,null,null,null
+13,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.612,2023-11-14T17:34:19.136,100000073939,38,1,Ванночки для сосків,Teat dip,ua_31_13,false,null,null,null
+14,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.613,2023-11-14T17:34:19.144,100000073940,40,1,Краплі очні,Eye drops,ua_31_14,false,null,null,null
+15,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.614,2023-11-14T17:34:19.146,100000073946,39,1,Краплі пероральні,Oral drops,ua_31_15,false,null,null,null
+16,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.615,2023-11-14T17:34:19.158,100000073947,38,1,Капсула,Capsule,ua_31_16,false,null,null,null
+17,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.616,2023-11-14T17:34:19.110,100000073948,39,1,Капсула з пролонгованим вивільненням,Prolonged-release capsule,ua_31_17,false,null,null,null
+18,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.617,2023-11-14T17:34:19.112,100000073949,38,1,Внутрішньорубцевий засіб,Intraruminal device,ua_31_18,false,null,null,null
+19,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.618,2023-11-14T17:34:19.106,100000073950,38,1,Рідина оромукозальна,Oromucosal liquid,ua_31_19,false,null,null,null
+20,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.619,2023-11-14T17:34:19.128,100000073951,40,1,Рідина дентальна,Dental liquid,ua_31_20,false,null,null,null
+21,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.620,2023-11-14T17:34:19.114,100000073952,38,1,Рідина нашкірна,Cutaneous liquid,ua_31_21,false,null,null,null
+22,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.621,2023-11-14T17:34:19.116,100000073953,37,1,Концентрат для ванночок,Dip concentrate,ua_31_22,false,null,null,null
+23,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.622,2023-11-14T17:34:19.118,100000073954,38,1,Точкове нанесення,Spot-on,ua_31_23,false,null,null,null
+24,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.623,2023-11-14T17:34:19.120,100000073955,38,1,Спрей для сосків,Teat spray,ua_31_24,false,null,null,null
+25,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.624,2023-11-14T17:34:19.122,100000073956,40,1,Краплі вушні,Ear drops,ua_31_25,false,null,null,null
+26,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.625,2023-11-14T17:34:19.168,100000073957,39,1,Промивка вушна,Ear wash,ua_31_26,false,null,null,null
+27,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.625,2023-11-14T17:34:19.124,100000073958,40,1,Спрей назальний,Nasal spray,ua_31_27,false,null,null,null
+28,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.627,2023-11-14T17:34:19.126,100000073959,38,1,Капсула вагінальна,Vaginal capsule,ua_31_28,false,null,null,null
+29,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.627,2023-11-14T17:34:19.148,100000073960,38,1,Рідина для розпилення,Nebuliser liquid,ua_31_29,false,null,null,null
+30,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.628,2023-11-14T17:34:19.150,100000073961,40,1,Спрей вушний,Ear spray,ua_31_30,false,null,null,null
+31,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.629,2023-11-14T17:34:19.182,100000073962,40,1,Краплі назальні,Nasal drops,ua_31_31,false,null,null,null
+32,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.630,2023-11-14T17:34:19.184,100000073963,38,1,Рідина вагінальна,Vaginal liquid,ua_31_32,false,null,null,null
+33,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.631,2023-11-14T17:34:19.186,100000073964,39,1,Клізма,Enema,ua_31_33,false,null,null,null
+34,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.632,2023-11-14T17:34:19.188,100000073965,38,1,Інгаляція герметизована,Pressurised inhalation,ua_31_34,false,null,null,null
+35,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.633,2023-11-14T17:34:19.138,100000073966,38,1,Пари для інгаляцій,Inhalation vapour,ua_31_35,false,null,null,null
+36,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.634,2023-11-14T17:34:19.140,100000073967,40,1,Порошок для ін'єкцій,Powder for injection,ua_31_36,false,null,null,null
+37,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.635,2023-11-14T17:34:19.142,100000073968,40,1,Інфузія,Infusion,ua_31_37,false,null,null,null
+38,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.636,2023-11-14T17:34:19.190,100000073969,40,1,Інстиляції ендотрахеопульмональні,Endotracheopulmonary instillation,ua_31_38,false,null,null,null
+39,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.637,2023-11-14T17:34:19.192,100000073970,39,1,Модифікатор кров'яних фракцій,Blood fraction modifier,ua_31_39,false,null,null,null
+40,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.638,2023-11-14T17:34:19.194,100000073981,38,1,Порошок для інгаляцій,Inhalation powder,ua_31_40,false,null,null,null
+41,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.639,2023-11-14T17:34:19.196,100000073982,39,1,Ін'єкція,Injection,ua_31_41,false,null,null,null
+42,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.640,2023-11-14T17:34:19.170,100000073983,39,1,Концентрат стерильний,Sterile concentrate,ua_31_42,false,null,null,null
+43,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.641,2023-11-14T17:34:19.172,100000073984,41,1,Порошок для інфузій,Powder for infusion,ua_31_43,false,null,null,null
+44,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.642,2023-11-14T17:34:19.174,100000073985,39,1,Рідина внутрішньоматкова,Intrauterine liquid,ua_31_44,false,null,null,null
+45,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.642,2023-11-14T17:34:19.176,100000073986,39,1,Рідина гастроентеральна,Gastroenteral liquid,ua_31_45,false,null,null,null
+46,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.643,2023-11-14T17:34:19.178,100000125710,34,1,Спрей оромукозальний,Oromucosal spray,ua_31_46,false,null,null,null
+47,1.0,PatientFriendlyTerm,2023-10-12T09:30:40.644,2023-11-14T17:34:19.180,100000143549,30,1,Спрей сублінгвальний,Sublingual spray,ua_31_47,false,null,null,null
