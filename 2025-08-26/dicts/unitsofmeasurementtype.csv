@@ -1,4 +1,4 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.480,2024-09-23T10:54:15.827,200000000068,2,1,Простий,Simple,ua_53_1,false,null,null,null
-2,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.482,2024-09-23T10:54:15.857,200000000069,3,1,Попередньо заданий,Prefixed,ua_53_2,false,null,null,null
-3,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.483,2024-09-23T10:54:15.860,200000000070,3,1,Складний,Composed,ua_53_3,false,null,null,null
+1,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.480,2024-09-23T10:54:15.827,200000000068,2,1,"Простий","Simple",ua_53_1,false,null,null,"null"
+2,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.482,2024-09-23T10:54:15.857,200000000069,3,1,"Попередньо заданий","Prefixed",ua_53_2,false,null,null,"null"
+3,1.0,UnitsOfMeasurementType,2023-10-09T18:32:29.483,2024-09-23T10:54:15.860,200000000070,3,1,"Складний","Composed",ua_53_3,false,null,null,"null"

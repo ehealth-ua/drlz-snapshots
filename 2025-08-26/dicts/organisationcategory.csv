@@ -1,5 +1,5 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,OrganisationCategory,null,2024-01-11T15:31:42.105,industry,null,1,Промисловість,Industry,ua_76_1,false,null,null,null
-2,1.0,OrganisationCategory,null,2024-01-11T15:31:42.109,authority,null,1,Уповноважений орган влади,Authority,ua_76_2,false,null,null,null
-3,1.0,OrganisationCategory,null,2024-01-11T15:31:42.113,healthcare,null,1,Заклад охорони здоров'я,Healthcare Institution,ua_76_3,false,null,null,null
-4,1.0,OrganisationCategory,null,2024-01-11T15:31:42.117,education,null,1,Освітній заклад,Educational Institution,ua_76_4,false,null,null,null
+1,1.0,OrganisationCategory,null,2024-01-11T15:31:42.105,industry,null,1,"Промисловість","Industry",ua_76_1,false,null,null,"null"
+2,1.0,OrganisationCategory,null,2024-01-11T15:31:42.109,authority,null,1,"Уповноважений орган влади","Authority",ua_76_2,false,null,null,"null"
+3,1.0,OrganisationCategory,null,2024-01-11T15:31:42.113,healthcare,null,1,"Заклад охорони здоров'я","Healthcare Institution",ua_76_3,false,null,null,"null"
+4,1.0,OrganisationCategory,null,2024-01-11T15:31:42.117,education,null,1,"Освітній заклад","Educational Institution",ua_76_4,false,null,null,"null"

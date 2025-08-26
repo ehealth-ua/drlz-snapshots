@@ -1,124 +1,124 @@
 no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
-1,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.696,2024-09-20T11:52:26.717,100000155939,6,1,Зберігати при температурі нижче  -140°C у паровій фазі рідкого азоту,Store at temperatures below -140°C in the vapour phase of liquid nitrogen,ua_46_1,false,null,null,null
-2,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.720,2024-09-20T11:52:26.724,100000159361,6,1,Не піддавати сильному нагріванню,Do not expose to extreme heat,ua_46_2,false,null,null,null
-3,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.727,2024-09-20T11:52:26.730,200000029586,5,1,Докладна інформація про особливі запобіжні заходи щодо зберігання наведена в затвердженій короткій характеристиці  лікарського засобу,Detailed special precautions for storage are provided in the approved SmPC,ua_46_3,false,null,null,null
-4,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.733,2024-09-20T11:52:26.736,200000010387,4,1,Берегти від тепла,Protect from heat,ua_46_4,false,null,null,null
-5,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.738,2024-09-20T11:52:26.741,200000010388,3,1,Зберігати у вертикальному положенні,Store upright,ua_46_5,false,null,null,null
-6,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.744,2024-09-20T11:52:26.746,100000073410,6,1,Зберігати при температурі не вище 25°C,Do not store above 25°C,ua_46_6,false,null,null,null
-7,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.749,2024-09-20T11:52:26.752,100000073411,6,1,Зберігати при температурі не вище 30°C,Do not store above 30°C,ua_46_7,false,null,null,null
-8,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.754,2024-09-20T11:52:26.757,100000073412,2,1,Зберігати при температурі нижче 25°C,Store below 25°C,ua_46_8,false,null,null,null
-9,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.759,2024-09-20T11:52:26.763,100000073413,2,1,Зберігати при температурі нижче 30°C,Store below 30°C,ua_46_9,false,null,null,null
-10,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.765,2024-09-20T11:52:26.768,100000073414,3,1,Зберігати в холодильнику (2°C – 8°C),Store in a refrigerator (2°C – 8°C),ua_46_10,false,null,null,null
-11,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.771,2024-09-20T11:52:26.774,100000073415,3,1,Зберігати та транспортувати в холодильнику (2°C – 8°C),Store and transport refrigerated (2°C – 8°C),ua_46_11,false,null,null,null
-12,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.776,2024-09-20T11:52:26.779,100000073416,2,1,Зберігати в морозильній камері,Store in a freezer,ua_46_12,false,null,null,null
-13,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.781,2024-09-20T11:52:26.784,100000073417,3,1,Зберігати та транспортувати в замороженому вигляді,Store and transport frozen,ua_46_13,false,null,null,null
-14,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.786,2024-09-20T11:52:26.789,100000073418,4,1,Не охолоджувати та не заморожувати,Do not refrigerate or freeze,ua_46_14,false,null,null,null
-15,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.791,2024-09-20T11:52:26.793,100000073419,4,1,Не охолоджувати,Do not refrigerate,ua_46_15,false,null,null,null
-16,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.795,2024-09-20T11:52:26.798,100000073420,3,1,Не заморожувати,Do not freeze,ua_46_16,false,null,null,null
-17,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.800,2024-09-20T11:52:26.803,100000073421,2,1,Зберігати в оригінальній упаковці,Store in the original package,ua_46_17,false,null,null,null
-18,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.805,2024-09-20T11:52:26.807,100000073422,3,1,Тримати контейнер щільно закритим,Keep the container tightly closed,ua_46_18,false,null,null,null
-19,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.809,2024-09-20T11:52:26.812,100000073423,3,1,Зберігати контейнер у зовнішній картонній упаковці,Keep the container in the outer carton,ua_46_19,false,null,null,null
-20,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.814,2024-09-20T11:52:26.817,100000073424,3,1,Цей лікарський засіб не потребує особливих умов зберігання,This medicinal product does not require any special storage conditions,ua_46_20,false,null,null,null
-21,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.819,2024-09-20T11:52:26.822,100000073425,3,1,Цей лікарський засіб не вимагає особливих температурних умов зберігання,This medicinal product does not require any special temperature storage conditions,ua_46_21,false,null,null,null
-22,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.824,2024-09-20T11:52:26.829,100000073426,4,1,для захисту від світла,in order to protect from light,ua_46_22,false,null,null,null
-23,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.831,2024-09-20T11:52:26.834,100000073427,4,1,для захисту від вологи,in order to protect from moisture,ua_46_23,false,null,null,null
-24,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.836,2024-09-20T11:52:26.839,100000073428,4,1,Берегти від морозу,Protect from frost,ua_46_24,false,null,null,null
-25,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.842,2024-09-20T11:52:26.844,100000073429,5,1,Зберігати в оригінальній упаковці,Store in the original container,ua_46_25,false,null,null,null
-26,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.847,2024-09-20T11:52:26.849,100000073430,7,1,Берегти від світла,Protect from light,ua_46_26,false,null,null,null
-27,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.851,2024-09-20T11:52:26.854,100000073431,2,1,Зберігати в сухому місці,Store in a dry place,ua_46_27,false,null,null,null
-28,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.856,2024-09-20T11:52:26.859,100000073432,5,1,Берегти від прямих сонячних променів,Protect from direct sunlight,ua_46_28,false,null,null,null
-29,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.861,2024-09-20T11:52:26.863,100000073433,5,1,Цей ветеринарний лікарський засіб не потребує особливих умов зберігання,This veterinary medicinal product does not require any special storage conditions,ua_46_29,false,null,null,null
-30,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.866,2024-09-20T11:52:26.868,100000073434,6,1,Цей ветеринарний лікарський засіб не потребує особливих температурних умов зберігання,This veterinary medicinal product does not require any special temperature storage conditions,ua_46_30,false,null,null,null
-31,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.870,2024-09-20T11:52:26.873,100000151831,4,1,Зберігати трансдермальний пластир у саше до застосування,Keep the transdermal patch in the sachet until use,ua_46_31,false,null,null,для нашого застосування трансдермального пластиру відсутні такі умови зберігання
-32,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не можна повертати у холодильник для подальшого зберігання,null,ua_46_32,true,null,null,null
-33,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не використовувати після заморожування,null,ua_46_33,true,null,null,null
-34,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі від -15 °c до -5 °c,null,ua_46_34,true,null,null,null
-35,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Слід зберігати у складських приміщеннях або під навісами,null,ua_46_35,true,null,null,null
-36,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не допускати контакту з маслами,null,ua_46_36,true,null,null,null
-37,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Захищати від вторинного рентгенівського випромінювання,null,ua_46_37,true,null,null,null
-38,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не зберігати у відкритому стані,null,ua_46_38,true,null,null,null
-39,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі від 30 °c до 40 °c,null,ua_46_39,true,null,null,null
-40,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі до 40 °c,null,ua_46_40,true,null,null,null
-41,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не допускати контакту зі стінками холодильника,null,ua_46_41,true,null,null,null
-42,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі до 32 °c,null,ua_46_42,true,null,null,null
-43,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі від 0 °c до 5 °c,null,ua_46_43,true,null,null,null
-44,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не спалювати,null,ua_46_44,true,null,null,null
-45,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не проколювати,null,ua_46_45,true,null,null,null
-46,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Не розбирати,null,ua_46_46,true,null,null,null
-47,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі 21 °c,null,ua_46_47,true,null,null,null
-48,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,*Зберігати при температурі від 5 °c до 30 °c,null,ua_46_48,true,null,null,null
-49,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*У разі випадання кристалів флакон нагрівати на водяній бані при температурі від 30 °c до 40 °c,null,ua_46_49,true,null,null,null
-50,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*У разі випадання кристалів препарат нагрівати на водяній бані при температурі від 50 °c до 70 °c,null,ua_46_50,true,null,null,null
-51,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від -20 °c до -10 °c,null,ua_46_51,true,null,null,null
-52,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від 4 °c до 6 °c,null,ua_46_52,true,null,null,null
-53,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Захищати від перегрівання,null,ua_46_53,true,null,null,null
-54,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі до 35 °c,null,ua_46_54,true,null,null,null
-55,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Якщо препарат/розчин не застосовується негайно, за тривалість та умови його зберігання відповідає користувач,null,ua_46_55,true,null,null,null
-56,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Подалі від морозильної камери,null,ua_46_56,true,null,null,null
-57,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі навколишнього середовища,null,ua_46_57,true,null,null,null
-58,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі до 37 °c,null,ua_46_58,true,null,null,null
-59,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від -85 °c до -15 °c,null,ua_46_59,true,null,null,null
-60,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від -25 °c до -15 °c,null,ua_46_60,true,null,null,null
-61,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Призначений для одноразового використання,null,ua_46_61,true,null,null,null
-62,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі не вище 18 °c,null,ua_46_62,true,null,null,null
-63,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Не використовувати, якщо у розчині наявний осад,null,ua_46_63,true,null,null,null
-64,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від 8 °c до 30 °c,null,ua_46_64,true,null,null,null
-65,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі 5 °c,null,ua_46_65,true,null,null,null
-66,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі не вище 37 °c,null,ua_46_66,true,null,null,null
-67,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі 20 °c,null,ua_46_67,true,null,null,null
-68,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Захищати від дії високих температур,null,ua_46_68,true,null,null,null
-69,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати при температурі від 4 °c до 8 °c,null,ua_46_69,true,null,null,null
-70,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Зберігати у темному місці,null,ua_46_70,true,null,null,null
-71,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,*Не допускається повторне використання,null,ua_46_71,true,null,null,null
-72,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Необхідно дотримуватися асептичних умов,null,ua_46_72,true,null,null,null
-73,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Необхідно збовтувати,null,ua_46_73,true,null,null,null
-74,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Невикористаний препарат/розчин необхідно знищити,null,ua_46_74,true,null,null,null
-75,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Не допускати контакту з морозильним відділенням або накопичувачами холоду,null,ua_46_75,true,null,null,null
-76,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Слід вжити заходів обережності для запобігання ударам та падінням,null,ua_46_76,true,null,null,null
-77,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати при температурі від –20 °c до +40 °c,null,ua_46_77,true,null,null,null
-78,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати в добре провітрюваному приміщенні,null,ua_46_78,true,null,null,null
-79,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Не палити,null,ua_46_79,true,null,null,null
-80,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати однодозові контейнери у саше,null,ua_46_80,true,null,null,null
-81,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Необхідно використати негайно,null,ua_46_81,true,null,null,null
-82,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати при температурі 4 °c,null,ua_46_82,true,null,null,null
-83,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Під час зберігання можливе випадання осаду,null,ua_46_83,true,null,null,null
-84,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Не слід застосовувати після закінчення терміну придатності, вказаного на упаковці,null,ua_46_84,true,null,null,null
-85,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Якщо розчин залишається каламутним або якщо містить нерозчинний осад, його слід викинути,null,ua_46_85,true,null,null,null
-86,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Його не слід охолоджувати, оскільки при цьому може утворюватись осад,null,ua_46_86,true,null,null,null
-87,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*При зберіганні закритих флаконів у холодильнику препарат може випасти в осад,null,ua_46_87,true,null,null,null
-88,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати при температурі не вище 8 °c,null,ua_46_88,true,null,null,null
-89,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати при температурі не вище 10 °c,null,ua_46_89,true,null,null,null
-90,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,*Зберігати при температурі не вище 15 °c,null,ua_46_90,true,null,null,null
-91,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі не нижче 15 °c,null,ua_46_91,true,null,null,null
-92,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі не вище 20 °c,null,ua_46_92,true,null,null,null
-93,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі не вище 21 °c,null,ua_46_93,true,null,null,null
-94,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі не вище 50 °c,null,ua_46_94,true,null,null,null
-95,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі не нижче 4 °c,null,ua_46_95,true,null,null,null
-96,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 15 °c до 25 °c,null,ua_46_96,true,null,null,null
-97,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 20 °c до 25 °c,null,ua_46_97,true,null,null,null
-98,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 15 °c до 30 °c,null,ua_46_98,true,null,null,null
-99,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 4 °c до 30 °c,null,ua_46_99,true,null,null,null
-100,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від –50 °c до +50 °c,null,ua_46_100,true,null,null,null
-101,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 2 °c до 30 °c,null,ua_46_101,true,null,null,null
-102,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 2 °c до 15 °c,null,ua_46_102,true,null,null,null
-103,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 2 °c до 25 °c,null,ua_46_103,true,null,null,null
-104,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 18 °c до 25 °c,null,ua_46_104,true,null,null,null
-105,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 10 °c до 25 °c,null,ua_46_105,true,null,null,null
-106,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 8 °c до 25 °c,null,ua_46_106,true,null,null,null
-107,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 8 °c до 15 °c,null,ua_46_107,true,null,null,null
-108,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі -18 °c,null,ua_46_108,true,null,null,null
-109,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі від 4 °c до 12 °c,null,ua_46_109,true,null,null,null
-110,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати у недоступному для дітей місці,null,ua_46_110,true,null,null,null
-111,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Захищати від вогню,null,ua_46_111,true,null,null,null
-112,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Зберігати при температурі навколишнього середовища, але не вище 45 °c,null,ua_46_112,true,null,null,null
-113,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,*Не струшувати,null,ua_46_113,true,null,null,null
-114,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.592,2025-03-14T11:35:14.592,null,1,1,*Зберігати окремо від речовин і матеріалів, які виділяють пари і гази,null,ua_46_114,true,null,null,null
-115,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*При транспортуванні допускається заморожування лікарського засобу,null,ua_46_115,true,null,null,null
-116,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати у прохолодному місці,null,ua_46_116,true,null,null,null
-117,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати при температурі не вище 35 °c,null,ua_46_117,true,null,null,null
-118,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати у морозильній камері (при температурі від -5 °c до -20 °c),null,ua_46_118,true,null,null,null
-119,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Транспортувати та видавати в замороженому стані (від -85 °c до -15 °c),null,ua_46_119,true,null,null,null
-120,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати у морозильній камері (при температурі від -25 °c до -15 °c),null,ua_46_120,true,null,null,null
-121,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати при температурі не вище 40 °c,null,ua_46_121,true,null,null,null
-122,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати при температурі до 4 °c,null,ua_46_122,true,null,null,null
-123,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,*Зберігати при температурі -20 °c,null,ua_46_123,true,null,null,null
+1,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.696,2024-09-20T11:52:26.717,100000155939,6,1,"Зберігати при температурі нижче  -140°C у паровій фазі рідкого азоту","Store at temperatures below -140°C in the vapour phase of liquid nitrogen",ua_46_1,false,null,null,"null"
+2,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.720,2024-09-20T11:52:26.724,100000159361,6,1,"Не піддавати сильному нагріванню","Do not expose to extreme heat",ua_46_2,false,null,null,"null"
+3,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.727,2024-09-20T11:52:26.730,200000029586,5,1,"Докладна інформація про особливі запобіжні заходи щодо зберігання наведена в затвердженій короткій характеристиці  лікарського засобу","Detailed special precautions for storage are provided in the approved SmPC",ua_46_3,false,null,null,"null"
+4,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.733,2024-09-20T11:52:26.736,200000010387,4,1,"Берегти від тепла","Protect from heat",ua_46_4,false,null,null,"null"
+5,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.738,2024-09-20T11:52:26.741,200000010388,3,1,"Зберігати у вертикальному положенні","Store upright",ua_46_5,false,null,null,"null"
+6,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.744,2024-09-20T11:52:26.746,100000073410,6,1,"Зберігати при температурі не вище 25°C","Do not store above 25°C",ua_46_6,false,null,null,"null"
+7,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.749,2024-09-20T11:52:26.752,100000073411,6,1,"Зберігати при температурі не вище 30°C","Do not store above 30°C",ua_46_7,false,null,null,"null"
+8,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.754,2024-09-20T11:52:26.757,100000073412,2,1,"Зберігати при температурі нижче 25°C","Store below 25°C",ua_46_8,false,null,null,"null"
+9,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.759,2024-09-20T11:52:26.763,100000073413,2,1,"Зберігати при температурі нижче 30°C","Store below 30°C",ua_46_9,false,null,null,"null"
+10,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.765,2024-09-20T11:52:26.768,100000073414,3,1,"Зберігати в холодильнику (2°C – 8°C)","Store in a refrigerator (2°C – 8°C)",ua_46_10,false,null,null,"null"
+11,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.771,2024-09-20T11:52:26.774,100000073415,3,1,"Зберігати та транспортувати в холодильнику (2°C – 8°C)","Store and transport refrigerated (2°C – 8°C)",ua_46_11,false,null,null,"null"
+12,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.776,2024-09-20T11:52:26.779,100000073416,2,1,"Зберігати в морозильній камері","Store in a freezer",ua_46_12,false,null,null,"null"
+13,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.781,2024-09-20T11:52:26.784,100000073417,3,1,"Зберігати та транспортувати в замороженому вигляді","Store and transport frozen",ua_46_13,false,null,null,"null"
+14,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.786,2024-09-20T11:52:26.789,100000073418,4,1,"Не охолоджувати та не заморожувати","Do not refrigerate or freeze",ua_46_14,false,null,null,"null"
+15,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.791,2024-09-20T11:52:26.793,100000073419,4,1,"Не охолоджувати","Do not refrigerate",ua_46_15,false,null,null,"null"
+16,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.795,2024-09-20T11:52:26.798,100000073420,3,1,"Не заморожувати","Do not freeze",ua_46_16,false,null,null,"null"
+17,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.800,2024-09-20T11:52:26.803,100000073421,2,1,"Зберігати в оригінальній упаковці","Store in the original package",ua_46_17,false,null,null,"null"
+18,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.805,2024-09-20T11:52:26.807,100000073422,3,1,"Тримати контейнер щільно закритим","Keep the container tightly closed",ua_46_18,false,null,null,"null"
+19,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.809,2024-09-20T11:52:26.812,100000073423,3,1,"Зберігати контейнер у зовнішній картонній упаковці","Keep the container in the outer carton",ua_46_19,false,null,null,"null"
+20,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.814,2024-09-20T11:52:26.817,100000073424,3,1,"Цей лікарський засіб не потребує особливих умов зберігання","This medicinal product does not require any special storage conditions",ua_46_20,false,null,null,"null"
+21,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.819,2024-09-20T11:52:26.822,100000073425,3,1,"Цей лікарський засіб не вимагає особливих температурних умов зберігання","This medicinal product does not require any special temperature storage conditions",ua_46_21,false,null,null,"null"
+22,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.824,2024-09-20T11:52:26.829,100000073426,4,1,"для захисту від світла","in order to protect from light",ua_46_22,false,null,null,"null"
+23,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.831,2024-09-20T11:52:26.834,100000073427,4,1,"для захисту від вологи","in order to protect from moisture",ua_46_23,false,null,null,"null"
+24,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.836,2024-09-20T11:52:26.839,100000073428,4,1,"Берегти від морозу","Protect from frost",ua_46_24,false,null,null,"null"
+25,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.842,2024-09-20T11:52:26.844,100000073429,5,1,"Зберігати в оригінальній упаковці","Store in the original container",ua_46_25,false,null,null,"null"
+26,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.847,2024-09-20T11:52:26.849,100000073430,7,1,"Берегти від світла","Protect from light",ua_46_26,false,null,null,"null"
+27,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.851,2024-09-20T11:52:26.854,100000073431,2,1,"Зберігати в сухому місці","Store in a dry place",ua_46_27,false,null,null,"null"
+28,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.856,2024-09-20T11:52:26.859,100000073432,5,1,"Берегти від прямих сонячних променів","Protect from direct sunlight",ua_46_28,false,null,null,"null"
+29,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.861,2024-09-20T11:52:26.863,100000073433,5,1,"Цей ветеринарний лікарський засіб не потребує особливих умов зберігання","This veterinary medicinal product does not require any special storage conditions",ua_46_29,false,null,null,"null"
+30,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.866,2024-09-20T11:52:26.868,100000073434,6,1,"Цей ветеринарний лікарський засіб не потребує особливих температурних умов зберігання","This veterinary medicinal product does not require any special temperature storage conditions",ua_46_30,false,null,null,"null"
+31,1.0,SpecialPrecautionsForStorage,2024-09-20T11:52:26.870,2024-09-20T11:52:26.873,100000151831,4,1,"Зберігати трансдермальний пластир у саше до застосування","Keep the transdermal patch in the sachet until use",ua_46_31,false,null,null,"для нашого застосування трансдермального пластиру відсутні такі умови зберігання"
+32,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не можна повертати у холодильник для подальшого зберігання","null",ua_46_32,true,null,null,"null"
+33,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не використовувати після заморожування","null",ua_46_33,true,null,null,"null"
+34,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі від -15 °c до -5 °c","null",ua_46_34,true,null,null,"null"
+35,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Слід зберігати у складських приміщеннях або під навісами","null",ua_46_35,true,null,null,"null"
+36,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не допускати контакту з маслами","null",ua_46_36,true,null,null,"null"
+37,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Захищати від вторинного рентгенівського випромінювання","null",ua_46_37,true,null,null,"null"
+38,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не зберігати у відкритому стані","null",ua_46_38,true,null,null,"null"
+39,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі від 30 °c до 40 °c","null",ua_46_39,true,null,null,"null"
+40,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі до 40 °c","null",ua_46_40,true,null,null,"null"
+41,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не допускати контакту зі стінками холодильника","null",ua_46_41,true,null,null,"null"
+42,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі до 32 °c","null",ua_46_42,true,null,null,"null"
+43,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі від 0 °c до 5 °c","null",ua_46_43,true,null,null,"null"
+44,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не спалювати","null",ua_46_44,true,null,null,"null"
+45,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не проколювати","null",ua_46_45,true,null,null,"null"
+46,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Не розбирати","null",ua_46_46,true,null,null,"null"
+47,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі 21 °c","null",ua_46_47,true,null,null,"null"
+48,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.588,2025-03-14T11:35:14.588,null,1,1,"*Зберігати при температурі від 5 °c до 30 °c","null",ua_46_48,true,null,null,"null"
+49,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*У разі випадання кристалів флакон нагрівати на водяній бані при температурі від 30 °c до 40 °c","null",ua_46_49,true,null,null,"null"
+50,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*У разі випадання кристалів препарат нагрівати на водяній бані при температурі від 50 °c до 70 °c","null",ua_46_50,true,null,null,"null"
+51,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від -20 °c до -10 °c","null",ua_46_51,true,null,null,"null"
+52,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від 4 °c до 6 °c","null",ua_46_52,true,null,null,"null"
+53,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Захищати від перегрівання","null",ua_46_53,true,null,null,"null"
+54,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі до 35 °c","null",ua_46_54,true,null,null,"null"
+55,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Якщо препарат/розчин не застосовується негайно, за тривалість та умови його зберігання відповідає користувач","null",ua_46_55,true,null,null,"null"
+56,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Подалі від морозильної камери","null",ua_46_56,true,null,null,"null"
+57,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі навколишнього середовища","null",ua_46_57,true,null,null,"null"
+58,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі до 37 °c","null",ua_46_58,true,null,null,"null"
+59,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від -85 °c до -15 °c","null",ua_46_59,true,null,null,"null"
+60,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від -25 °c до -15 °c","null",ua_46_60,true,null,null,"null"
+61,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Призначений для одноразового використання","null",ua_46_61,true,null,null,"null"
+62,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі не вище 18 °c","null",ua_46_62,true,null,null,"null"
+63,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Не використовувати, якщо у розчині наявний осад","null",ua_46_63,true,null,null,"null"
+64,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від 8 °c до 30 °c","null",ua_46_64,true,null,null,"null"
+65,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі 5 °c","null",ua_46_65,true,null,null,"null"
+66,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі не вище 37 °c","null",ua_46_66,true,null,null,"null"
+67,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі 20 °c","null",ua_46_67,true,null,null,"null"
+68,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Захищати від дії високих температур","null",ua_46_68,true,null,null,"null"
+69,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати при температурі від 4 °c до 8 °c","null",ua_46_69,true,null,null,"null"
+70,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Зберігати у темному місці","null",ua_46_70,true,null,null,"null"
+71,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.589,2025-03-14T11:35:14.589,null,1,1,"*Не допускається повторне використання","null",ua_46_71,true,null,null,"null"
+72,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Необхідно дотримуватися асептичних умов","null",ua_46_72,true,null,null,"null"
+73,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Необхідно збовтувати","null",ua_46_73,true,null,null,"null"
+74,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Невикористаний препарат/розчин необхідно знищити","null",ua_46_74,true,null,null,"null"
+75,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Не допускати контакту з морозильним відділенням або накопичувачами холоду","null",ua_46_75,true,null,null,"null"
+76,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Слід вжити заходів обережності для запобігання ударам та падінням","null",ua_46_76,true,null,null,"null"
+77,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати при температурі від –20 °c до +40 °c","null",ua_46_77,true,null,null,"null"
+78,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати в добре провітрюваному приміщенні","null",ua_46_78,true,null,null,"null"
+79,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Не палити","null",ua_46_79,true,null,null,"null"
+80,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати однодозові контейнери у саше","null",ua_46_80,true,null,null,"null"
+81,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Необхідно використати негайно","null",ua_46_81,true,null,null,"null"
+82,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати при температурі 4 °c","null",ua_46_82,true,null,null,"null"
+83,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Під час зберігання можливе випадання осаду","null",ua_46_83,true,null,null,"null"
+84,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Не слід застосовувати після закінчення терміну придатності, вказаного на упаковці","null",ua_46_84,true,null,null,"null"
+85,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Якщо розчин залишається каламутним або якщо містить нерозчинний осад, його слід викинути","null",ua_46_85,true,null,null,"null"
+86,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Його не слід охолоджувати, оскільки при цьому може утворюватись осад","null",ua_46_86,true,null,null,"null"
+87,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*При зберіганні закритих флаконів у холодильнику препарат може випасти в осад","null",ua_46_87,true,null,null,"null"
+88,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати при температурі не вище 8 °c","null",ua_46_88,true,null,null,"null"
+89,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати при температурі не вище 10 °c","null",ua_46_89,true,null,null,"null"
+90,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.590,2025-03-14T11:35:14.590,null,1,1,"*Зберігати при температурі не вище 15 °c","null",ua_46_90,true,null,null,"null"
+91,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі не нижче 15 °c","null",ua_46_91,true,null,null,"null"
+92,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі не вище 20 °c","null",ua_46_92,true,null,null,"null"
+93,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі не вище 21 °c","null",ua_46_93,true,null,null,"null"
+94,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі не вище 50 °c","null",ua_46_94,true,null,null,"null"
+95,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі не нижче 4 °c","null",ua_46_95,true,null,null,"null"
+96,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 15 °c до 25 °c","null",ua_46_96,true,null,null,"null"
+97,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 20 °c до 25 °c","null",ua_46_97,true,null,null,"null"
+98,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 15 °c до 30 °c","null",ua_46_98,true,null,null,"null"
+99,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 4 °c до 30 °c","null",ua_46_99,true,null,null,"null"
+100,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від –50 °c до +50 °c","null",ua_46_100,true,null,null,"null"
+101,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 2 °c до 30 °c","null",ua_46_101,true,null,null,"null"
+102,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 2 °c до 15 °c","null",ua_46_102,true,null,null,"null"
+103,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 2 °c до 25 °c","null",ua_46_103,true,null,null,"null"
+104,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 18 °c до 25 °c","null",ua_46_104,true,null,null,"null"
+105,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 10 °c до 25 °c","null",ua_46_105,true,null,null,"null"
+106,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 8 °c до 25 °c","null",ua_46_106,true,null,null,"null"
+107,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 8 °c до 15 °c","null",ua_46_107,true,null,null,"null"
+108,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі -18 °c","null",ua_46_108,true,null,null,"null"
+109,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі від 4 °c до 12 °c","null",ua_46_109,true,null,null,"null"
+110,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати у недоступному для дітей місці","null",ua_46_110,true,null,null,"null"
+111,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Захищати від вогню","null",ua_46_111,true,null,null,"null"
+112,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Зберігати при температурі навколишнього середовища, але не вище 45 °c","null",ua_46_112,true,null,null,"null"
+113,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.591,2025-03-14T11:35:14.591,null,1,1,"*Не струшувати","null",ua_46_113,true,null,null,"null"
+114,1.0,SpecialPrecautionsForStorage,2025-03-14T11:35:14.592,2025-03-14T11:35:14.592,null,1,1,"*Зберігати окремо від речовин і матеріалів, які виділяють пари і гази","null",ua_46_114,true,null,null,"null"
+115,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*При транспортуванні допускається заморожування лікарського засобу","null",ua_46_115,true,null,null,"null"
+116,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати у прохолодному місці","null",ua_46_116,true,null,null,"null"
+117,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати при температурі не вище 35 °c","null",ua_46_117,true,null,null,"null"
+118,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати у морозильній камері (при температурі від -5 °c до -20 °c)","null",ua_46_118,true,null,null,"null"
+119,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Транспортувати та видавати в замороженому стані (від -85 °c до -15 °c)","null",ua_46_119,true,null,null,"null"
+120,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати у морозильній камері (при температурі від -25 °c до -15 °c)","null",ua_46_120,true,null,null,"null"
+121,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати при температурі не вище 40 °c","null",ua_46_121,true,null,null,"null"
+122,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати при температурі до 4 °c","null",ua_46_122,true,null,null,"null"
+123,1.0,SpecialPrecautionsForStorage,2025-03-14T12:44:48.013,2025-03-14T12:44:48.013,null,1,1,"*Зберігати при температурі -20 °c","null",ua_46_123,true,null,null,"null"
