@@ -1,0 +1,3 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","1.0","MaximumDoseType","2023-10-11T10:17:22.108","2024-09-23T10:36:13.704","100000075985","1","1","На добу","Per day","ua_26_1","false",null,null,null
+"2","1.0","MaximumDoseType","2023-10-11T10:17:22.112","2024-09-23T10:36:13.731","100000075986","1","1","Усього","Total","ua_26_2","false",null,null,null

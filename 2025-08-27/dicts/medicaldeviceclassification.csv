@@ -1,0 +1,5 @@
+no,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","1.0","MedicalDeviceClassification","2023-10-09T18:26:05.869","2024-09-24T16:19:18.626","200000025961","2","1","Клас І","Class I","ua_55_1","false",null,null,null
+"2","1.0","MedicalDeviceClassification","2023-10-09T18:26:05.872","2024-09-24T16:19:18.709","200000025962","2","1","Клас ІІа","Class IIa","ua_55_2","false",null,null,null
+"3","1.0","MedicalDeviceClassification","2023-10-09T18:26:05.874","2024-09-24T16:19:18.715","200000025963","2","1","Клас ІІб","Class IIb","ua_55_3","false",null,null,null
+"4","1.0","MedicalDeviceClassification","2023-10-09T18:26:05.875","2024-09-24T16:19:18.722","200000025964","2","1","Клас III","Class III","ua_55_4","false",null,null,null
