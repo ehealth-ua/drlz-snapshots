@@ -1,0 +1,5 @@
+no,atc,atc_parent,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","null","null","1.0","MedicinalProductGroups","2024-10-27T12:00:00","2024-10-27T12:00:00","1","1","1","ГЛЗ",null,"ua_77_1","false",null,null,null
+"2","null","null","1.0","MedicinalProductGroups","2024-10-27T12:00:00","2024-10-27T12:00:00","2","1","1","Субстанція","Substance","ua_77_2","false",null,null,null
+"3","null","null","1.0","MedicinalProductGroups","2024-10-27T12:00:00","2024-10-27T12:00:00","3","1","1","in bulk","in bulk","ua_77_3","false",null,null,null
+"4","null","null","1.0","MedicinalProductGroups","2024-10-27T12:00:00","2024-10-27T12:00:00","4","1","1","Фасування/пакування з in bulk","Packaging from in bulk","ua_77_4","false",null,null,null

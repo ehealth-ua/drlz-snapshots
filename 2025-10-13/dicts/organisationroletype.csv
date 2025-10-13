@@ -1,0 +1,6 @@
+no,atc,atc_parent,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","null","null","1.0","OrganisationRoleType","2023-10-10T19:25:22.054","2024-09-23T10:26:49.857","200000017729","2","1","Розташування контактної особи","Contact Location","ua_56_1","false",null,null,null
+"2","null","null","1.0","OrganisationRoleType","2023-10-10T19:25:22.077","2024-09-23T10:26:49.886","220000000032","2","1","Орган з регулювання лікарських засобів","Medicines Regulatory Authority","ua_56_2","false",null,null,null
+"3","null","null","1.0","OrganisationRoleType","2023-10-10T19:25:22.079","2024-09-23T10:26:49.889","220000000033","1","1","Виробник","Manufacturer","ua_56_3","false",null,null,null
+"4","null","null","1.0","OrganisationRoleType","2023-10-10T19:25:22.080","2024-09-23T10:26:49.891","220000000034","1","1","Власник торгової ліцензії","Marketing authorisation holder","ua_56_4","false",null,null,null
+"5","null","null","1.0","OrganisationRoleType","2023-10-10T19:25:22.081","2024-09-23T10:26:49.894","220000000035","1","1","Власник мастер файлу","Master File Holder","ua_56_5","false",null,null,null

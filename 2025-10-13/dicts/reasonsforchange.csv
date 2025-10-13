@@ -1,0 +1,10 @@
+no,atc,atc_parent,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","null","null","1.0","ReasonsForChange","null","null","null","null","1","Видано реєстраційне посвідчення","null","ua_62_1","null","null","null","ЛЗ отримав офіційне реєстраційне посвідчення"
+"2","null","null","1.0","ReasonsForChange","null","null","null","null","1","Перереєстрація","null","ua_62_2","null","null","null","ЛЗ був перереєстрований у системі"
+"3","null","null","1.0","ReasonsForChange","null","null","null","null","1","Внесення змін в реєстр","null","ua_62_3","null","null","null","коли були внесені зміни в реєстр лікарських засобів"
+"4","null","null","1.0","ReasonsForChange","null","null","null","null","1","Внесення виправлень (змін) технічного характеру","null","ua_62_4","null","null","null","Коли були внесені технічні виправлення або зміни в системі без впливу на основні характеристики лікарських засобів."
+"5","null","null","1.0","ReasonsForChange","null","null","null","null","1","Оновлення інформації","null","ua_62_5","null","null","null","Коли інформація була оновлена в системі."
+"6","null","null","1.0","ReasonsForChange","null","null","null","null","1","Зміни в правовому регулюванні","null","ua_62_6","null","null","null","Коли відбулися зміни в правовому регулюванні, які стосуються лікарських засобів."
+"7","null","null","1.0","ReasonsForChange","null","null","null","null","1","Коригування помилок","null","ua_62_7","null","null","null","Коли були виявлені та виправлені помилки"
+"8","null","null","1.0","ReasonsForChange","null","null","null","null","1","Оновлення протоколів досліджень","null","ua_62_8","null","null","null","Коли протоколи, що стосуються лікарських засобів, були оновлені."
+"9","null","null","1.0","ReasonsForChange","null","null","null","null","1","---","null","ua_62_9","null","null","null","Ця категорія може використовуватися для випадків, коли зміни були внесені без конкретної визначеної причини."
