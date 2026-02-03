@@ -1,0 +1,4 @@
+no,PK,atc_parent,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","null","null","1.0","Domain","2023-10-11T20:08:15.613","2023-11-14T17:34:19.097","100000000012","7","1","Людське використання","Human use","ua_14_1","false",null,"H",null
+"2","null","null","1.0","Domain","2023-10-11T20:08:15.615","2023-11-14T17:34:19.099","100000000013","8","1","Ветеринарне використання","Veterinary use","ua_14_2","false",null,"V",null
+"3","null","null","1.0","Domain","2023-10-11T20:08:15.616","2023-11-14T17:34:19.101","100000000014","15","1","Людське та ветеринарне використання","Human and Veterinary use","ua_14_3","false",null,"H&V",null

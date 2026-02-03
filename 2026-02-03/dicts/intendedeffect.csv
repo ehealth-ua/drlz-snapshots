@@ -1,0 +1,14 @@
+no,PK,atc_parent,vsn,model,created_on,modified_on,source_term_id,source_vsn,status,item_ua,item_en,item_code,manual,term_short_ua,term_short_en,term_desc
+"1","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.272","2023-11-14T17:34:19.077",null,"1","1","Діагностичне використання","Diagnostic use","ua_16_1","false",null,null,null
+"2","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.276","2023-11-14T17:34:19.079",null,"1","1","Профілактика","Prophylaxis","ua_16_2","false",null,null,null
+"3","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.277","2023-11-14T17:34:19.065",null,"1","1","Паліативний","Palliative","ua_16_3","false",null,null,"Фізичний та психологічний захист від тяжких проявів невиліковних хвороб"
+"4","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.278","2023-11-14T17:34:19.067",null,"1","1","Лікувальний","Curative","ua_16_4","false",null,null,null
+"5","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.279","2023-11-14T17:34:19.069",null,"1","1","Активна імунізація","Active Immunisation","ua_16_5","false",null,null,null
+"6","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.280","2023-11-14T17:34:19.081",null,"1","1","Пасивна імунізація","Passive Immunisation","ua_16_6","false",null,null,null
+"7","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.281","2023-11-14T17:34:19.083",null,"1","1","Первинна імунізація","Primary Immunisation","ua_16_7","false",null,null,null
+"8","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.282","2023-11-14T17:34:19.085",null,"1","1","Підсилювальна імунізація","Booster Immunisation","ua_16_8","false",null,null,null
+"9","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.283","2023-11-14T17:34:19.087",null,"1","1","Допоміжний","Adjunctive","ua_16_9","false",null,null,null
+"10","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.284","2023-11-14T17:34:19.089",null,"1","1","Заміщення","Substitution","ua_16_10","false",null,null,null
+"11","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.286","2023-11-14T17:34:19.071",null,"1","1","Підтримувальний","Supportive","ua_16_11","false",null,null,null
+"12","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.287","2023-11-14T17:34:19.073",null,"1","1","Редукція","Reduction","ua_16_12","false",null,null,"Зменшення симптомів або розмірів хворого органа"
+"13","null","null","1.0","IntendedEffect","2023-10-11T18:49:51.288","2023-11-14T17:34:19.075",null,"1","1","Підтримуюча терапія","Maintenance treatment","ua_16_13","false",null,null,null
